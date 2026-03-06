@@ -7,7 +7,7 @@
 
 {Scene 1 — Beneath the eastern shrine. The briefing. Day one of three.}
 
-[AMBIENT: the laboratory beneath the shrine — now a war room. More lights. More people. God-keeper researchers at workstations. Cables and monitoring equipment surrounding the siphon. The cycling whine of the device constant — a sound the listener will learn to dread. The meridian-thrum audible behind it, strained, like a heartbeat working against a tourniquet] [bed]
+[AMBIENT: the laboratory beneath the shrine — now a war room. More lights. More people. God-keeper researchers at workstations. Cables and monitoring equipment surrounding the siphon. The cycling whine of the device constant — low, mechanical, cycling on a fixed interval. The meridian-thrum audible behind it, strained, like a heartbeat working against a tourniquet] [bed]
 
 [SFX: Kaya — at the central table. Maps of the Meridian network. Diagrams of the siphon's connections. His voice in the briefing register: no pauses, no lecture cadence. Information delivered at speed because there is no time for context] [spot]
 
@@ -41,7 +41,7 @@ MIKA: Don't "Mika" me. If we have three days, I need at least two for evacuation
 
 RUNE: Gas leak. That's — I can coordinate with emergency services. Gas leak protocol for the neighborhoods nearest the shrine, the harbor, the north quarter. All the active sites.
 
-[SFX: bond-harmonic — Ash's frequency. Not the alarm from the harbor attack. Something colder. Older. The god-eater's circuitry fully engaged with the siphon's dissonance. He can feel it drawing. Feel the Meridian thinning. Feel the sacred sites losing pressure the way a patient loses blood] [under]
+[SFX: bond-harmonic — Ash's frequency. Not the alarm from the harbor attack. Something colder. Older. The god-eater's circuitry fully engaged with the siphon's dissonance. He can feel it drawing. Feel the Meridian thinning. Feel the sacred sites losing pressure — hemorrhaging] [under]
 
 ASH: I can map it. The siphon's connections through the Meridian. I can feel where it's drawing from. Which nodes are weakest. Which will fail first.
 
@@ -67,7 +67,7 @@ MIKA: On it. Keep me posted.
 
 [AMBIENT: the cell — the same cell from Kaya's visit. Fluorescent buzz. Sealed concrete. Two chairs. But the air is different. Thessa in one chair. Selin in the other. Not Kaya's grief. Not the old wound. This is the Keeper and the prisoner. A chess match with the city on the board] [bed, crossfade]
 
-[SFX: Thessa — seated. Her posture audible in the way the chair doesn't creak. Still. Formal. The authority of a woman who has held this office through the worst crisis in the order's history and is not finished] [spot]
+[SFX: Thessa — seated. Still. The chair doesn't creak. Her voice formal, clipped] [spot]
 
 [SFX: Selin — across the table. Her voice stripped of the Summoner's distortion. What remains: intelligence, precision, and the careful delivery of a woman who knows she has something they need and is deciding what it costs to give it] [spot]
 
@@ -101,7 +101,9 @@ SELIN: I never installed a timer. Countdown activation was not part of my design
 
 THESSA: Someone modified your work.
 
-SELIN: After my capture. My laboratory was secured, but the Kindling had access before that. One of my followers — I do not know which — understood enough of the design to add a countdown trigger. They wanted to finish what I started. On their schedule. Without the safeguards.
+SELIN: After my capture. My laboratory was secured, but the Kindling had access before that. One of my followers — I do not know which — understood enough of the design to add a countdown trigger. My design drained slowly — decades. Theirs accelerated the extraction rate. Crude. Dangerous. They wanted to finish what I started. On their schedule. Without the safeguards.
+
+THESSA: The security logs show access three days after the solstice. Before we secured the site.
 
 [SFX: the fluorescent buzz — filling the gap. The ugliness of it. The sound of an ideology that outlived its founder] [spot]
 
@@ -117,7 +119,7 @@ SELIN: No. The modifications changed the triggering architecture. I cannot undo 
 
 THESSA: Then what can be done.
 
-[SFX: Selin — the shift. The woman who has been holding something back. Not from malice. From the knowledge that the options are all terrible and giving them a name makes them real] [spot]
+[SFX: Selin — shifting in the chair. A measured breath before speaking] [spot]
 
 SELIN: Three options. Let the siphon run. The drain takes decades. The Meridian thins slowly. The gods die one by one. The seal weakens gradually. You buy time. Generations, perhaps. But the end is the same.
 
@@ -157,7 +159,7 @@ KAYA: Option two. Destroy the siphon. Instant drain. The Meridian collapses. Eve
 
 KAYA: Option three.
 
-[SFX: Kaya's voice — changing. The academic armor cracking. He's looking at Ash. The sentence costs him something visible] [spot]
+[SFX: Kaya's voice — changing. Tighter. The measured cadence faltering] [spot]
 
 KAYA: A god-eater can absorb the siphon's function. Take the drain into yourself instead of the Meridian. The power would flow through you instead of through the network. The Meridian survives. The seal holds. The gods live.
 
@@ -167,13 +169,13 @@ KAYA: But the power involved —
 
 ASH: Would kill me.
 
-[SFX: the sentence. Flat. Ash's voice in the late register but the words have the weight of the archaic. Subject. Verb. Object. The god-eater naming what the professor can't] [spot]
+[DIRECTION: Flat. Subject. Verb. Object. The god-eater naming what the professor can't]
 
 [Beat — 400ms]
 
 RUNE: No.
 
-[SFX: Rune's voice — the word arriving before the thought. Imperative. The paramedic's reflex: when the patient codes, you say no. You say no and you work. You do not accept the monitor's verdict. You do not stop compressions. You say no] [spot]
+[DIRECTION: The word arriving before the thought. The paramedic's reflex: when the patient codes, you say no and you work]
 
 ASH: Rune —
 
@@ -191,9 +193,9 @@ RUNE: Then find them.
 
 RUNE: You have a day. Find something else.
 
-[SFX: Rune — standing. The chair scraping stone. His hands on the table. Not shaking. Never shaking. His jaw locked. The paramedic holding the line between the professional response and the scream underneath it] [spot]
+[SFX: Rune — standing. Chair scraping stone. Hands flat on the table. Jaw locked. Breathing controlled] [spot]
 
-[SFX: Ash — watching Rune. Through the bond: not surprise. Understanding. The god-eater knows the anchor. Knows that "no" is not a denial of the mathematics. It is a refusal to live in a world where the mathematics are the only answer] [spot]
+[DIRECTION: Ash watching Rune. Calm. Unsurprised by the refusal]
 
 [Silence — 1500ms]
 
@@ -233,7 +235,7 @@ MIKA: I'm not saying —
 
 RUNE: I know what you're not saying. And the answer is we find something else.
 
-[SFX: Mika — the pause. The big-sister silence. The one that means she has something to say and is choosing whether to say it to the man or to the brother] [spot]
+[SFX: Mika — a pause. The particular quality of her silence before she decides what to say] [spot]
 
 MIKA: Okay. Then we find something else. But you need to sleep. You look like the before picture in a stress study.
 
@@ -247,19 +249,19 @@ RUNE: He would.
 
 MIKA: I know. That's why it's a credible threat.
 
-[SFX: the radio — crackling. Another update. Another block cleared. The city thinning around the sacred sites, the population withdrawing like blood from a wound, not knowing why. Just following the instructions of a man who can't tell them the truth] [spot]
+[SFX: the radio — crackling. Another update. Another block cleared] [spot]
 
 ---
 
 {Scene 5 — The rooftop. Night. Day two. The argument.}
 
-[AMBIENT: rooftop — night. The same rooftop. The same city below. But different. Quieter. The evacuated neighborhoods dark. The streetlights still on but the windows unlit. A city going hollow at the edges. Wind. The winter cold. The meridian-thrum audible up here — strained, weakening. The sound the audience has learned to read as the city's pulse, and the pulse is dropping] [bed]
+[AMBIENT: rooftop — night. The same rooftop. The same city below. But different. Quieter. The evacuated neighborhoods dark. The streetlights still on but the windows unlit. A city going hollow at the edges. Wind. The winter cold. The meridian-thrum audible up here — strained, weakening. The meridian-thrum — strained, weakening. The city's pulse dropping] [bed]
 
-[SFX: bond-harmonic — wrong. Two frequencies that should be aligned, pulling apart. Not the parasitic drain of the old bond. Something worse. Two people who feel everything the other feels, about to say the unsayable] [under]
+[SFX: bond-harmonic — wrong. Two frequencies that should be aligned, pulling apart. Strained. Discordant] [under]
 
-[SFX: Rune — on the roof. He came up here to breathe. The skyline. The dark windows. The emergency lights in the shelters. His hands on the railing. Cold metal. His breathing visible in the winter air] [spot]
+[SFX: Rune — on the roof. Hands gripping the metal railing. Cold. His breathing slow, controlled, audible in the winter air] [spot]
 
-[SFX: the roof door — opening behind him. Ash. His footsteps. The door closing. The sound of a man who followed the bond to the roof because the bond told him: here. Hurt. Come] [spot]
+[SFX: the roof door — opening behind him. Ash. His footsteps on concrete. The door closing. Heavy. Deliberate] [spot]
 
 [Silence — 1500ms]
 
@@ -275,7 +277,7 @@ ASH: Kaya won't find one.
 
 [Beat — 800ms]
 
-[SFX: the words — landing on the rooftop between them. Not hostile. Not gentle. The flat truth of a man who has been running the numbers through the Meridian for two days and the numbers don't lie. The god-eater, built to understand divine mathematics, delivering the verdict] [spot]
+[DIRECTION: The words landing flat between them. The god-eater delivering a verdict, not an argument]
 
 RUNE: You don't know that.
 
@@ -289,7 +291,7 @@ RUNE: I said stop.
 
 [SFX: Rune — turning. Facing Ash. The full paramedic stance: feet planted, shoulders square, hands at his sides. The posture of a man who is about to fight something that can't be fought with posture. His voice controlled. Clinical. The professional calm that is its own kind of scream] [spot]
 
-[SFX: Ash — across the rooftop. Ten feet of cold air between them. The bandage on his arm. The scar behind his ear. The man who burned the eggs and flooded the bathroom and laughed in a field of wildflowers yesterday. Standing on a rooftop discussing his own death the way he discusses everything that matters: plainly] [spot]
+[DIRECTION: Ash: calm, plain, discussing his own death without affect]
 
 ASH: The slow drain gives you decades. The Meridian weakens. The gods fade. But the seal holds long enough for — I don't know. Something. A generation of scholars working the problem. A new god-eater. A technology that doesn't exist yet.
 
@@ -307,7 +309,7 @@ ASH: The First Root wakes. You've read the texts. Kaya showed you. The First Roo
 
 [Silence — 2500ms]
 
-RUNE (inner monologue): He's calm. That's the worst part. Not the words — the words are terrible, but I can fight words. I can argue with words. What I can't fight is the calm. The stillness in his voice. The steadiness. He sounds the way he sounded the night of the vow — certain. Decided. The calm of a man who has already made the choice and is waiting for the world to catch up.
+RUNE (inner monologue): He's calm. That's the worst part. Not the words — the words are terrible, but I can fight words. I can argue with words. What I can't fight is the calm. The stillness in his voice. The steadiness. He sounds like the night of the vow — certain. Decided. The calm of a man who has already made the choice and is waiting for the world to catch up.
 
 [SFX: Ash — stepping closer. Not all the way. Closing half the distance. His voice dropping. The late register at its quietest. The voice he uses for things that matter too much to say loudly] [spot]
 
@@ -323,7 +325,7 @@ ASH: It's the only option that doesn't kill thousands of —
 
 RUNE: I don't care.
 
-[SFX: the words — out. Before Rune can catch them. The ugly truth. The selfish truth. The truth of a man who has spent his entire adult life caring about everyone and has found the limit. The bond carries the confession across the rooftop like a shockwave] [spot]
+[SFX: the words — out before Rune can catch them. The bond-harmonic spiking. A raw, involuntary transmission across the rooftop] [spot]
 
 [Beat — 400ms]
 
@@ -345,21 +347,25 @@ RUNE: You think I want to survive that?
 
 [Silence — 5000ms]
 
-[SFX: the rooftop. The wind. The city. Two people standing in the dark. The bond-harmonic between them carrying everything — his certainty, Rune's refusal, the love underneath both that makes the argument possible and the argument unbearable. The harmonic is not steady. It stutters. Two hearts out of sync for the first time since the vow. Not because the circuit is broken. Because the circuit is carrying too much] [under]
+[SFX: the rooftop. Wind. The bond-harmonic stuttering — unsteady for the first time since the vow. Two frequencies pulling against each other. The circuit carrying too much] [under]
 
 RUNE (inner monologue): He asks me to survive him. He says it like it's a gift. Like the vow dissolving and the bond going silent and his heartbeat disappearing from my chest is something I should want because it means I'm alive. And I stand on this roof and I look at him — the bandage on his arm, the scar behind his ear, the man who can't cook and loves the cello and reads medical textbooks to understand how I think — and I know. I know with the same certainty I've always known when a patient is going to make it or isn't. I know in my hands, in my chest, in the part of me that has been his since the night I touched him in the ashes and the lock turned.
 
 [Beat — 400ms]
 
-RUNE (inner monologue): I would not survive it. The body would. The heart would keep its hundred thousand contractions a day. The lungs would fill and empty. The hands would not shake. But the man who lives inside those systems — the one who wakes up reaching for the warmth beside him and falls asleep to a heartbeat that isn't his own — that man is gone the moment the bond goes silent. That's not survival. That's a body with the lights on and nobody home.
+RUNE (inner monologue): He says it like he knows. Like the lore is settled. But the vow is a circuit — bidirectional, symbiotic. Kaya never said what happens to the anchor if the circuit breaks. Neither did Sable. Ash is guessing. He's guessing and calling it certainty because certainty makes the sacrifice cleaner.
 
-[SFX: Ash — waiting. On the rooftop. In the dark. His breathing visible. His eyes on Rune. Through the bond: not challenge. Not argument. Grief. The preemptive grief of a man who has already started mourning the life he chose and might have to give back] [spot]
+RUNE (inner monologue): And even if he's right — even if the anchor holds and the body survives — I would not survive it. The body would. The heart would keep its hundred thousand contractions a day. The lungs would fill and empty. The hands would not shake. But the man who lives inside those systems — the one who wakes up reaching for the warmth beside him and falls asleep to a heartbeat that isn't his own — that man is gone the moment the bond goes silent. That's not survival. That's a body with the lights on and nobody home.
+
+[SFX: Ash — waiting. His breathing audible in the cold. Through the bond: grief. Preemptive. Heavy] [spot]
 
 [Silence — 2500ms]
 
-[SFX: Rune — no words. The silence. The answer that is not an answer. The rooftop and the wind and the city going dark and two people who love each other standing ten feet apart because if they touch right now the argument ends and nothing is resolved and the siphon keeps counting. The worst silence in the series. Not the absence of sound. The presence of everything that can't be said] [bed]
+[DIRECTION: Rune says nothing. Ten feet apart. If they touch, the argument ends and nothing is resolved and the siphon keeps counting]
 
-[SFX: bond-harmonic — raw. Unfiltered. Carrying the full weight of both of them. His willingness. Rune's refusal. The love that makes both positions absolute. The circuit holding what the people can't. Two heartbeats, offset, the rhythm wrong for the first time. Not broken. Just bearing a load it was never designed for] [under]
+[SFX: wind. The siphon's distant cycling, faint. No one moving. No one speaking] [bed]
+
+[SFX: bond-harmonic — raw. Unfiltered. Two heartbeats offset, the rhythm wrong. The circuit bearing a load it was never designed for] [under]
 
 [Silence — 5000ms]
 

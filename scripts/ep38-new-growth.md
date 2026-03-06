@@ -7,23 +7,23 @@
 
 {Scene 1 — The city. Three weeks later. Morning.}
 
-[AMBIENT: the city — morning. Rush hour. Traffic, pedestrians, a dog barking, a bus hydraulic brake hissing. But underneath the ordinary: the meridian-thrum. Not strained. Not weak. Steady. The audience has heard this sound for thirty-seven episodes and it has never sounded like this. Healthy. Like a resting heartrate after years of tachycardia. The city, settling] [bed]
+[AMBIENT: the city — morning. Rush hour. Traffic, pedestrians, a dog barking, a bus hydraulic brake hissing. But underneath the ordinary: the meridian-thrum. Not strained. Not weak. Steady. It has never sounded like this. Healthy. Like a resting heartrate after years of tachycardia. The city, settling] [bed]
 
 RUNE (inner monologue): Three weeks since the undercrypt. Three weeks since the pain crested and broke and the dawn came through the ceiling and I could feel everything. I still can.
 
 [Beat — 400ms]
 
-RUNE (inner monologue): The harbor node is stable. I feel it the way I used to feel my own pulse — background, constant, unremarkable until it isn't. The north quarter's new god is growing. Slow. Patient. The wildflowers have pushed another twenty feet. Bees in January. The neighborhood association has stopped complaining and started selling honey.
+RUNE (inner monologue): The harbor node is stable — background, constant, unremarkable until it isn't. Like my own pulse. The north quarter's new god is growing. Slow. Patient. The wildflowers have pushed another twenty feet. Bees in January. The neighborhood association has stopped complaining and started selling honey.
 
-[SFX: Rune — walking. Morning commute. His boots on pavement. His EMT jacket zipped against the cold. Coffee in hand. The city around him alive and ordinary and held together by a network running through his chest] [spot]
+[SFX: Rune — walking. Boots on pavement. EMT jacket zipping against the cold. Coffee in hand. Morning commute] [spot]
 
-RUNE (inner monologue): The south quarter library site has groundcover where there was rubble. Nothing supernatural. Just rain and seed and soil remembering what it was supposed to do. Sable visits twice a week. Stands in the new green and talks to the sleeping roots. I feel it through the Meridian when they do — a warmth at the south quarter node, gentle, the divine equivalent of someone humming in a garden.
+RUNE (inner monologue): The south quarter library site has groundcover where there was rubble. Nothing supernatural. Just rain and seed and soil remembering what it was supposed to do. Sable visits twice a week. Stands in the new green and talks to the sleeping roots. the south quarter node warms when they do, gentle, the divine equivalent of someone humming in a garden.
 
 [Beat — 400ms]
 
-[SFX: bond-harmonic — the new normal. Wide. Carrying the network. But underneath: Ash. Specific. His frequency woven through the Meridian's broader hum. He is two miles away, at the eastern shrine, running the morning diagnostic. Rune feels him the way he feels his own left hand — present without effort] [under]
+[SFX: bond-harmonic — the new normal. Wide. Carrying the network. But underneath: Ash. Specific. His frequency woven through the Meridian's broader hum. Present without effort] [under]
 
-RUNE (inner monologue): I'm stronger. Not in the dramatic way — nobody's going to cast me in anything. But the fatigue that lived behind my eyes for months is gone. The bond feeds as much as it takes. The circuit runs clean. I sleep seven hours and wake up without the alarm and the first thing I feel is him, awake already, his hands on stone somewhere, the god-eater doing his rounds.
+RUNE (inner monologue): I'm stronger. Not in the dramatic way — nobody's going to cast me in anything. But the fatigue that lived behind my eyes for months is gone. The bond feeds as much as it takes. The circuit runs clean. I sleep seven hours and wake up without the alarm and the first thing is him, awake already, his hands on stone somewhere, the god-eater doing his rounds.
 
 [SFX: Rune's phone — buzzing. A text. He checks without breaking stride] [spot]
 
@@ -39,7 +39,7 @@ RUNE (inner monologue): She means it.
 
 [AMBIENT: subway tunnel — closed to traffic. Emergency lighting. The echo of a tiled tube. Radio chatter from Mika's channel. Somewhere ahead: a hum that doesn't belong underground. The Meridian bleeding through a cracked node. Not dangerous. Annoying. Divine energy manifesting as a warm spot on the tunnel wall that makes the tile glow faintly blue. The commuters saw it. Social media is calling it bioluminescent mold] [bed, crossfade]
 
-[SFX: Mika — in the tunnel. Hi-vis vest. Clipboard. Radio on her shoulder. Directing a two-person maintenance crew and three confused transit workers who were told this was a "thermal anomaly from a burst steam pipe." Her voice: the Mika register. Clipped. Warm. Unflappable. The woman who handles divine infrastructure leaks the way she handles a four-car pileup — assess, contain, direct, debrief] [spot]
+[SFX: Mika — in the tunnel. Clipboard. Radio on her shoulder. Directing a maintenance crew and confused transit workers. Her voice clipped, warm, unflappable] [spot]
 
 MIKA: Okay. The warm spot is non-toxic, non-hazardous, and will dissipate on its own within forty-eight hours. What I need from you is a perimeter. Tape off this section. Divert foot traffic through the C-level corridor. And if anyone from the press asks, it's a steam pipe and we're waiting on a city inspector.
 
@@ -51,7 +51,7 @@ TRANSIT WORKER: They do?
 
 MIKA: They do today.
 
-[SFX: the transit worker — the pause of a man who is being told something that is obviously not true by a woman whose tone makes it impossible to argue. He moves. Tape comes out. The perimeter established. Mika, turning to her radio] [spot]
+[SFX: the transit worker — a beat of silence. Then: tape peeling off a roll. The perimeter going up. Mika turning to her radio] [spot]
 
 MIKA: Kaya. The leak is contained. Tile is warm to the touch, blue glow, no structural damage. Looks like the node is venting pressure from the circuit expansion. Normal?
 
@@ -69,7 +69,7 @@ MIKA: And a divine energy leak in a subway tunnel is scientifically what, exactl
 
 KAYA: Bioluminescent mold is acceptable.
 
-[SFX: Mika — clicking off the radio. The satisfaction of a woman who has added "divine infrastructure liaison" to her resume without telling anyone and is better at it than the god-keepers will ever admit] [spot]
+[SFX: Mika — clicking off the radio. A small, satisfied exhale] [spot]
 
 ---
 
@@ -77,7 +77,7 @@ KAYA: Bioluminescent mold is acceptable.
 
 [AMBIENT: lecture hall — mid-size university room. The wooden creak of old seats. Students rustling papers. A projector humming. The particular acoustic of a room built to carry one voice to many ears. Outside the window: wind. The campus settling into the afternoon] [bed, crossfade]
 
-[SFX: Kaya — at the podium. His voice in the lecture register: measured, precise, the strategic pauses restored. But different. The students don't know what changed. The cadence is the same. The content is the same — comparative mythology, divine ecosystems, the old gods as ecological metaphor. But there is something underneath the words that wasn't there before. Weight. The weight of a man who is no longer teaching theory] [spot]
+[SFX: Kaya — at the podium. His voice measured, precise, the strategic pauses restored. But with more weight underneath. The cadence of a man no longer teaching theory] [spot]
 
 KAYA: The Meridian model suggests that sacred sites functioned not as isolated temples but as nodes in a living network. Each site sustained the others. The failure of one stressed the remainder. The system was not hierarchical — it was symbiotic. The central node was not a king. It was a heart.
 
@@ -89,7 +89,9 @@ STUDENT: Professor Kaya. If the system was symbiotic, what happened when the sit
 
 KAYA: An excellent question. The texts suggest that the network did adapt — slowly, imperfectly, with significant cost to the remaining nodes. But the adaptation required a catalyst. Something to close the gap between the damaged system and its new configuration. The old texts call this catalyst a circuit-closer. A living bridge between what the network was and what it needed to become.
 
-[SFX: the lecture hall — quiet. Students writing. The projector humming. Kaya at the podium, teaching the story of what happened three weeks ago in the undercrypt to a room of people who think it's mythology. His voice: even. Controlled. The old Kaya. But his hands on the podium are gripping the wood and the knuckles are white and the mythology is not mythology and the students' questions are better than they know] [spot]
+[SFX: the lecture hall — quiet. Students writing. The projector humming. Kaya's hands gripping the podium. His voice even, controlled] [spot]
+
+[DIRECTION: He is teaching the story of what happened three weeks ago to a room of people who think it's mythology. The students' questions are better than they know]
 
 STUDENT: What happened to the circuit-closer? After the network stabilized?
 
@@ -101,7 +103,7 @@ KAYA: They lived. The texts are clear on that. They lived, and the network lived
 
 KAYA: It is, in its way, the most hopeful model in comparative mythology. A system that saved itself not through power but through connection.
 
-[SFX: the lecture hall — a pen dropping. Someone coughing. The ordinary sounds of education continuing. Kaya clearing his throat. Moving to the next slide. The projector clicking. The myth continuing, real and alive and sitting in a classroom it has no business being in] [spot]
+[SFX: a pen dropping. Someone coughing. Kaya clearing his throat. The projector clicking to the next slide] [spot]
 
 ---
 
@@ -109,21 +111,21 @@ KAYA: It is, in its way, the most hopeful model in comparative mythology. A syst
 
 [AMBIENT: the cell — the same cell. Fluorescent buzz. Sealed concrete. Two chairs. The acoustic of a room designed to contain. But the air is different today. Ash is different. The god-eater who last visited this facility was mapping a siphon under duress. The man who enters now is carrying the Meridian in his chest and it hums in the room like a third voice] [bed, crossfade]
 
-[SFX: the door — opening. Ash entering. His footsteps steady. The guard's footsteps retreating. The door closing. The lock engaging. Two people in a concrete room with nothing between them but the history that put them here] [spot]
+[SFX: the door — opening. Ash entering. Steady footsteps. The guard retreating. Door closing. Lock engaging] [spot]
 
-[SFX: Selin — seated. The sound of a woman who has been sitting in this chair for weeks. Her breathing measured. Her posture audible in the way the chair doesn't creak — she holds herself the way Thessa holds herself. Trained. Formal. Even in captivity] [spot]
+[SFX: Selin — seated. Chair still, no creak. Measured breathing. The held posture of someone trained to be formal even in captivity] [spot]
 
 [Silence — 2500ms]
 
 ASH: I came once. I won't come again.
 
-SELIN: I expected that.
+[Silence — 1500ms]
 
-[Beat — 800ms]
+[SFX: Selin — no response. Her breathing unchanged. The chair still. The silence of a woman who has decided not to speak] [spot]
 
 ASH: I don't forgive you. You found me sealed under stone and you broke the seal without knowing what I wanted. You chose Rune as my anchor without his consent. You built a weapon and called it a mercy and the mercy had a timer someone else installed because the ideology you built outlived the cage you put it in.
 
-[SFX: the words — delivered flat. Not hostile. Not gentle. The late register at its most precise. Each sentence a stone placed on a scale. The god-eater settling accounts] [spot]
+[SFX: the words — delivered flat. The late register at its most precise. Each sentence measured] [spot]
 
 [Beat — 400ms]
 
@@ -133,11 +135,15 @@ ASH: But I understand the grief that drove you. Thirty years watching the gods d
 
 ASH: The logic was sound. The cost was everyone else's.
 
-[SFX: Selin — the silence. Long. The sound of a woman hearing herself described with accuracy by the weapon she built. Her breathing unchanged. Her posture unchanged. But something in the room shifting — the air, the frequency, the unnameable quality that changes when a truth lands and the person it hits doesn't flinch because they already knew] [spot]
+[SFX: Selin — still nothing. Her breathing unchanged. The fluorescent buzz filling the gap where a response should be] [spot]
 
-SELIN: And you. What are you now.
+[Beat — 800ms]
 
-ASH: I am the circuit. Rune and I hold the Meridian. The siphon you built runs through us. The seal you wanted to break is reinforced by the bond you designed to be a leash.
+ASH: You made me. I don't forgive you. But I understand the grief that drove you.
+
+[Silence — 1500ms]
+
+ASH: I am the circuit now. Rune and I hold the Meridian. The siphon you built runs through us. The seal you wanted to break is reinforced by the bond you designed to be a leash.
 
 [Beat — 400ms]
 
@@ -145,21 +151,13 @@ ASH: I'm also the man who can't cook and reads too many books and is learning th
 
 [Silence — 2500ms]
 
-[SFX: Selin — the breath. Small. The sound the audience has never heard from her: the armor dropping for half a sentence. Not a crack. A window. Brief. Closed as quickly as it opened] [spot]
+[SFX: Selin — a small breath. The only sound she makes. Then the rasp of a pen being picked up from the table] [spot]
 
-SELIN: I will write what I know. Everything. The old rites, the Meridian's structure, the god-eater records. The anchors who came before. Their names.
+[SFX: Ash — standing. Chair scraping concrete. His footsteps toward the door. The Meridian humming faintly through him, audible in the small room] [spot]
 
-[Beat — 800ms]
+ASH: The anchors who came before me. Twelve of them. Write their names.
 
-ASH: Their names.
-
-SELIN: Twelve attempts over three millennia. Twelve anchors. Most did not survive. The records name them. The god-keepers never told their families.
-
-[SFX: Ash — standing. The chair scraping concrete. The conversation over. Not because there is nothing left to say but because what remains is written, not spoken. The god-eater turning toward the door. The Meridian humming through him, audible in the room, the network's heartbeat carried in his body. The woman who made him hearing it] [spot]
-
-ASH: Write their names.
-
-[SFX: the door — opening. Ash leaving. The lock re-engaging. Selin alone in the fluorescent buzz. And the sound — barely audible, almost lost under the hum of the lights — of a pen being uncapped. Writing beginning] [spot]
+[SFX: the door — opening. Ash leaving. The lock re-engaging. Selin alone in the fluorescent buzz. And then: pen on paper. Steady. Continuous. Writing beginning] [spot]
 
 ---
 
@@ -169,7 +167,7 @@ ASH: Write their names.
 
 [SFX: bond-harmonic — the evening frequency. Settled. Low. The circuit at rest. The Meridian pulsing gently through both of them. The city outside, held] [under]
 
-[SFX: Rune — on the couch. Papers in his hands. Kaya delivered them an hour ago. Selin's record — the first pages. Handwritten. Dense. Academic. And at the back: a list. Twelve names. Dates spanning three thousand years. Notations beside each. "Anchor. Duration of bond. Cause of failure."] [spot]
+[SFX: Rune — on the couch. Papers in his hands. Pages turning. Dense handwriting. At the back: a list] [spot]
 
 RUNE (inner monologue): Twelve names. Three thousand years of people who stood where I stand. Who held the chain. Who felt the bond lock and the weight settle and the world ask them to carry something no one should carry.
 
@@ -177,9 +175,9 @@ RUNE (inner monologue): Twelve names. Three thousand years of people who stood w
 
 RUNE (inner monologue): Tehanu. Bond duration: eleven months. Cause of failure: parasitic drain. Kadir. Bond duration: three months. Cause of failure: god-eater consumed by the hunger. No anchor could survive the feeding. Esen. Bond duration: fourteen months. The longest. Cause of failure: anchor chose to sever the bond to save the god-eater. The god-eater went feral. Both died.
 
-[SFX: the pages — turning. Rune's breathing steady. Not clinical. Slow. The breathing of a man reading a list of the dead and giving each one the weight of their name] [spot]
+[SFX: the pages — turning. Rune's breathing slow, steady] [spot]
 
-RUNE (inner monologue): Twelve people. Their families never told. The god-keepers recorded the failures and filed them and moved on to the next attempt. Three thousand years of people fed to a system that wasn't ready and a bond that hadn't learned to be anything other than a drain.
+RUNE (inner monologue): Twelve people. Their families never told. The god-keepers recorded the failures and filed them and moved on to the next attempt. Three thousand years of people fed to a system that predated them by a millennium — a bond that hadn't learned to be anything other than a drain.
 
 [Beat — 800ms]
 
@@ -187,15 +185,27 @@ RUNE (inner monologue): I survived because of the vow. Because Ash chose. Becaus
 
 [Silence — 2500ms]
 
-[SFX: Ash — entering from the kitchen. Two mugs. His footsteps. The ceramic sound of tea being placed on the table. He sits beside Rune on the couch. Close. His shoulder against Rune's. He has seen the papers. He can feel Rune's weight through the bond. He doesn't ask what Rune is reading. He doesn't need to] [spot]
+[SFX: Ash — entering from the kitchen. Footsteps. Two mugs set on the table, ceramic on wood. He sits beside Rune. Close. Shoulder against shoulder. No words] [spot]
 
 [Silence — 1500ms]
 
-[SFX: Rune — setting the papers down. Face-down. On the coffee table. His hand on the stack. Flat. Holding them there. Then his hand lifting. Reaching for the tea. The mug warm. The living room warm. Ash warm beside him. The radiator ticking. The star charts above them] [spot]
+[SFX: Rune — setting the papers face-down on the coffee table. A pause. Then reaching for the tea. The mug warm in his hands. The radiator ticking] [spot]
 
 RUNE (inner monologue): Kaya will contact the families. Twelve conversations that should have happened decades or centuries ago. I asked to be there. Kaya said no. He said it was the god-keepers' debt and the god-keepers would pay it. Thessa agreed. Her voice, when she read the list, went quiet in a way I've never heard. Not the cold authority. Something underneath it. The Keeper, reckoning with what her order did in the name of preservation.
 
 [Beat — 400ms]
+
+RUNE: Ash. If one of us is hurt — if one anchor goes down — what happens to the circuit.
+
+[Beat — 400ms]
+
+ASH: Kaya tested it. The circuit has redundancy. If one anchor is compromised, the other carries the load temporarily. Not forever. But long enough.
+
+RUNE: Long enough.
+
+ASH: Long enough to fix it.
+
+[Silence — 1500ms]
 
 RUNE (inner monologue): I don't say the names aloud. I don't need to. I read them and they are in me now, the way the Meridian is in me. Weight I carry. Weight that doesn't break me because I'm not carrying it alone.
 
@@ -205,19 +215,21 @@ RUNE (inner monologue): I don't say the names aloud. I don't need to. I read the
 
 [AMBIENT: apartment — late. The street below empty. The radiator off. The quiet of a home at rest. Ash's plant casting a shadow on the wall from the streetlight outside. The star charts on the ceiling catching the same light — faint constellations above the couch, hand-drawn, labeled in a dead language with English translations in parentheses] [bed, crossfade]
 
-[SFX: the couch — two people. The fabric shifting. Rune reading. Ash's head in Rune's lap. The position they've found over weeks of evenings: Rune upright, book in one hand, the other hand in Ash's hair. Ash horizontal, eyes closed, the bond carrying the Meridian's evening pulse through both of them like a lullaby neither asked for] [spot]
+[SFX: the couch — fabric shifting. A book page turning. Slow breathing. The settled quiet of every evening for weeks] [spot]
 
-[SFX: bond-harmonic — the quietest the audience has heard it. Not because it's weak. Because it's settled. The circuit running at rest. The sacred sites stable. The seal holding. The new god growing. The city asleep above them, held together by a network that runs on two people on a couch who don't think about it the way they don't think about breathing] [under]
+[SFX: bond-harmonic — the quietest it has been. Settled. The circuit at rest. Sacred sites stable. The seal holding. A low, steady pulse] [under]
 
-[SFX: the Meridian — and then, beneath it. Deep. Far. A single pulse that doesn't belong to any sacred site. Vast. Slow. The audience has felt this once before — the First Root. The sleeping god beneath everything. Not stirring. Not threatening. Aware. The way a deep sleeper is aware of the weight of a blanket. The seal pressing down. The circuit holding the seal. The sleeping thing dreaming underneath, knowing it is watched, not caring. Patient in a way that predates patience] [under]
+[SFX: beneath the Meridian — a single vast pulse. Deep. Slow. The First Root. Not stirring, not threatening. Patient. Indifferent. The seal pressing down on it, heavy and steady] [under]
 
-[SFX: Rune — the breath. Catching. His hand pausing in Ash's hair. The pulse registering through the bond. Through the Meridian. Through the seal. A presence so vast it doesn't fit in the word "presence." Like standing at the edge of an ocean in the dark and knowing the water is there because of the sound and the cold and the pull] [spot]
+[SFX: Rune — a caught breath. His hand pausing in Ash's hair. Stillness] [spot]
+
+RUNE (inner monologue): Like standing at the edge of an ocean in the dark and knowing the water is there because of the sound and the cold and the pull.
 
 [Beat — 800ms]
 
 ASH: I feel it too.
 
-[SFX: Ash — his voice low. Not alarmed. The murmur of a man who is lying in his partner's lap and simultaneously monitoring a prison at the bottom of the world. Both things true. Both things ordinary, now] [spot]
+[SFX: Ash — his voice low. Calm. A murmur, not an alarm] [spot]
 
 ASH: The seal holds. But what's underneath is real.
 
@@ -229,7 +241,7 @@ RUNE (inner monologue): Real. The word sits in the living room like a dropped gl
 
 RUNE (inner monologue): For now. For years. Maybe for centuries. But it is real, and it is there, and someday someone will stand where I stand and feel what I feel and make the choice I made. Not today. Not for a long time. But the thread is there, tucked into the dark, and knowing it's there is the price of holding the circuit. You don't get to forget what you're sitting on.
 
-[SFX: Ash — settling. His head turning in Rune's lap. His face pressing against Rune's stomach. The gesture of a man who has felt the ancient presence and assessed it and filed it and returned to the more pressing matter of being comfortable] [spot]
+[SFX: Ash — settling. Shifting in Rune's lap. Fabric rustling. A slow exhale. Comfortable] [spot]
 
 [Silence — 1500ms]
 
@@ -243,7 +255,7 @@ RUNE: I never asked. Your real name. Before.
 
 [Silence — 2500ms]
 
-[SFX: Ash — going still. Not the combat stillness. Not the ritual stillness. The stillness of a man who has been waiting for this question and has rehearsed the answer and is deciding whether the rehearsal holds. His hand finding Rune's. Their fingers threading together. The bond carrying the contact as doubled sensation — his hand in Rune's, Rune's hand in his, the circuit amplifying the warmth] [spot]
+[SFX: Ash — going still. His hand finding Rune's. Fingers threading together. A long breath held, then released] [spot]
 
 ASH: I remember it now. All of it.
 
@@ -253,7 +265,7 @@ RUNE: Do you want to tell me?
 
 ASH: Someday. When the last scar fades.
 
-[SFX: Rune — the breath. The question landing. The answer not a refusal. A promise with a condition. The kind of answer Ash gives when the truth is too large for the room and he needs to give it a door it can walk through at its own pace] [spot]
+[SFX: Rune — a soft breath. The answer landing. A moment of quiet between them] [spot]
 
 RUNE: And if it doesn't?
 
@@ -261,9 +273,9 @@ RUNE: And if it doesn't?
 
 ASH: Then I'm Ash. And that's enough.
 
-[SFX: bond-harmonic — the last note. The gentlest frequency the circuit has produced. Not two tones merging. Not the battle roar or the crisis spike or the golden blaze of the ritual. Just the hum. The steady, warm, carried-in-the-chest hum of two people on a couch in an apartment in a city that almost ended. His heartbeat in Rune's chest. Rune's heartbeat in his. The Meridian underneath. The gods sleeping. The new one growing. The seal holding. The names of the twelve on the coffee table, face-down, honored. The star charts on the ceiling. The plant on the windowsill. The two mugs in the sink. The warmth of his head in my lap and my hand in his hair and the question that doesn't need an answer because the answer is here, in this room, in this name, in this life he chose] [under]
+[SFX: bond-harmonic — the gentlest frequency the circuit has produced. Just the hum. Steady, warm, low. The Meridian underneath, the seal holding. Rest] [under]
 
-RUNE (inner monologue): Ash. The name he gave himself the night I found him in the ashes. The name that stuck. The name I say when I wake up and the name I hear through the bond before I sleep and the name that means: I chose this. Not the temple. Not the god. Not the thousand years. This.
+RUNE (inner monologue): Ash. The name he gave himself the night I found him in the ashes. The name that stuck. The name I say when I wake up and the name I hear before I sleep and the name that means: I chose this. This kitchen. This city. This life.
 
 [Beat — 400ms]
 
@@ -271,6 +283,6 @@ RUNE (inner monologue): It's enough.
 
 [Silence — 5000ms]
 
-[SFX: the apartment — night. The city outside. A distant siren — not for them. The meridian-thrum, steady, held, carrying the weight of every sacred site through two people who are done talking and are just here, in the quiet, in the dark, in the home they built from an obligation that became a choice that became a life. The bond hums. The city sleeps. The ground holds] [bed, fade-out]
+[SFX: the apartment — night. A distant siren outside. The meridian-thrum steady underneath. The bond hums. The city sleeps. The ground holds] [bed, fade-out]
 
 ---

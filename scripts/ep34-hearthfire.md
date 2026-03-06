@@ -17,7 +17,7 @@ RUNE (inner monologue): Wednesday. Day off. My first in — I stopped counting. 
 
 [Beat — 800ms]
 
-RUNE (inner monologue): The bandage on his arm needs changing. I'll do it when he wakes up. The wound is closing clean — no infection, good tissue approximation. He heals fast. Not god-fast. Human-fast. The good end of human-fast. I check it through the bond sometimes, the way I used to check vitals on a monitor. His body, reporting in. Temperature high but stable. Heart rate slow but steady. The bullet graze itching, which means it's healing. All systems normal. All systems his.
+RUNE (inner monologue): The bandage on his arm needs changing. I'll do it when he wakes up. The wound is closing clean — no infection, good tissue approximation. He heals fast. Not god-fast. Human-fast. The good end of human-fast. I check his vitals sometimes — a habit from the monitor. His body, reporting in. Temperature high but stable. Heart rate slow but steady. The bullet graze itching, which means it's healing. All systems normal. All systems his.
 
 [SFX: Ash — stirring. The shift of a body surfacing from deep sleep. His arm tightening across Rune's chest before relaxing. His breathing changing register. The murmur of someone not ready to be awake and negotiating with consciousness] [spot]
 
@@ -49,7 +49,7 @@ RUNE: I'll call Mika.
 
 ASH: I can —
 
-RUNE: You burned water last week, Ash.
+RUNE: You set the smoke alarm off making rice last week, Ash.
 
 ASH: It was an experiment.
 
@@ -67,13 +67,13 @@ ASH: The results were informative.
 
 [SFX: the chain-link fence — Ash pushing it aside. The familiar gesture. The blanket under his good arm. Rune behind him with a bag — Mika's food, packed in containers with labels because Mika does not trust Ash not to eat the dessert first. She is correct] [spot]
 
-[SFX: bond-harmonic — the field frequency. Deeper than the apartment. The new node's pulse weaving into the circuit the way it did on their first visit, but steadier now. The god beneath the wildflowers recognizing the god-eater and the anchor. Hello again. Welcome back] [under]
+[SFX: bond-harmonic — the field frequency. Deeper than the apartment. The new node's pulse weaving into the circuit, steadier than their first visit. A welcoming hum] [under]
 
 RUNE (inner monologue): The field is bigger. The flowers have pushed another ten feet in every direction, cracking the asphalt at the lot's edges, climbing the base of the chain-link fence. Purple and yellow and white. Some I recognize — clover, wild aster. Others I don't. Others that might not have names yet because they haven't existed before. The new node grows and the flowers grow with it and the bees are here, in December, because divinity doesn't check the seasonal calendar.
 
 [SFX: the blanket — unfolded. Laid on the ground between the flowers. A domestic sound in a sacred space. The crinkle of fabric on earth] [spot]
 
-[SFX: Ash — sitting. Cross-legged. His face tipped up. Sun on his skin. The bandage on his arm visible beneath his rolled sleeve. He doesn't wince. He doesn't favor it. He sits in the wildflowers and the flowers lean toward him and he lets them] [spot]
+[SFX: Ash — sitting down. Cross-legged. A long exhale — the sound of someone settling in and letting the warmth find him. Flowers rustling as they lean closer] [spot]
 
 [Beat — 800ms]
 
@@ -111,7 +111,7 @@ ASH: The label says "main." I am the main person here.
 
 [Beat — 800ms]
 
-[SFX: the field — settling around them. The bees. The flowers. The meridian-thrum low and constant. The sound environment of two people eating lunch on a blanket in a field that shouldn't exist, surrounded by divinity and clover and Mika's labeled containers] [bed]
+[SFX: the field — settling around them. Bees. Flowers. The meridian-thrum low and constant. Lunch on a blanket in a field that shouldn't exist, surrounded by clover and Mika's labeled containers] [bed]
 
 RUNE: Tell me about the cello.
 
@@ -119,7 +119,7 @@ ASH: What about it.
 
 RUNE: You played that recording for two hours yesterday. The same piece. I could hear it through the bond before I heard it through the wall.
 
-[SFX: Ash — setting down the food. His posture changing. The stillness of someone about to talk about something that matters and not entirely sure why it matters] [spot]
+[SFX: Ash — setting down the food. A container placed carefully on the blanket. His breathing slowing — the stillness before something that matters] [spot]
 
 ASH: The cello is the closest human instrument to the sound a god makes when it dies. I don't mean the pitch. I mean the — the way it holds a note. A cello sustains. It doesn't stop when the bow lifts. The resonance stays in the wood. And a dying god does the same thing. The voice fades but the ground holds the vibration.
 
@@ -139,7 +139,7 @@ ASH: Different how.
 
 RUNE: You feel it in the room. The wood vibrates. The air moves. The whole space becomes the instrument.
 
-[SFX: Ash — turning to look at Rune. Something open in his face. The curiosity of a man who has been alive for a thousand years and dead for most of them, discovering that the world keeps offering things he didn't know he wanted] [spot]
+[SFX: Ash — shifting to face Rune. A pause. When he speaks, his voice is open, curious] [spot]
 
 ASH: You would take me.
 
@@ -155,7 +155,7 @@ RUNE: I know. We'd sit in the back. Leave early if you need to. It's not a missi
 
 [Beat — 800ms]
 
-[SFX: Ash — the quiet. Not resistance. Processing. A god-eater considering the prospect of sitting in a public hall listening to a human recreate the sound of dying divinity, surrounded by people who have no idea what they're hearing. And wanting to] [spot]
+[SFX: Ash — quiet. Processing. A long breath in, held, released slowly] [spot]
 
 ASH: Yes. I would like that.
 
@@ -165,11 +165,11 @@ ASH: Yes. I would like that.
 
 {Scene 3 — The wildflower field. Afternoon. The argument. The kiss.}
 
-[AMBIENT: the field — afternoon. The light shifted gold. The bees slower. The containers empty, the dessert container opened despite the label — Ash, who read "AFTER" as "after the first container." The blanket warm from the sun. The meridian-thrum steady. The new god sleeping contentedly beneath two people who have been lying in its flowers for an hour talking about nothing] [bed]
+[AMBIENT: the field — afternoon. The light shifted gold. The bees slower. The containers empty, the dessert container opened despite the label — Ash, who read "AFTER" as "after the first container." The blanket warm from the sun. The meridian-thrum steady. The new god sleeping contentedly beneath them, lying in its flowers for an hour talking about nothing] [bed]
 
-[SFX: Ash — lying back. Flowers around his shoulders. A petal in his hair, yellow. His arm across his chest, the bandaged one. Not protecting it. Just resting. The posture of a man who has never had a lazy afternoon and is committing this one to memory] [spot]
+[SFX: Ash — lying back. Flowers rustling around him. The fabric of his sleeve shifting as he rests his arm across his chest. Settling in] [spot]
 
-[SFX: bond-harmonic — the laziest frequency the audience has ever heard from it. Warm. Slow. The circuit at idle. No crisis. No diagnosis. Just two bodies in a field being warm] [under]
+[SFX: bond-harmonic — the laziest frequency it has carried. Warm. Slow. The circuit at idle. No crisis. No diagnosis. Just two bodies in a field being warm] [under]
 
 RUNE (inner monologue): He has a flower petal in his hair. Yellow. Near his left ear, caught in the dark strands that fall the wrong way because he never learned to care about the direction hair is supposed to go. I could brush it out. I don't. I like it there. The god-eater with a flower in his hair. The most dangerous being in the city, lying in a field, digesting Mika's baklava. I want to take a photo. I'd never show anyone. I'd just look at it on shifts when the night goes long and remember that this is what's waiting.
 
@@ -203,7 +203,7 @@ ASH: It's a suggestion with consequences.
 
 RUNE: That's what a law IS.
 
-[SFX: Ash — sitting up too. Facing Rune. The flowers between them, knee-high, swaying. His expression — the audience hears it in his voice: amused, stubborn, alive. Not arguing to win. Arguing because this is what they do and the friction is its own kind of warmth] [spot]
+[SFX: Ash — sitting up too. Flowers rustling between them. His voice amused, stubborn, alive] [spot]
 
 [Beat — 400ms]
 
@@ -219,21 +219,21 @@ ASH: It's my favorite one.
 
 [Silence — 1500ms]
 
-[SFX: the field — quiet. The bees. The flowers. The meridian-thrum steady beneath them. The afternoon light going gold at the edges. Two people sitting in wildflowers, close, the argument evaporated into something warmer and more dangerous] [bed]
+[SFX: the field — quiet. Bees. Flowers. The meridian-thrum steady. The afternoon light going gold. The argument evaporated into something warmer] [bed]
 
-RUNE (inner monologue): He says "it's my favorite one" and the words land in the field between us like a stone in still water. He's sitting in the flowers with a petal in his hair and the bandage on his arm and the sun on the scar behind his ear and he's looking at me the way he's looked at me since the night of the vow — like I'm the thing the whole world organized itself around. And I know that's not true. But from where I'm sitting, with the gold light and the bees and his voice still warm from the argument about traffic lights, it feels true enough to bridge the gap.
+RUNE (inner monologue): He says "it's my favorite one" and the words land in the field between us like a stone in still water. He's sitting in the flowers with a petal in his hair and the bandage on his arm and the sun on the scar behind his ear and he's looking at me — like I'm the thing the whole world organized itself around. And I know that's not true. But from where I'm sitting, with the gold light and the bees and his voice still warm from the argument about traffic lights, it feels true enough to bridge the gap.
 
 [SFX: Rune — reaching. His hand. To Ash's hair. The yellow petal. His fingers finding it and not brushing it away. His fingers in Ash's hair, touching the petal, touching the strands around it, the warmth of his scalp. The gesture that starts as one thing and becomes another] [spot]
 
-[SFX: Ash — going still. The particular stillness. Not surprise. Recognition. The moment before a thing that has been building arrives] [spot]
+[SFX: Ash — going still. A stillness. Not surprise. Recognition. The moment before a thing that has been building arrives] [spot]
 
 [SFX: bond-harmonic — a shift. The idle frequency warming. Rising. Not the crisis harmonic. Not the battle frequency. Something the bond has been practicing in private: desire. Want. The feeling of being close enough to touch and not touching and then touching] [under]
 
 [Beat — 800ms]
 
-[SFX: the kiss — soft. In the flowers. The small sound of two mouths meeting. Not frantic. Not desperate. The kiss of two people who have time. His hand on Rune's jaw. Rune's hand still in his hair. The warmth of him. The taste the audience imagines from the sound: sun and olives and the last of Mika's baklava] [spot]
+[SFX: the kiss — soft. In the flowers. The small sound of mouths meeting. Unhurried. His hand on Rune's jaw. Rune's hand still in his hair] [spot]
 
-[SFX: the new god — beneath them. The meridian-thrum deepening. Warming. The earth's pulse rising in response to the bond's frequency. Two harmonics aligning. The field's god, growing in soil nourished by a bond that changed the Meridian's mathematics, responding to the bond's joy with its own. The wildflowers swaying without wind] [under]
+[SFX: the meridian-thrum deepening. Warming. Earth's pulse rising. Two harmonics aligning. Wildflowers swaying without wind] [under]
 
 [Silence — 2500ms]
 
@@ -241,7 +241,7 @@ RUNE (inner monologue): He kisses me in the wildflowers and the god beneath us s
 
 [Beat — 400ms]
 
-[SFX: Ash — pulling back. Not far. Close. His forehead against Rune's. His breathing. The warmth of his exhale. His hand on Rune's jaw. Through the bond: everything. No walls. No divine corridors. No ancient grief. Just this. Just now. Just the sun and the flowers and the man] [spot]
+[SFX: Ash — pulling back. Not far. His forehead against Rune's. Breathing. The warmth of his exhale close. His hand still on Rune's jaw] [spot]
 
 ASH: The god likes us.
 
@@ -255,7 +255,7 @@ RUNE: The god has good taste.
 
 {Scene 4 — The wildflower field. Late afternoon. The call.}
 
-[AMBIENT: field — late afternoon. The gold deepening toward amber. The bees gone. The flowers settling. Two people on a blanket in the last of the light, full and warm and quiet. Rune's head on Ash's shoulder. Ash's hand on Rune's knee. The bond between them carrying nothing but the weight of a good day] [bed]
+[AMBIENT: field — late afternoon. The gold deepening toward amber. The bees gone. The flowers settling. Ash and Rune on a blanket in the last of the light, full and warm and quiet. Rune's head on Ash's shoulder. Ash's hand on Rune's knee. The bond between them carrying nothing but the weight of a good day] [bed]
 
 [SFX: Rune's phone — buzzing. In his jacket pocket. He ignores it. It buzzes again. He ignores it. The third buzz is the pattern: two short, one long. Kaya] [spot]
 
@@ -279,13 +279,13 @@ KAYA: The Kindling investigation — Thessa's people went through Selin's record
 
 KAYA: A second project. Running parallel to the god-eater ritual. A failsafe.
 
-[SFX: Ash — beside Rune. Already alert. His body changed in a breath — the lazy warmth gone, replaced by the focused stillness of the protector. His hand on Rune's knee tightening once before letting go. Through the bond: recognition. He can feel something through the Meridian that Kaya is about to describe] [spot]
+[SFX: Ash — alert instantly. The lazy warmth gone. His hand on Rune's knee tightening once, then letting go. His breathing shifted — sharp, focused] [spot]
 
 ASH: I felt it. Two days ago. A dissonance in the network. Like a tooth about to crack. I thought it was residual damage from the solstice.
 
 KAYA: It is not residual. Come. Both of you. I cannot explain this over the phone.
 
-[SFX: the call ending. The phone screen going dark. The field suddenly quiet in a way that has nothing to do with sound. The gold light the same. The flowers the same. But the day is over] [spot]
+[SFX: the call ending. Phone set down. The field quiet. Wind through the flowers, unchanged. But the day is over] [spot]
 
 [Silence — 1500ms]
 
@@ -305,7 +305,7 @@ KAYA: Selin's laboratory extended further than we knew. There are chambers behin
 
 [SFX: Kaya — leading them deeper. A door that was hidden. Stone giving way to a corridor that is half-ancient, half-modern. Cables running along carved walls. Machinery humming. The acoustic growing tighter, more pressured. The meridian-thrum louder here — not healthy. Strained. A node under duress] [spot]
 
-[SFX: the siphon — the audience hears it before they see it. A cycling whine. Mechanical. Sub-bass that sits in the chest. The frequency of something drawing power from the earth beneath it. Not the Meridian's pulse. An extraction. A drain. The sound of a parasite on the network] [spot]
+[SFX: the siphon — a cycling whine. Mechanical. Sub-bass that sits in the chest. The frequency of something drawing power from the earth beneath it. Not the Meridian's pulse. An extraction. A drain. The sound of a parasite on the network] [spot]
 
 [SFX: bond-harmonic — reacting. Ash's frequency spiking. Pain. Not physical. The god-eater's circuitry encountering something fundamentally wrong. A dissonance that makes his scars ache and the shadows at his feet pull toward the device like iron filings toward a magnet] [under]
 
@@ -329,7 +329,7 @@ ASH: How long has it been running.
 
 [SFX: Kaya — the pause. The answer he doesn't want to give. His hand on the table, fingers white] [spot]
 
-KAYA: It was built to activate on a timer.
+KAYA: Someone installed a countdown trigger.
 
 [Silence — 1500ms]
 

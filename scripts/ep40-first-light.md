@@ -17,7 +17,7 @@ RUNE (inner monologue): The wildflower field in the north quarter has reached th
 
 [SFX: Rune — walking. Early morning. His boots on pavement. EMT jacket zipped. No coffee — he left it for Ash, on the counter, because they've traded that. Whoever leaves second gets the mug] [spot]
 
-[SFX: bond-harmonic — wide, quiet, carrying the dawn. Ash is home. Still sleeping. His frequency a low, warm note in Rune's chest, the god-eater at rest, forty-two beats per minute, the slowest heart Rune has ever monitored and the only one he trusts completely] [under]
+[SFX: bond-harmonic — wide, quiet, carrying the dawn. Ash is home. Still sleeping. His frequency a low, warm note in Rune's chest, the god-eater at rest, slow and steady, the rhythm Rune falls asleep to] [under]
 
 RUNE (inner monologue): Spring. The sacred sites across the city are stronger than they've been in centuries. Kaya measured it — the Meridian's throughput is running at a level the texts describe as "era of temples." The energy isn't leaking. It's circulating. The dormant nodes are stirring. Not waking — stretching. The way a body stretches when the fever breaks and the long, good sleep begins.
 
@@ -121,7 +121,7 @@ KAYA: The myth's central question is not whether the system survives. It is whet
 
 KAYA: The versions that survive — the ones carved into temple walls, the ones told and retold until they became the bedrock of the myth cycle — are the versions in which the anchors chose the cost. In which they looked at the vulnerability and said: worth it.
 
-[SFX: the back row — the figure shifting. A breath. Through the lecture hall's acoustic: barely, almost inaudibly, a sound that is not quite a laugh. The almost-laugh that has been building for thirty-nine episodes, closer than ever to full, held in check only because this is someone else's room] [spot]
+[SFX: the back row — a figure shifting. A breath. Through the lecture hall's acoustic: barely, almost inaudibly, a sharp exhale through the nose. Close to a laugh. Held in check because this is someone else's room] [spot]
 
 KAYA: The god-eater myth, in its oldest form, is not a story about power. It is a story about what you are willing to become when the alternative is losing the person who holds you to the earth.
 
@@ -165,7 +165,7 @@ MIKA: Definitely.
 
 [Beat — 400ms]
 
-[SFX: coffee — two people drinking. The tailgate creaking. Afternoon traffic passing. The mundane quiet of a break that could be any break in any shift in any year. Except] [spot]
+[SFX: coffee — Mika and Rune drinking. The tailgate creaking. Afternoon traffic passing. The mundane quiet of a break that could be any break in any shift in any year. Except] [spot]
 
 MIKA: Kaya told me the Meridian's running cleaner than it has in — what did he say — "recorded history." Which apparently goes back three thousand years.
 
@@ -223,7 +223,7 @@ MIKA: Yep. Mr. Barrow Street is back. Let's go.
 
 [SFX: Ash and Rune — settling against the ledge wall. Side by side. Shoulder to shoulder. The positions they fall into without thinking. Rune's hand finding Ash's hand. Fingers threading. The parenthesis scar on Ash's wrist under Rune's thumb — warm, as always] [spot]
 
-[SFX: bond-harmonic — broad and quiet. The full Meridian, every sacred site, the seal, the new god, the dormant nodes — all of it humming. But here, on the roof, in the foreground: just them. Two frequencies, long since merged, the sound of a circuit that runs on love and keeps a city standing] [under]
+[SFX: bond-harmonic — broad and quiet. The full Meridian humming distantly. But here, on the roof, in the foreground: just them. Two frequencies, long since merged into a single warm tone that keeps a city standing] [under]
 
 RUNE (inner monologue): [tender] The same rooftop. The same view. The ledge where he stood on day eight and said he remembered standing somewhere high and looking at something beautiful and knowing it wouldn't last.
 
@@ -247,7 +247,7 @@ ASH: I dreamed about you for a thousand years. And the reality is better.
 
 [Silence — 2500ms]
 
-RUNE (inner monologue): [raw] He says it the way he says everything that matters. Flat. Plain. No armor. The late Ash register — modern, warm, still sharp underneath, but the sharpness aimed at precision now, not defense. He means exactly what he says. He always has. But it took him thirty-nine episodes to stop being afraid of it.
+RUNE (inner monologue): [raw] He says it the way he says everything that matters. Flat. Plain. No armor. The late Ash register — modern, warm, still sharp underneath, but the sharpness aimed at precision now, not defense. He means exactly what he says. He always has. But it took him months to stop being afraid of it.
 
 [SFX: the sunset — light shifting on skin. Rune turning toward Ash. The scars on Ash's arms catching the last of the sun — silver now. Not the dark, angry lines of the first night. Not the blazing marks of the ritual. Silver. Old writing in a language the two of them built. Healed. Permanent. Beautiful] [spot]
 
@@ -261,13 +261,13 @@ ASH: And now?
 
 RUNE: Now I know the dream was a memory. Yours. Reaching across a thousand years. Trying to find me.
 
-[SFX: Rune — lacing their fingers together. The parenthesis scar under his thumb. The bond carrying the contact doubled: Ash's hand in Rune's, Rune's hand in Ash's, the warmth traveling both directions at once because the circuit doesn't know which way is forward and doesn't need to] [spot]
+[SFX: Rune — lacing their fingers together. The parenthesis scar under his thumb. A soft exhale from both of them. The bond-harmonic rising a half-step and holding, steady] [spot]
 
 RUNE: And I found you.
 
 [Silence — 5000ms]
 
-[SFX: the kiss — slow. Unhurried. Not the first kiss. Not the desperate kiss of the crisis or the bruised kiss of the aftermath. The kind of kiss that doesn't need to go anywhere because they have time. The sound: breath shared, the faint shift of skin, Ash's hand on the back of Rune's neck, Rune leaning in. Then the sound fading to almost-silence, and underneath it: the bond-harmonic. Warm. Steady. Two frequencies that forgot they were ever separate] [spot]
+[SFX: the kiss — slow, unhurried. Breath shared, the faint shift of skin, Ash's hand on the back of Rune's neck. Sound fading to almost-silence. Underneath: the bond-harmonic, warm and steady] [spot]
 
 [SFX: the sunset settling into dusk. The first stars. The rooftop in the quiet between day and night, the city below shifting registers from daytime rush to evening hum. Two people on a ledge with their foreheads together, not speaking, not needing to] [bed]
 
@@ -277,7 +277,7 @@ RUNE: And I found you.
 
 [AMBIENT: the city at night — the full sound. Sirens in the distance, not for them. Traffic on the bridge. A dog barking. Music from a window. Voices on the street — not words, just the sound of people existing near each other. Laughter, far away. The white noise of a million lives lived without knowing what holds the ground beneath them] [bed]
 
-[SFX: and underneath — the meridian-thrum. Not strained. Not desperate. Steady. Slow. The heartbeat of old gods. The pulse of the network. The new god in the north quarter, dreaming. The harbor node, patient. The cathedral god, ancient and awake. The seal, holding. All of it running through a circuit that runs through two people who are somewhere in this city, in an apartment, in a bed, asleep, their hands still together, the bond humming between them so quietly it has become silence] [under]
+[SFX: and underneath — the meridian-thrum. Steady. Slow. The heartbeat of old gods. New god dreaming in the north quarter, harbor node patient, cathedral god awake, the seal holding. All of it running through two people asleep in an apartment, hands still together, the bond so quiet it has become silence] [under]
 
 RUNE (inner monologue): [steady, certain] They say the god-eater consumes everything it touches. Burns it down. Turns it to ash.
 
@@ -297,7 +297,7 @@ RUNE (inner monologue): And his fire — his impossible, ancient, too-warm fire 
 
 [SFX: the bond-harmonic — fading. Not ending. Just becoming part of the larger sound. The two frequencies dissolving into the city's noise the way a river dissolves into the sea. Gone and not gone. Carried] [fade-out]
 
-[SFX: the city — breathing. Not a metaphor. The actual sound of a city at night: the expansion and contraction of traffic, the rhythm of lights changing, the distant trains, the wind between buildings, the million small sounds that overlap into something that sounds, if you listen long enough, like breath. The city, alive, held, unaware and grateful in the way only unconscious things can be. Breathing] [bed]
+[SFX: the city — breathing. The expansion and contraction of traffic, the rhythm of lights changing, distant trains, wind between buildings. A million small sounds overlapping into something like breath. The city, alive and held. Breathing] [bed]
 
 [Silence — 3000ms]
 

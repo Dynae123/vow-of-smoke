@@ -9,7 +9,7 @@
 
 [AMBIENT: ambulance interior — engine hum, low dispatch chatter, windshield wipers on intermittent. Spring rain. The city waking up through water] [bed]
 
-RUNE (inner monologue): [steady, certain] Spring. The rain has been warm for a week. The cherry trees along Fourth Street bloomed early and nobody knows why except me and Ash and a network of divine infrastructure running through our nervous systems.
+RUNE (inner monologue): [steady, certain] Spring. Three months since the undercrypt. The rain has been warm for a week. The cherry trees along Fourth Street bloomed early and nobody knows why except me and Ash and a network of divine infrastructure running through our nervous systems.
 
 [SFX: dispatch radio — crackle, then voice] [spot]
 
@@ -27,7 +27,7 @@ MIKA: Like always.
 
 [SFX: wipers, traffic, rain on the windshield] [bed]
 
-RUNE (inner monologue): [tender] Tuesday. Seven AM. My shift started at six. Ash was already gone when the alarm went off — I felt him leave through the bond, two hours before dawn, the Meridian pulling him south toward the harbor node. He left coffee on the counter. Still warm. He's figured out the timing — leaves it late enough that the heat holds until I reach the kitchen.
+RUNE (inner monologue): [tender] Tuesday. Seven AM. My shift started at six. Ash was already gone when the alarm went off — I felt him leave — a shift in the warmth beside me — two hours before dawn, the Meridian pulling him south toward the harbor node. He left coffee on the counter. Still warm. He's figured out the timing — leaves it late enough that the heat holds until I reach the kitchen.
 
 [Beat — 400ms]
 
@@ -87,7 +87,7 @@ RUNE (inner monologue): [clinical] Probable hip contusion, no crepitus on palpat
 
 [Beat — 400ms]
 
-RUNE (inner monologue): [steady, certain] It's still the world. Just — the world has more in it now. Underneath the linoleum and the kettle and the eggs, the Meridian hums. This apartment is four blocks from a dormant node. The ground is stable. The old god underneath is sleeping and healthy and I can feel it the way I feel my own heartbeat. Background. Constant.
+RUNE (inner monologue): [steady, certain] It's still the world. Just — the world has more in it now. Underneath the linoleum and the kettle and the eggs, the Meridian hums. This apartment is four blocks from a dormant node. The ground is stable. The old god underneath is sleeping and healthy — present the way my own heartbeat is present. Background. Constant.
 
 [SFX: Rune strapping the medkit — standing, offering his arm to the man] [spot]
 
@@ -101,13 +101,13 @@ RUNE: At driving? Significantly.
 
 {Scene 3 — The Meridian. Morning. Ash's patrol.}
 
-[AMBIENT: city streets — birdsong, traffic at a distance, the particular acoustic of a quiet residential street in spring. Rain has stopped. Everything dripping. And underneath: the meridian-thrum. Steady. Strong. The pulse of the network carried in the air itself, barely audible, like distant music heard through a wall] [bed, crossfade]
+[AMBIENT: city streets — birdsong, traffic at a distance, footsteps carrying clearly, a gate latch clicking, the close hush of a quiet residential street in spring. Rain has stopped. Everything dripping. And underneath: the meridian-thrum. Steady. Strong. The pulse of the network carried in the air itself, barely audible, like distant music heard through a wall] [bed, crossfade]
 
 [SFX: Ash — walking. His boots on wet pavement. Slower than Rune walks. The measured pace of someone who is not just traveling but listening. His hand trailing along a stone wall as he passes. The scrape of fingertips on wet granite] [spot]
 
 [SFX: bond-harmonic — the broad, carrying frequency. The full Meridian running through it. But focused here on Ash's thread: his presence in the network, the god-eater walking the grid, checking the connections the way a doctor checks a pulse. Not clinical. Attentive] [under]
 
-NARRATOR: The eastern district. An overpass, a vacant lot, a shrine half-buried under concrete. The place where it started. The scars on the pavement where the ashes fell have been rained clean. Wildflowers are pushing through the cracks.
+RUNE (inner monologue): Through the bond — the eastern district. An overpass, a vacant lot, a shrine half-buried under concrete. The place where it started. I can feel Ash standing there. The scars on the pavement where the ashes fell have been rained clean. Wildflowers are pushing through the cracks.
 
 [SFX: Ash — stopping. His hand on the shrine's entrance stone. The faintest warmth rising from below. Not a god. An echo. The place where he slept for a thousand years, remembering him the way old wood remembers fire] [spot]
 
@@ -115,7 +115,7 @@ NARRATOR: The eastern district. An overpass, a vacant lot, a shrine half-buried 
 
 [SFX: Ash — moving on. His footsteps resuming. South, toward the harbor. The meridian-thrum shifting as he crosses from one node's range to the next — the frequency changing, the way air pressure changes between rooms] [spot]
 
-NARRATOR: The harbor district. Where the threshold god lived, once. The site is a parking lot now. But the ground remembers. Through the bond, Rune would feel what Ash feels here — a vast patience, not alive, not dead, waiting for the dream to start again. The harbor node is stable. Ash walks on.
+RUNE (inner monologue): Now the harbor district. Where the threshold god lived, once. The site is a parking lot now. But the ground remembers. I feel what Ash feels here — a vast patience, not alive, not dead, waiting for the dream to start again. The harbor node is stable. He walks on.
 
 [SFX: the city — traffic picking up, a bus horn, a shop opening its metal gate] [bed]
 
@@ -129,7 +129,7 @@ NARRATOR: The harbor district. Where the threshold god lived, once. The site is 
 
 [SFX: Ash — his hand lifting. The mirror gesture. Two people passing each other in a city they hold together, the bond carrying the contact as a pulse of warmth that travels from one hand to the other without touching] [spot]
 
-[SFX: bond-harmonic — a brief flare. Not a spike. A smile translated into frequency. The circuit recognizing its other half and settling back into rhythm] [under]
+[SFX: bond-harmonic — a brief flare. A warm rising tone, held for one beat, then easing back into the steady hum] [under]
 
 MIKA (from the driver's seat, dry): You two are disgusting.
 
@@ -167,7 +167,7 @@ KAYA: Not always. But the versions that survive — the ones that were told and 
 
 KAYA: You understand, these are myths. Structural analysis. I am not suggesting that divine beings literally exist beneath your city.
 
-[SFX: scattered laughter — the sound of students who think their professor is being dryly funny. He is. Just not in the way they think] [spot]
+[SFX: scattered laughter — a dozen students exhaling at once, chairs shifting, pens pausing] [spot]
 
 KAYA: What the myth teaches is the pattern. That systems fail when they are parasitic. That they survive when they are symbiotic. That the most powerful intervention in any dying system is not force but connection. And that connection requires a choice — freely given, fully informed — to accept limitation as the price of belonging.
 
@@ -197,7 +197,7 @@ RUNE (inner monologue): [tender] The wildflowers have pushed another fifty feet 
 
 [SFX: another set of footsteps — approaching from the far side of the field. Deliberate. Precise. Heels on packed earth. The walk of someone who has never been uncertain about where they are going] [spot]
 
-[SFX: the footsteps stopping at the field's edge. A pause. Then: the sound of someone kneeling. Fabric against earth. Knees in soil. The god-keeper's white sleeves touching the ground] [spot]
+[SFX: the footsteps stopping at the field's edge. A pause. Then: fabric rustling against earth, knees pressing into soil, the god-keeper's white sleeves brushing the ground] [spot]
 
 RUNE (inner monologue): [stunned] Thessa. Kneeling. In the dirt. Her hands in the wildflowers, her face tilted down toward the ground where the new god is growing. She's speaking. I'm too far away to hear the words. Her lips moving. Her voice lower than I've ever heard it.
 
@@ -275,7 +275,7 @@ ASH: And the gods stayed.
 
 SABLE: The gods stayed. We are patient beyond your comprehension. We are the ground. We do not leave because the surface changes.
 
-[SFX: Ash — taking a drink. The crystal glass against his lip. His eyes closed. Through the bond: the god-eater listening to a god tell stories about the world he was made to protect, and feeling something that is not hunger, not duty, not the divine scaffold — just the human pleasure of sitting on a roof with wine and someone else's memories] [spot]
+[SFX: Ash — taking a drink. Crystal glass against his lip. A quiet exhale. The ledge creaking as he settles back] [spot]
 
 RUNE (inner monologue): [tender] His scars catch the last of the light. They're lighter now than they were a month ago. The binding marks — the ones that blazed during the ritual, the ones that carried the Meridian's weight when the circuit closed — are fading. Not disappearing. Settling. The way a river carves a channel and then the channel becomes the landscape. They're not chains anymore. They're not infrastructure. They're just part of him.
 
@@ -327,6 +327,6 @@ RUNE (inner monologue): And his heartbeat against my spine is slow. Too slow. Al
 
 RUNE (inner monologue): [steady, certain] But it's there. And it's mine.
 
-[SFX: the apartment — night. The window cracked. Spring air. The distant city. The meridian-thrum, so steady it's become silence. Two people breathing. One rhythm fast, one slow, and the space between them warm and held and enough] [bed, fade-out]
+[SFX: the apartment — night. The window cracked. Spring air. The distant city. The meridian-thrum, so steady it's become silence. Ash and Rune breathing. One rhythm fast, one slow, and the space between them warm and held and enough] [bed, fade-out]
 
 ---
