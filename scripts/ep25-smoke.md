@@ -47,7 +47,7 @@ MIKA: And if the Kindling are down there?
 
 ASH: Then they're in a confined space with a god-eater who has something to prove.
 
-[SFX: the descent — three sets of footsteps on ancient stone. The acoustic tightening as the overpass above them gives way to the shrine's architecture. The air warming. The residual heat of the awakening ritual, still not fully dissipated after five weeks] [bridge]
+[SFX: the descent — three sets of footsteps on ancient stone. Acoustic tightening. The air warming, residual heat from the awakening ritual] [bridge]
 
 ---
 
@@ -127,7 +127,7 @@ RUNE: "Subject three. Female, twenty-four. Anchor compatibility: 0.71. Bond form
 
 RUNE: "Subject five. Male, thirty-one. Anchor compatibility: 0.68. Bond formation: successful. Bond duration: twenty-eight days. Cause of termination: anchor depletion. Notes: physical deterioration exceeded projections. Cardiac failure."
 
-[SFX: bond-hum — Ash's frequency. A sickening pulse. The bond carrying what Ash is feeling from across the room — the recognition, the horror, the weight of names he never knew] [under]
+[SFX: bond-hum — Ash's frequency. A sickening pulse. Recognition, horror, the weight of names he never knew] [under]
 
 [Silence — 2500ms]
 
@@ -205,7 +205,7 @@ KAYA: But not the note.
 
 RUNE: We found the note. We found the vow texts in the drawer. We found the name.
 
-[SFX: Kaya — exhaling. The sound of a man whose worst secret has been spoken by someone else and the relief is indistinguishable from grief] [spot]
+[SFX: Kaya — a ragged exhale. Relief and grief in the same breath] [spot]
 
 KAYA: Selin.
 
@@ -231,7 +231,7 @@ KAYA: Because the next phase of her plan requires the god-keepers to know who th
 
 [SFX: bond-hum — the frequency registering Rune's physical cost. The drain, ever-present. Kaya's weight shouldn't be this hard to bear] [under]
 
-RUNE (inner monologue): He leans on me and I feel my own limits. The drain. Weeks, Sable said. My arms are thinner than they were at the start. The bruises come from nothing. And Kaya — who weighs maybe a hundred and sixty pounds — feels heavy in a way that has nothing to do with his body.
+RUNE (inner monologue): He leans on me and my own limits announce themselves. The drain. Weeks, Sable said. My arms are thinner than they were at the start. The bruises come from nothing. And Kaya — who weighs maybe a hundred and sixty pounds — feels heavy in a way that has nothing to do with his body.
 
 ---
 
@@ -325,7 +325,7 @@ KAYA: The vow restores the original purpose. A completed vessel — human and di
 
 RUNE (inner monologue): Four days. The vow. The solstice. The cathedral god. The First Root. And between all of it, the bond — the thing Selin built to be a weapon and we turned into something else. The thing that's killing me and saving Ash and holding the world together and falling apart all at the same time. Four days to speak the words that lock his humanity in and the summoner's plan out and give us a chance at the impossible.
 
-[SFX: the group moving — toward the exit. Footsteps on ancient stone, ascending. The shrine releasing them the way it took them in — with heat and memory and the residual shape of a body burned into the floor where everything started] [bridge]
+[SFX: the group moving — footsteps on ancient stone, ascending. Heat and memory in the air. The shrine releasing them] [bridge]
 
 ---
 
@@ -359,7 +359,7 @@ RUNE: Ash gives up godhood. Permanently. The human part becomes permanent. He ke
 
 [Silence — 1500ms]
 
-[SFX: Mika's hands on the steering wheel — the grip audible. The sound of someone absorbing a load] [spot]
+[SFX: Mika's hands on the steering wheel — the grip tightening, knuckles against leather] [spot]
 
 MIKA: And it saves you.
 
@@ -377,7 +377,7 @@ ASH: The choice was made before I understood it was one. On the floor of your ap
 
 [Beat — 800ms]
 
-[SFX: Mika — a single exhale. Not emotional. Practical. The sound of someone adding a new variable to the equation and adjusting] [spot]
+[SFX: Mika — a single exhale. Not emotional. Practical. Shoulders squaring] [spot]
 
 MIKA: Then we have four days and a plan and I need you both alive at the end of it. So here's what we're going to do.
 
@@ -387,7 +387,7 @@ RUNE (inner monologue): Mika takes over. Because that's what Mika does. She asse
 
 [Silence — 1500ms]
 
-[SFX: bond-hum — the final note. Both frequencies aligned, heading west, carrying the weight of eight dead faces on a wall and a message in charcoal and four days until the solstice and the vow texts in Rune's coat pocket pressing against his chest like a second heartbeat] [bed, fade-out]
+[SFX: bond-hum — the final note. Both frequencies aligned, heading west. The weight of eight dead faces and four days] [bed, fade-out]
 
 RUNE (inner monologue): Eight anchors before me. All dead. Compatibility scores and bond durations and the word "termination" used like punctuation. I survived because my bloodline concentration was high enough and because Selin needed the attachment to take and because I'm the type who stays. The type who holds. The type who falls in love with the weapon and calls it a person and means it. Subject nine. 0.94 compatibility. Emotional attachment progressing ahead of schedule.
 

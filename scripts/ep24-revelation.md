@@ -7,23 +7,21 @@
 
 {Scene 1 — Rune's apartment. Night. The war room.}
 
-[AMBIENT: apartment — the war room configuration. Maps on the table, Kaya's texts stacked along the wall, two mugs by the sink. The radiator clicking. The lamp at its wrong angle. A space that is half home, half headquarters, holding both badly] [bed]
+[AMBIENT: apartment — the war room configuration. Maps on the table, Kaya's texts stacked along the wall. The radiator clicking. A space that is half home, half headquarters, holding both badly] [bed]
+
+[SFX: Mika setting down her phone — the decisive click of someone who has been waiting to say something] [spot]
+
+MIKA: So. The god in the demolition lot said someone close is the summoner. And we're just — sitting here. All of us. Not addressing that.
 
 [SFX: bond-hum-warm — the post-Sable frequency. Attentive. Both systems running higher since the First Root revelation] [under]
 
-[SFX: Ash at the table — marking locations on the city grid. Pen on paper. The deliberate sound of someone mapping a network he can feel] [spot]
+[SFX: pen on paper — Ash at the table, marking locations on the city grid. Kaya across from him, surrounded by open texts] [spot]
 
-[SFX: Mika on the couch — boots off, legs crossed, phone in hand scrolling through city infrastructure reports] [under]
-
-[SFX: Kaya — across from Ash, reading glasses on, surrounded by open texts. The scratch of his pen, annotations in margins] [spot]
-
-RUNE (inner monologue): The apartment is too small for four people, a crisis, and a revelation. But here we are. Kaya at the table, translating passages about the First Root from texts older than the language they're written in. Ash beside him, mapping what he can feel through the Meridian — the remaining nodes, their strength, the gaps where dead gods left holes in the network. Mika on the couch, cross-referencing city engineering reports against our map because she's Mika and she needs the data to make sense in a way that doesn't involve ancient gods.
+RUNE (inner monologue): The apartment is too small for four people, a crisis, and a revelation. But here we are. Kaya translating passages about the First Root from texts older than the language they're written in. Ash mapping what he senses through the Meridian — the remaining nodes, their strength, the gaps where dead gods left holes in the network. Mika on the couch, cross-referencing city engineering reports against our map because she's Mika and she needs the data to make sense in a way that doesn't involve ancient gods. And now she's done waiting.
 
 [SFX: Rune entering from the kitchen — two mugs. One set in front of Ash. The routine of it] [spot]
 
 [SFX: bond-hum — a micro-pulse at the proximity. The mug placed and the hand withdrawing and the frequency noting it all] [under]
-
-MIKA: So. The god in the demolition lot said someone close is the summoner. And we're just — sitting here. All of us. Not addressing that.
 
 [Beat — 400ms]
 
@@ -43,7 +41,7 @@ MIKA: How considerably.
 
 KAYA: The summoner has intimate knowledge of the god-keeper order. They modified the awakening ritual with pre-human elements. They identified Rune through bloodline research. They tracked the bond's frequency evolution. And they have followers — the Kindling — organized enough to breach a god-keeper safe house.
 
-[SFX: Kaya removing his glasses — the specific sound of frames folded, set on the table] [spot]
+[SFX: Kaya removing his glasses — frames folded, set on the table] [spot]
 
 [DIRECTION: Kaya's voice shifts — the measured lecture cadence breaking into something personal. He is uncomfortable]
 
@@ -63,7 +61,7 @@ ASH (without looking up from the map): You were expelled thirty years ago.
 
 [Beat — 800ms]
 
-[DIRECTION: The room contracts. Everyone hearing the implication]
+[DIRECTION: Deliver in a lower register — quiet, deliberate. Let the implication land through the pause, not the volume]
 
 KAYA: I was. Along with a colleague. We held views the order considered heretical — that the gods' lifecycle was natural, that death was part of the system rather than something to be prevented. The order disagreed. We were expelled.
 
@@ -77,7 +75,7 @@ ASH: And your colleague. Where are they now.
 
 [Silence — 2500ms]
 
-[SFX: Kaya — an exhale. The sound of a man who has been carrying something and is deciding how much to put down] [spot]
+[SFX: Kaya — a long exhale. Deliberate. The breath of a man deciding how much to put down] [spot]
 
 [DIRECTION: Kaya's voice when he resumes is stripped of the lecture cadence. Shorter sentences. The academic scaffolding dropping]
 
@@ -145,7 +143,7 @@ KAYA: Then the summoner has had thirty years to act against me and has not. I am
 
 [DIRECTION: Kaya pauses at the door. His voice softens — not for Ash, for Rune]
 
-KAYA: Rune. The First Root. If what Sable described is accurate, the Meridian's containment function may be close to failure. Three dead gods. A fourth dormant. The structural margin is — I do not have precise numbers, but the ancient texts describe a threshold. A minimum number of active nodes required to maintain the cage.
+KAYA: Rune. The First Root. If what Sable described is accurate, the Meridian's containment function may be close to failure. Four dead gods. A fifth dormant. The structural margin is — I do not have precise numbers, but the ancient texts describe a threshold. A minimum number of active nodes required to maintain the cage.
 
 RUNE: And we're below it?
 
@@ -183,9 +181,9 @@ ASH: The First Root. What Sable described. I've been sensing it for days and I d
 
 [SFX: bond-hum — Ash's frequency carrying the sensation to Rune. Not empathic bleed — intentional sharing. He wants Rune to feel it] [under]
 
-RUNE (inner monologue): He opens the bond and I feel it. Not the warm hum. Not the bond itself. Something beneath it. Vast and slow and without thought. Like pressing your hand to the ground and feeling something turn over miles below. The First Root. The thing the Meridian was built to keep asleep. And it's restless.
+RUNE (inner monologue): He opens the bond and it hits me. Not the warm hum. Not the bond itself. Something beneath it. Vast and slow and without thought. Like pressing your hand to the ground and feeling something turn over miles below. The First Root. The thing the Meridian was built to keep asleep. And it's restless.
 
-[SFX: Rune — exhaling. The sound of someone recalibrating the threat assessment] [spot]
+[SFX: Rune — a sharp exhale through his nose. Recalibrating] [spot]
 
 RUNE: How much time do we have. Before the cage fails.
 
@@ -269,7 +267,7 @@ MIKA: We're on a —
 
 RUNE: Turn it around. Kaya's office. Now.
 
-[SFX: the ambulance — tires, turn. Siren engaging. The sound of two paramedics who know what urgency sounds like abandoning one call for another] [spot]
+[SFX: the ambulance — tires screeching through the turn. Siren engaging, full wail] [spot]
 
 ---
 
@@ -293,7 +291,7 @@ ASH: Don't rush in.
 
 [SFX: the office door — ajar. The angle of it wrong] [spot]
 
-[SFX: Rune pushing the door open — the hinge creaking. The sound of a room that has been rearranged by violence] [spot]
+[SFX: Rune pushing the door open — hinge creaking. Glass crunching underfoot. Papers shifting in the draft] [spot]
 
 [AMBIENT: Kaya's office — destroyed. Shelves toppled. Papers everywhere. Books splayed open on the floor, spines cracked. The particular chaos of a room searched with fury and precision simultaneously] [bed]
 
@@ -309,7 +307,7 @@ MIKA: What the hell —
 
 RUNE (inner monologue): A ritual circle. Drawn in chalk on the hardwood, hastily — the lines uneven, the symbols smeared at the edges. Not Kaya's handwriting. Kaya's circles were meticulous. This was drawn by someone else. Someone who came in through the door Kaya heard opening and brought the ritual with them.
 
-[SFX: Ash — inside the room now. The shadows at his feet reading the chalk marks the way Ash reads divine residue] [spot]
+[SFX: Ash — inside the room now. The shadows at his feet pressing into the chalk marks, tracing the symbols] [spot]
 
 [DIRECTION: Ash's voice is quiet, precise. The clinical assessment voice — like Rune's paramedic mode, but for the supernatural]
 
@@ -335,7 +333,7 @@ RUNE: The transport circle is for moving people, not bodies. And there's not eno
 
 [DIRECTION: Ash's voice shifts — the god-eater reading what the chalk left behind. Formal register, archaic syntax surfacing under the concentration]
 
-ASH: The residue is hours old. Before dawn. He was here through the night — I can feel his presence, the hours of work, the intensity. He found what he was looking for. And then the door opened.
+ASH: The residue is hours old. Before dawn. He was here through the night — his presence is layered here, the hours of work, the intensity. He found what he was looking for. And then the door opened.
 
 [Silence — 1500ms]
 
@@ -395,7 +393,7 @@ ASH: She made me. Found me sealed under stone and brought me back. Chose Rune. B
 
 {Scene 5 — The university. The decision.}
 
-[AMBIENT: Kaya's office — the chaos settling into the particular quiet of a crime scene no one can report. Fluorescent hum. Papers still shifting in the draft from the open door] [bed]
+[AMBIENT: Kaya's office — the chaos settling into the held-breath quiet of a crime scene no one can report. Fluorescent hum. Papers still shifting in the draft from the open door] [bed]
 
 [SFX: Rune at the third drawer — finding the false bottom. Lifting it. A small stack of laminated pages, ancient text, Kaya's annotations in the margins] [spot]
 
@@ -453,7 +451,7 @@ RUNE: Mika, this isn't —
 
 MIKA: A medical call? No. It's worse. But the last time you ran into a supernatural crisis without me, you came back with a nosebleed and a god-eater. I'm coming.
 
-[SFX: bond-hum — a pulse. Something between amusement and gratitude. Ash's frequency acknowledging Mika's presence in the way it always does — wary respect deepening toward something warmer] [under]
+[SFX: bond-hum — a pulse. Something between amusement and gratitude. Ash's frequency acknowledging Mika — wary respect deepening toward something warmer] [under]
 
 RUNE (inner monologue): She's coming. Because Mika doesn't leave her partner. Because Kaya sat in our apartment and drank our coffee and held information back to protect us and now he's bleeding in a ritual circle and she doesn't need the supernatural context to know he's a patient who needs extraction.
 

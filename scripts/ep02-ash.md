@@ -7,9 +7,13 @@
 
 {Scene 1 — The shrine. Continuous from Episode 1. Ash is conscious, disoriented.}
 
+[AMBIENT: inside the shrine — subsonic hum, still warm air, muffled highway above] [bed]
+
 RUNE (inner monologue): His eyes were black. Then they weren't. And the word he said — *you* — it wasn't a question. It was an accusation.
 
-[SFX: the subsonic hum, low and steady. Ash's breathing — too slow, too controlled for someone who just woke up on a stone floor]
+[SFX: Ash's breathing — slow, unnaturally controlled] [under]
+
+[DIRECTION: His breathing is too controlled for someone who just woke up on a stone floor]
 
 RUNE: Sir. I need you to stay still. I'm a paramedic — I'm going to check your vitals.
 
@@ -19,21 +23,21 @@ RUNE: You were unconscious. I need to make sure you're—
 
 ASH: I said do not touch me.
 
-[SFX: a shift in the air — the temperature in the shrine rising by several degrees. The ash on the ground stirring, disturbed by heat that has no source]
+[SFX: a low pressure shift. Fine ash stirring on the ground] [under]
 
-RUNE (inner monologue): His body temperature is wrong. I can feel it from two feet away — he's running hot enough that my hand stings where I touched his chest. Heart rate too slow. Pupils reactive but the response time is off. The scars aren't wounds. They're deliberate. Old. Like someone carved a language into him.
+[DIRECTION: Ash's voice drops lower, tighter — a warning held between clenched teeth]
+
+RUNE (inner monologue): His body temperature is wrong. Heat radiates off him from two feet away — my hand still stings where I touched his chest. Heart rate too slow. Pupils reactive but the response time is off. The scars aren't wounds. They're deliberate. Old. Like someone carved a language into him.
 
 RUNE: I'm not going to hurt you. Can you tell me your name?
 
-[beat]
+[Beat — 800ms]
 
 ASH: No.
 
 RUNE: You don't know your name?
 
 ASH: I do not know. Anything.
-
-[beat]
 
 RUNE (inner monologue): He says it flat. Not scared. Not confused. Just — empty. Like someone reading the status of a hard drive that's been wiped.
 
@@ -43,7 +47,9 @@ ASH: No.
 
 RUNE: Do you know what year it is?
 
-[SFX: Ash turning his head — the faint scrape of skin against stone. Looking at the shrine walls. Looking at Rune's flashlight, his medical bag, his phone clipped to his belt]
+[SFX: faint scrape of skin against stone] [spot]
+
+[DIRECTION: Ash's delivery is slow, testing — each word placed as if he's inventorying what he knows]
 
 ASH: I know what fire is. I do not know what that is.
 
@@ -55,7 +61,10 @@ ASH: That means nothing to me.
 
 {Scene 2 — Outside the shrine. Rune's car. Rune trying to figure out what to do.}
 
-[SFX: Rune stepping out through the shrine entrance. Highway traffic overhead. He's on the phone — ringing, then pickup]
+[AMBIENT: outside shrine — highway traffic overhead, night air] [bed]
+
+[SFX: Rune stepping out through the shrine entrance] [spot]
+[SFX: phone ringing, then pickup] [spot]
 
 DISPATCH (radio-filtered): Unit Seven, go ahead.
 
@@ -65,7 +74,8 @@ DISPATCH: Copy. Nearest available is forty-five minutes out. Can you stabilize o
 
 RUNE: I can try.
 
-[SFX: phone clicking off. Rune exhaling. Then — returning through the shrine entrance]
+[SFX: phone clicking off. Rune exhaling] [spot]
+[SFX: footsteps returning through the shrine entrance] [bridge]
 
 RUNE (inner monologue): I go back in. He hasn't moved. He's sitting now — upright, the blanket from my kit wrapped around his shoulders. Staring at his own hands. At the ash still clinging to his skin.
 
@@ -75,15 +85,17 @@ ASH: I understand what a needle is.
 
 RUNE: Okay. Good. Can I—
 
-[SFX: Rune opening his kit. Pulling an IV setup. The clink of medical supplies]
+[SFX: medical kit opening. Clink of IV supplies] [spot]
 
 RUNE (inner monologue): I prep the line. Standard procedure. Find a vein, clean the site, insert. I've done this ten thousand times.
 
-[SFX: the gentle tap of Rune finding a vein on Ash's arm. Then the IV needle touching skin — and a sharp, metallic hiss. Metal softening, deforming]
+[SFX: gentle tap on arm. IV needle touches skin — sharp metallic hiss] [spot]
+
+[DIRECTION: Rune's reaction is immediate — a flinch back, then stunned stillness. His next line is half-whispered]
 
 RUNE: What the—
 
-[SFX: the needle hitting the ground. A small, distorted piece of metal tinkling on stone]
+[SFX: small distorted piece of metal tinkling on stone] [spot]
 
 RUNE (inner monologue): The needle didn't bend. It *melted.* The tip just — softened and ran. Like his skin was a burner set to high.
 
@@ -93,9 +105,9 @@ RUNE: Your skin melted a steel needle.
 
 ASH: I am aware.
 
-RUNE (inner monologue): I stare at him. He stares back. Something in his expression shifts — for half a second, under the hostility, there's something else. Something closer to panic.
+RUNE (inner monologue): I stare at him. He stares back. The rigidity in his jaw loosens for half a second — under the hostility, there's something else. Something closer to panic.
 
-[beat]
+[Beat — 800ms]
 
 RUNE (inner monologue): Forty-five minutes to a hospital where they'll try to draw blood and run tests and put him in a system that doesn't have a category for whatever he is. Where more needles will melt. Where someone will call someone else. Where this gets bigger and worse and he sits in a fluorescent room with no name and no memory while people decide what to do with him.
 
@@ -105,11 +117,17 @@ RUNE: Okay. Change of plan.
 
 {Scene 3 — Rune's apartment. Small hours. Ash on the couch.}
 
-[SFX: apartment door opening. The familiar hum of the fridge. Rune's keys dropping onto a counter. Then — unfamiliar footsteps. Heavier. Slower. Someone taking in a space they've never been in]
+[SFX: apartment door opening. Keys dropping on counter] [spot]
+
+[AMBIENT: apartment night — fridge hum, deep quiet] [bed]
+
+[SFX: unfamiliar footsteps — heavier, slower than Rune's] [bridge]
+
+[DIRECTION: Ash's footsteps are deliberate, pausing between each step — cataloguing the space by sound]
 
 RUNE (inner monologue): I bring him to my apartment. It is the worst decision I have ever made. I know this while I'm making it. I know it in the car, when he sits rigid in the passenger seat and watches the city go by like it personally offended him. I know it when I unlock my door and he walks in and stands in the middle of my living room like a weapon someone left on the coffee table.
 
-[SFX: Ash sitting on the couch. The springs creaking under sudden weight. Blanket rustling]
+[SFX: couch springs creaking under sudden weight. Blanket rustling] [spot]
 
 RUNE (inner monologue): I know it. I do it anyway.
 
@@ -119,13 +137,11 @@ ASH: I do not know.
 
 RUNE: I'll get you water.
 
-[SFX: tap running. Glass filling. Glass set on a table]
+[SFX: tap running. Glass filling. Glass set on a table] [spot]
 
 RUNE: Do you have a name? Anything that feels familiar?
 
-[beat]
-
-[SFX: Ash looking at his hands — the faint rasp of scarred skin rubbing against itself]
+[SFX: faint rasp of scarred skin rubbing together] [spot]
 
 ASH: Ash.
 
@@ -135,7 +151,7 @@ ASH: That is... close enough.
 
 RUNE: Close enough to what?
 
-[beat]
+[Beat — 800ms]
 
 ASH: I do not know.
 
@@ -145,7 +161,9 @@ RUNE (inner monologue): He picks the name out of the air. Or out of the ash stil
 
 {Scene 4 — Rune's apartment. Later. The first real exchange.}
 
-[SFX: the apartment settling. The fridge cycling. Distant traffic. Ash hasn't moved from the couch. Rune is sitting across from him on the floor, back against the wall]
+[AMBIENT: apartment settling — fridge cycling, distant traffic] [bed]
+
+[DIRECTION: Two acoustic positions — Ash on the couch (close mic, still), Rune on the floor against the far wall (slight room reverb). Neither moves during this exchange]
 
 RUNE: You're not from here.
 
@@ -155,7 +173,7 @@ RUNE: This city. This country. This — time period, maybe. You didn't know what
 
 ASH: I know what fire is. I know what stone is. I know what language is, and yours is wrong but I understand it. Everything else is—
 
-[beat]
+[Beat — 400ms]
 
 ASH: Missing.
 
@@ -171,31 +189,27 @@ ASH: They are not wounds.
 
 RUNE: Okay. Can I still look?
 
-[beat]
-
-[SFX: Ash pulling the blanket off one shoulder. The fabric sliding across scarred skin]
+[SFX: fabric sliding across scarred skin — Ash pulling the blanket off one shoulder] [spot]
 
 RUNE (inner monologue): The scars cover him. Chest, arms, shoulders, down his back. Lines and curves and symbols I don't recognize — some angular, some flowing, layered on top of each other like a manuscript someone kept revising. They're healed. Years healed. Whoever did this did it a long time ago.
 
 RUNE: I'm going to touch your arm. Just checking the scar tissue.
 
-[SFX: Rune's fingers making contact with Ash's forearm]
+[SFX: Rune's fingers making contact with Ash's forearm] [spot]
 
-[SFX: a sharp flare — not physical, not audible to anyone but them. A surge through the bond like grabbing a live wire]
+[SFX: sharp electrical surge tone — brief, high-frequency] [spot]
+
+[DIRECTION: Not physical. Not audible to anyone but them. A surge through the bond like grabbing a live wire]
 
 RUNE (inner monologue): I feel it.
 
 RUNE (inner monologue): Not his skin under my fingers. Something *behind* it. A flash — rage, white-hot and directionless. Confusion so thick it has a texture. And underneath both, grief. A howling, sourceless grief with no memory attached to it. Just the shape of loss.
 
-[SFX: Rune yanking his hand back. Sharp intake of breath]
+[SFX: Rune yanking his hand back. Sharp intake of breath] [spot]
 
 RUNE: What the hell was that?
 
-[beat]
-
 ASH: I do not know.
-
-[beat]
 
 ASH: But it came from you.
 
@@ -203,7 +217,7 @@ RUNE: That wasn't mine. That — the anger, the—
 
 ASH: It came through you. I felt it move. From here—
 
-[SFX: Ash pressing his own hand against his chest, over the scars]
+[SFX: hand pressing against chest, over scarred skin] [spot]
 
 ASH: — to you.
 
@@ -217,34 +231,28 @@ RUNE: Yeah. I'm not doing that again.
 
 ASH: Agreed.
 
-[beat]
-
 RUNE (inner monologue): He says it fast. Too fast. Like he's as rattled as I am and doesn't know what to do with that.
 
 ---
 
 {Scene 5 — Rune's apartment. Deep night. Rune in bed, not sleeping.}
 
-[SFX: the stillness of 4 AM. The fridge cycling. Rune shifting in bed — sheets rustling]
+[AMBIENT: apartment, 4 AM — fridge cycling, deep stillness] [bed]
 
-RUNE (inner monologue): I can feel him.
+RUNE (inner monologue): He's there. Behind my sternum, like a second pulse.
 
-[beat]
+[Beat — 800ms]
 
 RUNE (inner monologue): Not hear him. The apartment is quiet. He hasn't moved from the couch. I know this because I know it — not because I checked, not because I listened. The way I know where my own hands are in the dark. He's on the couch. He's facing the window. He's awake.
 
-[beat]
-
 RUNE (inner monologue): I don't know how I know.
 
-[SFX: the low, steady hum of the bond — just beneath hearing. Like a transformer on the other side of a wall]
+[SFX: bond-hum-neutral — low, steady, subsonic] [bed]
 
 RUNE (inner monologue): There is a man on my couch who melts needles and bleeds feelings I can taste from the next room. I brought him here because the alternative was worse. That's it. That's the whole reason.
 
-[beat]
-
 RUNE (inner monologue): He's awake. I know he's awake. I don't know how I know.
 
-[SFX: the hum. Steady. Patient. The sound of something that has no intention of stopping]
+[Silence — 2500ms]
 
 ---

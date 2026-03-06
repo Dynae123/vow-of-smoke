@@ -1,7 +1,7 @@
 # Episode 19: "Anchor"
 
 **One job:** The morning after the kiss — Ash tries to leave because the bond will kill Rune faster now. Rune refuses to let him. The pretending collapses. They hold each other and something permanent begins. Then Kaya calls with the full cost of the Vow of Smoke: permanent bond, permanent humanity, godhood traded for a mortal life.
-**The moment:** "I am dying anyway. The bond was already killing me before last night. The only difference now is that I know what I'm dying for."
+**The moment:** "I was already dying. Before last night. Before any of it. Since the shrine. I knew. Week one, I knew. And I stayed. ... At least now I know what for."
 
 ---
 
@@ -9,37 +9,39 @@
 
 [AMBIENT: apartment, early morning — grey light, no sun yet. The coffeemaker untouched. No radiator tick. The apartment holding its breath] [bed]
 
-[SFX: bond-hum-warm — but different. The new baseline from last night, the frequency the kiss made, running beneath everything like a second heartbeat that won't quiet down] [under]
+[SFX: bond-hum-warm — but different. The new baseline from last night, running beneath everything like a second heartbeat that won't quiet down] [under]
 
-RUNE (inner monologue): I don't sleep. Not really. I close my eyes around three and open them at five and the hours between are a blur of his mouth and smoke and the sound the bond made when we kissed and none of it qualifies as rest.
+[DIRECTION: The frequency the kiss made — not something Rune can name, but unmistakable. It changed the bond's register and it hasn't changed back]
+
+RUNE (inner monologue): I sleep. Somehow. Close my eyes around three and open them at five and the hours between are soft — not restful, exactly. But not the usual drain. The bond is quiet in a way I haven't heard it be quiet before. Like it's resting too.
 
 [SFX: Rune's footsteps — bare feet, slow, the hallway to the kitchen. Stopping in the doorway] [spot]
 
-RUNE (inner monologue): He's in the kitchen. Back to me. Standing at the counter the way he stands at windows — side-angled, shoulders braced, the sweatshirt pulled tight across his back. My sweatshirt. He hasn't moved. The mug beside him is full and cold.
+RUNE (inner monologue): He's in the kitchen. Back to me. Standing at the counter — side-angled, shoulders braced, the sweatshirt pulled tight across his back. My sweatshirt. He hasn't moved. The mug beside him is full and cold.
 
 [SFX: bond-hum shifting — a thread of agitation underneath the warmth. Ash's frequency, not Rune's. Something coiled and deliberate] [under]
 
 [Silence — 2500ms]
 
-RUNE (inner monologue): The kitchen is five steps wide. He is on one side. I am on the other. Between us the maps are still on the table, the mugs from yesterday still cold, and the counter where my back was pressed against the edge six hours ago is just a counter again. Except it isn't. It will never be just a counter again.
+RUNE (inner monologue): The kitchen is five steps wide. He is on one side. I am on the other. The maps are still on the table. Mugs from yesterday, cold. The counter where my back was pressed against the edge six hours ago. Morning light on the floor. The apartment smells like cold coffee and the faint smoke scent he leaves on everything.
 
-[Beat — 800ms]
+[Silence — 2500ms]
 
 ASH: The bond will kill you faster now.
 
-[SFX: the sentence — flat, controlled. The voice of someone who has rehearsed this] [spot]
+[SFX: Ash's voice — flat, controlled, rehearsed] [spot]
+
+[DIRECTION: Deliver with careful distance. The voice of someone who has been standing in this kitchen for hours building an exit speech he doesn't believe in]
 
 RUNE (inner monologue): He doesn't turn around.
 
 ASH: Emotional connection deepens the anchor. Physical contact accelerates the transfer. What happened last night — I have made it worse.
 
-[Beat — 400ms]
-
 RUNE: You didn't make me do anything.
 
 [SFX: Ash turning — slow. His hands still on the counter behind him. Gripping] [spot]
 
-[DIRECTION: His face. The war on it — want fighting guilt fighting the instinct to protect something by leaving it. He looks like he's been standing here for hours building the architecture of an argument he doesn't believe in]
+[DIRECTION: Ash delivers these lines with effort — the voice of someone reciting a prepared argument. Let the control slip on the edges of sentences, revealing that he doesn't believe what he's saying]
 
 ASH: Every hour I remain near you, the drain compounds. The kiss — the bond responded. You felt it. The frequency changed. That change is not reversible. The parasitic draw has a new baseline and that baseline is higher and every moment of proximity from this point forward costs more than it did yesterday.
 
@@ -57,8 +59,6 @@ RUNE: You ran the math.
 
 ASH: The math is unambiguous.
 
-[Beat — 800ms]
-
 RUNE (inner monologue): He ran the math. While I was lying in bed staring at the ceiling and tasting smoke on my mouth, he was standing in this kitchen calculating the rate at which proximity to him will kill me. And the worst part is that his voice isn't angry. It's flat. Practiced. He's been rehearsing this since I fell asleep.
 
 [SFX: Ash releasing the counter — one step toward the hallway. Toward the door. The movement deliberate, committed] [spot]
@@ -67,7 +67,9 @@ ASH: I should not have stayed last night. In the bed. Any of it. The calm proxim
 
 RUNE: Don't.
 
-[SFX: Rune's voice — not loud. The opposite of loud. The word landing like a hand on a chest] [spot]
+[SFX: Rune's voice — quiet, low, steady] [spot]
+
+[DIRECTION: Rune's "don't" is quiet — barely above speaking volume. Deliver it low and steady, not raised]
 
 ASH: Rune —
 
@@ -79,17 +81,19 @@ RUNE: I said don't.
 
 RUNE: Don't walk away from me. Don't decide for me.
 
-[SFX: Rune's voice cracking — not with anger. With the thing underneath it. The bedrock shifting] [spot]
+[SFX: Rune's voice cracking — not with anger, with the raw thing underneath] [spot]
 
-RUNE: I am dying anyway. The bond was already killing me before last night. Before the kiss. Before the spring. Before any of it. The bond has been draining me since the shrine and I have known it since week one and I stayed. Every day I stayed. So don't stand in my kitchen and tell me the math is unambiguous like I haven't been doing the math since Thessa said I had months.
+[DIRECTION: Rune's voice breaks open — the composure he's maintained for weeks cracking. Raw, uncontrolled delivery]
+
+RUNE: I was already dying. Before last night. Before any of it. Since the shrine. I knew. Week one, I knew. And I stayed.
 
 [Silence — 2500ms]
 
-[SFX: bond-hum — everything raw. The barrier between their frequencies dissolving. Not the controlled sharing of emotion but the unfiltered thing — grief and want and fear pouring in both directions] [under]
+[SFX: bond-hum — everything raw. The barrier between their frequencies dissolving. Grief and want and fear pouring in both directions, unfiltered] [under]
 
-RUNE: The only difference now is that I know what I'm dying for.
+RUNE: At least now I know what for.
 
-[DIRECTION: The sentence sits in the kitchen. Neither of them breathes. Ash is standing three feet from the hallway — three feet from the door, from leaving, from the noble sacrifice that would let him pretend he did the right thing. And Rune is standing in the doorway with his bare feet on the cold tile and his voice cracked open and neither of them moves]
+[DIRECTION: Complete silence from both. Hold the beat — no breathing, no movement. The next sound is Ash crossing the room]
 
 [Silence — 2500ms]
 
@@ -99,17 +103,17 @@ RUNE: The only difference now is that I know what I'm dying for.
 
 [AMBIENT: same — the grey light shifting. The first traffic outside. The apartment unchanged except for everything] [bed]
 
-[SFX: Ash — not a step. A collapse of distance. Two strides across the kitchen] [spot]
+[SFX: Ash — two strides across the kitchen. A collapse of distance] [spot]
 
-[SFX: the embrace — Ash pulling Rune against him. Not a kiss. Something more fundamental. Arms around him, one hand at the back of his head, pulling Rune's face against his chest. The impact of two bodies meeting with urgency that has nothing to do with desire and everything to do with the terror of losing] [spot]
+[SFX: the embrace — Ash pulling Rune against him. Arms around him, one hand at the back of his head, pulling Rune's face against his chest. The impact of two bodies meeting with urgency] [spot]
 
-[SFX: bond-hum — transforming. Not the incandescent singing of the kiss. Something deeper. Lower. The resonance of two people who have stopped performing separation] [under]
+[DIRECTION: Not a kiss. The urgency is protective, not romantic — the grip of someone terrified of loss. Breathing is tight, shaken]
+
+[SFX: bond-hum — transforming. Something deeper. Lower. The resonance of surrender — both frequencies dropping their guard at once] [under]
 
 RUNE (inner monologue): He crosses the kitchen. Two steps. His arms close around me and he pulls my head against his chest and I can hear it. His heartbeat. The one that shouldn't exist. Too slow, too warm, the rhythm of something that was never meant to have a pulse and does anyway.
 
 [SFX: Ash's heartbeat — not literal, transmitted through the bond-hum. The slow double-beat, audible because Rune's ear is pressed against his chest] [under]
-
-[Beat — 800ms]
 
 RUNE (inner monologue): He holds me like I'm the thing that might break. Both arms. His chin on top of my head. The heat of him pouring through the sweatshirt — my sweatshirt, on his body, against my face — and the bond isn't draining. It isn't burning. It's doing the thing it did when he lay beside me. Breathing. Matching. Two systems that have stopped fighting each other.
 
@@ -129,17 +133,19 @@ RUNE: I know exactly what I'm saying.
 
 [Silence — 2500ms]
 
-[SFX: Ash's arms tightening — involuntary. The embrace deepening. Not passion. The reflex of someone hearing the thing they wanted to hear and being terrified by it] [spot]
+[SFX: Ash's arms tightening — involuntary. The embrace deepening] [spot]
+
+[DIRECTION: Ash's breath catches audibly. The tightening is involuntary — fear, not passion]
 
 RUNE (inner monologue): He holds tighter. I feel his breath change against the top of my head. Not a sob — Ash doesn't sob. A fracture. A single exhale that carries the weight of a thousand years of being empty and the four weeks of not being empty and the sentence I just said that he doesn't know what to do with.
 
-[SFX: bond-hum-settled — deep, banked, continuous. The frequency of two people who have said the unsayable and are standing in it] [bed]
+[SFX: bond-hum-settled — deep, banked, continuous. The frequency of something said that cannot be unsaid] [bed]
 
 [Beat — 800ms]
 
 RUNE (inner monologue): We stay. The grey light shifts to pale gold. The traffic builds outside. The coffeemaker stays cold. My face against his chest and his chin on my head and neither of us speaking because the words are used up and what's left is the heartbeat and the bond and the warmth between us that has nothing to do with his temperature and everything to do with the choice I just made.
 
-[SFX: city waking — distant, muted through walls. The world continuing. Indifferent to two people standing in a kitchen holding each other like the ground might give way] [under]
+[SFX: city waking — distant, muted through walls. The world continuing outside, indifferent] [under]
 
 RUNE (inner monologue): I don't want to break the bond. I said it and I meant it. The math is unambiguous. The trajectory is clear. And I would rather have this — his heartbeat under my ear, the smell of smoke and cold coffee, the bond breathing between us — for whatever time I have left than a hundred years without it.
 
@@ -147,13 +153,13 @@ RUNE (inner monologue): I don't want to break the bond. I said it and I meant it
 
 {Scene 3 — Rune's apartment. Later. Preparing.}
 
-[AMBIENT: apartment, mid-morning — brighter now. The coffeemaker finally on. Two mugs. The quality of a space that has survived something and is trying to be ordinary again] [bed, crossfade]
+[AMBIENT: apartment, mid-morning — brighter now. The coffeemaker finally on. Two mugs. The unhurried quality of a space that has settled into something it doesn't need to name yet] [bed, crossfade]
 
-[SFX: coffeemaker finishing — the hiss, the drip. Rune pouring. The domestic sounds carrying more weight than they should] [spot]
+[SFX: coffeemaker finishing — the hiss, the drip. Rune pouring] [spot]
 
-[SFX: bond-hum-warm — the new settled frequency. Not the agitated baseline from the scene before. Something that resolved when they held each other and hasn't unresolved] [under]
+[SFX: bond-hum-warm — the new settled frequency. Something that resolved when they held each other and hasn't unresolved] [under]
 
-RUNE (inner monologue): We separated eventually. Not because we wanted to. Because gods are dying and the aqueduct is in three days and we don't get to stop. He let go first. His arms loosened and his hands stayed on my shoulders for a moment and then he stepped back and went to the window and I went to the coffeemaker and we became two people in a kitchen again. But the air is different. The bond is different. The way he looks at me when I hand him his coffee — black, no sugar, the same cup I've poured for weeks — is different.
+RUNE (inner monologue): We separated eventually. Not because we wanted to. Because gods are dying and the aqueduct is in two days and we don't get to stop. He let go first. His arms loosened and his hands stayed on my shoulders for a moment and then he stepped back and went to the window and I went to the coffeemaker and we became two people in a kitchen again. But the air is different. The bond is different. His expression when I hand him his coffee — black, no sugar, the same cup I've poured for weeks — is different.
 
 [SFX: mug placed on the counter by the window. Ash picking it up. The ceramic sounds of routine] [spot]
 
@@ -161,7 +167,7 @@ RUNE: We need to talk about the aqueduct.
 
 ASH: I know.
 
-RUNE: Kaya said three days. The summoner is accelerating. We need the team ready.
+RUNE: Kaya said two days. The summoner is accelerating. We need the team ready.
 
 ASH: Thessa's people have been watching the access points. Two are sealed. The third — the old water treatment intake on the river — remains open.
 
@@ -175,7 +181,9 @@ RUNE: Don't say "only human." She'll hurt you.
 
 [Beat — 400ms]
 
-[SFX: the almost-thing that happens on Ash's face — not a laugh, but the closest he's come. A breath through his nose, the corner of his mouth. Rune catches it through the bond before it reaches his expression] [under]
+[SFX: Ash's breath — a short exhale through the nose, brief] [spot]
+
+[DIRECTION: Ash's exhale carries a hint of warmth — the closest he's come to amusement. Brief, surprised]
 
 RUNE (inner monologue): He almost smiled. I felt it through the bond before I saw it — a flicker of warmth, brief, surprised. Like he forgot he could do that.
 
@@ -201,9 +209,11 @@ KAYA: Good. I need you both to hear this.
 
 KAYA: The captured ritualist — the one cooperating — has provided information about the summoner's endgame. I will get to that. But in the process of cross-referencing his testimony with the restricted texts, I found something else. Something I should have found sooner.
 
-[SFX: papers — Kaya's end, the sound of old documents being handled. The academic in his element, but his voice is tight] [under]
+[SFX: papers — Kaya's end, old documents being handled] [under]
 
-KAYA: You understand I told Rune about the Vow of Smoke weeks ago. The existence of it. The principle — a spoken promise that restructures the bond from parasitic to symbiotic. I told him it existed because he needed hope. What I did not tell him — what I did not fully understand at the time — are the mechanics. The cost.
+[DIRECTION: The academic in his element, but his voice is tight]
+
+KAYA: You understand I told Rune about the Vow of Smoke weeks ago. The existence of it. The principle — a spoken promise that restructures the bond from parasitic to symbiotic. I told him it existed because the texts indicated its plausibility. What I did not tell him — what I had not yet confirmed through the secondary sources — are the mechanics. The cost.
 
 [SFX: bond-hum — a pulse. Rune's frequency. The word "cost" landing] [under]
 
@@ -243,17 +253,19 @@ KAYA: Personhood. The vow does not make you weak, Ash. It makes you finite. It g
 
 KAYA: And it is permanent. If you speak the vow, you are bound to Rune forever. Not as a chain. As a choice. But forever is a long time for a being that was never meant to —
 
-[SFX: Ash's hand — on the table. Flat. The maps crinkling under his palm. Not a slam. A placement. The gesture of someone anchoring himself to something solid] [spot]
+[SFX: Ash's hand — on the table. Flat. The maps crinkling under his palm. A placement, not a slam] [spot]
+
+[DIRECTION: Ash's hand on the table — a grounding gesture. The weight audible in the SFX]
 
 ASH: For a being that was never meant to love. You can say it.
 
 [Silence — 1500ms]
 
-[SFX: Kaya's breathing on the phone — the pause of a man who has just heard the word he was avoiding spoken aloud by the person it applies to] [under]
+[SFX: Kaya's breathing on the phone — a held breath, then release] [under]
+
+[DIRECTION: Kaya pauses — longer than his usual strategic pauses. When he speaks again, his academic composure has a crack in it]
 
 KAYA: Yes.
-
-[Beat — 400ms]
 
 RUNE: Why didn't you tell me this before?
 
@@ -264,8 +276,6 @@ RUNE: Now what.
 KAYA: Now you are standing in your kitchen holding the phone on speaker so a god-eater wearing your sweatshirt can hear the terms of a binding that would make him mortal so that loving you does not kill you. The situation has evolved.
 
 [SFX: bond-hum — a pulse. Both of them. The sentence landing through the bond as much as through the air] [under]
-
-[Beat — 800ms]
 
 RUNE (inner monologue): Kaya heard it in my voice. Or he heard it from Mika. Or he's an academic who has spent thirty years studying the old gods and recognizes what love looks like across the mortal-divine divide because he carried a piece of it on a bronze chain around his neck.
 
@@ -283,7 +293,7 @@ RUNE: I'm not asking him anything.
 
 RUNE: That's his choice. Not mine.
 
-[SFX: Ash's gaze — not a sound, but the bond transmitting something. A shift. Rune feels it — the quality of being looked at by someone who has just heard you refuse to claim the thing that could save your life because claiming it would take away their freedom] [under]
+[DIRECTION: A long silence from Ash. When the bond-hum pulses, it carries something Rune will describe in the inner monologue that follows]
 
 [Silence — 2500ms]
 
@@ -299,15 +309,15 @@ KAYA: The summoner's endgame and the Vow's purpose are direct opposites. The sum
 
 {Scene 5 — Kitchen. After the call. The weight.}
 
-[AMBIENT: apartment — the mid-morning light steady now. Traffic. The city outside doing its ordinary work. Inside, two people with a permanent choice sitting between them] [bed]
+[AMBIENT: apartment — the mid-morning light steady now. Traffic. The city outside doing its ordinary work. Inside, the weight of a permanent choice filling the room] [bed]
 
-[SFX: bond-hum-warm — running. Neither of them has spoken since the call ended. The silence is not empty. It is full] [under]
+[SFX: bond-hum-warm — running. Continuous since the call ended] [under]
+
+[DIRECTION: Hold the silence after the call ends. No ambient fill — let the empty phone line ring in the ear before the first voice]
 
 [Silence — 2500ms]
 
 RUNE (inner monologue): The phone is dark on the table. The maps are still spread. His hand is still flat on the paper, the one he put down when Kaya said the word he was never meant to say. And I am standing three feet from him and the kitchen is the kitchen — the mugs, the coffeemaker, the counter where he kissed me last night — and between us the word "forever" is sitting like a third person who will not leave.
-
-[Beat — 800ms]
 
 ASH: You knew.
 
@@ -317,11 +327,9 @@ ASH: But you knew. Weeks ago. Kaya told you. And you did not tell me.
 
 [SFX: bond-hum — a flicker. Not anger. Something quieter. The register of hurt] [under]
 
-RUNE: I didn't tell you because I didn't want it to be a weapon. I didn't want you to feel like you owed me something. Like the vow was a transaction — your humanity for my survival.
+RUNE: I didn't want it to be a weapon. You hear "vow that saves Rune" and suddenly it's an obligation. A transaction.
 
-[Beat — 400ms]
-
-RUNE: I wanted you to choose because you chose. Not because I was dying.
+RUNE: I wanted you to choose. Not owe.
 
 [Silence — 1500ms]
 
@@ -333,7 +341,9 @@ ASH: And you held that information to protect my agency.
 
 RUNE: I held it because the vow means nothing if it's given out of guilt.
 
-[SFX: Ash lifting his hand from the table — standing straight. Looking at Rune with the expression he wore in the kitchen last night, before the kiss. The one that has no armor left] [spot]
+[SFX: Ash lifting his hand from the table — standing straight] [spot]
+
+[DIRECTION: Ash's voice drops its formal cadence — unguarded, the same vulnerable register from the kiss scene]
 
 ASH: Rune. You are the most infuriating person I have ever encountered in a thousand years of existence.
 
@@ -341,22 +351,24 @@ ASH: Rune. You are the most infuriating person I have ever encountered in a thou
 
 RUNE: Yeah. I get that a lot.
 
-[SFX: the breath — Ash's. Not a laugh. The thing adjacent to a laugh that he hasn't learned to complete. Closer than the last one] [spot]
+[SFX: Ash's exhale — brief, through the nose. Almost amused. Closer than the last one] [spot]
 
-[SFX: bond-hum-warm — settling. The tension from the call easing into something that is not resolution but is not crisis. The frequency of two people who have an impossible choice between them and are choosing to stand in the same room anyway] [under]
+[DIRECTION: Not a laugh. A breath that almost becomes one and stops — the muscular habit not yet formed]
+
+[SFX: bond-hum-warm — settling. The tension from the call easing. Not resolution, but not crisis] [under]
 
 RUNE (inner monologue): He doesn't say he'll speak the vow. He doesn't say he won't. He stands in the kitchen and looks at me and the bond runs between us at its new baseline — the one the kiss made, the one the embrace settled — and the word "forever" sits in the room and neither of us picks it up.
 
-[Beat — 800ms]
+RUNE (inner monologue): Two days to the aqueduct. A god to save. A summoner to stop. A bond that's killing me. A vow that could fix it — if the person I can't stop wanting is willing to trade eternity for a life with me.
 
-RUNE (inner monologue): Three days to the aqueduct. A god to save. A summoner to stop. A bond that's killing me. A vow that could fix it — if the person I can't stop wanting is willing to trade eternity for a life with me.
+[SFX: coffeemaker — the hiss, the drip, the ordinary rhythm of a kitchen doing what kitchens do] [under]
 
-[SFX: bond-hum-warm — pulsing. The double rhythm. Slow, matched, irrevocable. The sound of two people who are past the point of no return and know it and are standing in the light of a morning that shouldn't feel this ordinary] [bed, fade-out over episode end]
-
-RUNE (inner monologue): I didn't ask him. I won't ask him. If Ash speaks the Vow of Smoke it will be because he chose it. Freely. With full knowledge. The way the old texts describe.
+RUNE (inner monologue): I didn't ask him. I won't ask him. If Ash speaks the Vow of Smoke it will be because he chose it. Freely. With full knowledge. As the old texts describe.
 
 [Silence — 1500ms]
 
 RUNE (inner monologue): But standing in my kitchen, watching him drink cold coffee and study aqueduct maps in my sweatshirt, I think — for the first time since the shrine — that wanting something is not the same as being afraid of it. And I am not afraid.
+
+[SFX: the coffeemaker finishing — the last drip, then quiet. The city outside. Nothing else] [bed, fade-out over episode end]
 
 ---

@@ -13,7 +13,7 @@
 
 [SFX: bond-hum-warm — the restored frequency from ep22. Deeper register, cleaner than before the god-eater revelation. Ash beside him, step for step] [under]
 
-RUNE (inner monologue): The south quarter library was demolished nine years ago. Budget cuts. The city razed it and left the lot empty — chain-link fence, cracked foundation, weeds growing through the concrete. I've driven past it a hundred times. Never stopped. Never thought about it. But since last night — since Kaya said the word "vessel" and the shame in Ash went quiet — I feel things I didn't feel before. The lot is wrong. Not dangerous. Sad. The ground under it is grieving.
+RUNE (inner monologue): The south quarter library was demolished nine years ago. Budget cuts. The city razed it and left the lot empty — chain-link fence, cracked foundation, weeds growing through the concrete. I've driven past it a hundred times. Never stopped. Never thought about it. But since last night — since Kaya said the word "vessel" and the shame in Ash went quiet — something shifted. The lot is wrong. Not dangerous. Sad. The ground under it is grieving.
 
 [SFX: chain-link gate — Ash pushing it open. The metal protest, hinges rusted] [spot]
 
@@ -39,13 +39,13 @@ ASH: The god of forgotten places. Memory gods are the most fragile. They exist o
 
 [Beat — 400ms]
 
-ASH: It's been dying for nine years. Alone.
+ASH: It's been fading for centuries. But the library was the last anchor. When that came down nine years ago, the decline accelerated. Alone.
 
 [SFX: a sound — not the meridian-thrum. Something softer. Dust settling in a pattern. Pages turning in an empty room. The impression of a library, remembered by the ground] [under]
 
 [DIRECTION: The sound is subliminal. Not the vast cathedral acoustic of the aqueduct god. Smaller. Intimate. A god the size of a room, not a river]
 
-RUNE (inner monologue): The sound of dust. That's the only way I can describe it. Not falling — settling. Arranging itself. Like the air in the lot is trying to remember what used to fill it. Shelves. Paper. The particular quiet of people reading in the same room. The god of this place sounds like a library closing for the last time.
+RUNE (inner monologue): The sound of dust. That's the only way I can describe it. Not falling — settling. Arranging itself. Like the air in the lot is trying to remember what used to fill it. Shelves. Paper. The hush of people reading in the same room. The god of this place sounds like a library closing for the last time.
 
 [SFX: the air shifting — temperature dropping slightly around the crack. A presence condensing] [spot]
 
@@ -221,13 +221,13 @@ SABLE: The first texts called it the First Root. Not a god. Something that preda
 
 [DIRECTION: Ash's voice when he responds carries the archaic undertow — something in him recognizing what Sable describes]
 
-ASH: I can feel it. I've felt it since the aqueduct. Something beneath the gods. Deeper. Like standing over a pit with no bottom.
+ASH: It's there. It's been there since the aqueduct. Something beneath the gods. Deeper. Like standing over a pit with no bottom.
 
 [Silence — 1500ms]
 
 SABLE: Every god that dies weakens the cage. The summoner's kill pattern is not merely destroying gods. It is unlocking the Meridian. And if enough nodes fail —
 
-[SFX: meridian-thrum — the wavering frequency dropping, becoming irregular. The sound of a system under strain] [under]
+[SFX: meridian-thrum — the wavering frequency dropping, becoming irregular. A system under strain] [under]
 
 RUNE: The cage opens.
 

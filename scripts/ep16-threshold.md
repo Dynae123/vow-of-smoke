@@ -13,11 +13,13 @@
 
 RUNE (inner monologue): I make it through the door. That counts. I make it past the kitchen counter and down the hallway and my hand finds the bedroom wall and that counts too. Everything between the water treatment plant and here is a smear — Mika's taillights, the cold air, Ash's hand on my elbow twice when my legs forgot the sequence.
 
-[SFX: Rune sitting on the bed — slow, controlled. The mattress complaint. His shoes still on] [spot]
+[SFX: Rune sitting on the bed — slow, controlled. The mattress creaking] [spot]
 
-[SFX: bond-hum-settled — exhausted, thinned, the frequency of two depleted systems resting] [under]
+[DIRECTION: Rune's movements are heavy, effortful — barely made it this far]
 
-RUNE (inner monologue): The drain is still in me. Not the sharp pull of anchoring — that ended when Ash turned away from the god. This is what's left after. The empty socket where the energy was. I can feel the shape of what I spent and I don't know how to fill it.
+[SFX: bond-hum-settled — exhausted, thinned, two depleted systems at rest] [under]
+
+RUNE (inner monologue): The drain is still in me. Not the sharp pull of anchoring — that ended when Ash turned away from the god. This is what's left after. The empty socket where the energy was. The shape of what I spent sits hollow in my ribs and I don't know how to fill it.
 
 [SFX: Ash's footsteps — halting in the doorway. Not entering] [spot]
 
@@ -27,9 +29,7 @@ RUNE: Worked, though.
 
 ASH: That is not the metric I am using.
 
-[Beat — 800ms]
-
-RUNE (inner monologue): He's standing in my doorway. The same place he stood two weeks ago when I was dreaming about the temple. The same angle, the same shadow. But he's different. Smaller, somehow. Not in size — in the way he's holding himself. The defiance is gone. What's left is someone who doesn't know what to do with his hands.
+RUNE (inner monologue): He's standing in my doorway. The same place he stood two weeks ago when I was dreaming about the temple. The same angle, the same shadow. But he's different. Smaller, somehow. Not in size — in the way he's holding himself. The defiance is gone. What's left is someone standing very still with his arms close to his body, palms turned inward.
 
 ASH: You need water.
 
@@ -45,23 +45,25 @@ RUNE: Ash. I'm okay.
 
 [Silence — 1500ms]
 
-ASH: You are not. I can feel your pulse through the bond and it is erratic and your temperature is dropping and the bruises on your forearms have darkened since the tunnel and you are not okay. Do not say that to me.
+ASH: You are not. I can feel your pulse through the bond and it is erratic and your temperature is dropping and the bruises on your forearms have darkened since the tunnel and you are not okay. Don't say that to me.
 
-[SFX: Ash turning — footsteps toward the kitchen. Deliberate, purposeful. A man on a mission he's inventing as he goes] [bridge]
+[SFX: Ash turning — footsteps toward the kitchen] [bridge]
+
+[DIRECTION: Deliberate, purposeful. A man on a mission he's inventing as he goes]
 
 ---
 
 {Scene 2 — Kitchen / bedroom. Ash tends Rune. Getting it wrong and right.}
 
-[AMBIENT: kitchen — fridge hum, the tap, cabinets opening and closing with the frequency of someone who has memorized the layout but not the logic] [bed, crossfade]
+[AMBIENT: kitchen — fridge hum, the tap, cabinets opening and closing rapidly. Someone searching who has memorized the layout but not the logic] [bed, crossfade]
 
 [SFX: cabinet doors — three in succession, opened and closed. The rattle of mismatched glasses and mugs] [spot]
 
 RUNE (inner monologue): From the bedroom I can hear him in the kitchen. Cabinets. The tap. A mug — no, something lighter. He can't find the glasses. He's been living here for weeks and I realize he's never poured himself a glass of water. Tea, yes. Always in the blue mug. But water, no.
 
-[SFX: measuring cup filled from the tap — the particular sound of a Pyrex measuring cup, the scale markings against a thumb] [spot]
+[SFX: measuring cup filled from the tap — Pyrex on the counter, water rising against the graduated lines] [spot]
 
-[SFX: Ash's footsteps returning — the measuring cup set on the nightstand. Water shifting against graduated lines] [spot]
+[SFX: Ash's footsteps returning — the measuring cup set on the nightstand. Water shifting inside] [spot]
 
 ASH: I could not locate a glass.
 
@@ -73,15 +75,13 @@ ASH: This will serve.
 
 RUNE (inner monologue): He brought me water in a measuring cup. Eight ounces, exactly at the line.
 
-[Beat — 400ms]
-
-[SFX: Ash back in the kitchen — the sound of the soup can. The electric can opener. A bowl from the cabinet] [under]
+[SFX: Ash back in the kitchen — the soup can, the electric can opener, a bowl from the cabinet] [under]
 
 RUNE (inner monologue): I hear the can opener. Then the microwave. Then nothing for thirty seconds. Then the microwave door opening and a sound I can't place — a low hiss, brief, metallic.
 
-[SFX: microwave door opening. Then: Ash's palms around a ceramic bowl — temperature-spike, a faint hiss as his hands heat. Not fire. Conducted heat. The bowl warming] [spot]
+[SFX: microwave door opening. Then: a faint hiss as Ash's palms heat the ceramic bowl — conducted warmth, brief] [spot]
 
-[DIRECTION: Ash is heating the soup with his hands because the microwave didn't run long enough and he's impatient. Practical use of his nature — domestic, strange, unexpectedly tender]
+[DIRECTION: Ash is heating the soup with his hands because the microwave didn't run long enough and he's impatient. Practical use of his nature — domestic, strange, unexpectedly tender. Not fire. Just warmth from his palms]
 
 [SFX: footsteps returning. Bowl set on nightstand beside the measuring cup] [spot]
 
@@ -93,11 +93,9 @@ RUNE: Thanks.
 
 ASH: Eat.
 
-[SFX: Rune picking up the bowl. A spoonful. The domestic sounds of eating while someone watches] [spot]
+[SFX: Rune picking up the bowl. A spoonful. Quiet sounds of eating] [spot]
 
-[Silence — 1500ms]
-
-RUNE (inner monologue): He's standing. Not sitting. Hands at his sides. Watching me eat soup the way he watched the city from the rooftop — like something he's trying to understand from the outside. And the thing that's cracking me open is the effort. The measuring cup. The soup. His hands on the bowl. He doesn't know how to take care of someone. No one ever taught him. He's building it from first principles and the first principle he's working from is: keep him alive.
+RUNE (inner monologue): He's standing. Not sitting. Hands at his sides. Watching me eat soup with that same outside-looking-in expression he had on the rooftop — studying what he can't quite reach. And the thing that's cracking me open is the effort. The measuring cup. The soup. His hands on the bowl. He doesn't know how to take care of someone. No one ever taught him. He's building it from first principles and the first principle he's working from is: keep him alive.
 
 [SFX: Rune setting down the bowl — half-finished, spoon against ceramic] [spot]
 
@@ -107,9 +105,11 @@ ASH: Where.
 
 RUNE: Anywhere. The chair. The bed. The floor if you want.
 
-[SFX: Ash sitting — on the floor. Back against the wall, legs extended. The deliberate choice of the farthest point from the bed] [spot]
+[SFX: Ash sitting — on the floor. Back against the wall, legs extended] [spot]
 
-[SFX: bond-hum-warm — quiet, banked. The frequency of proximity without urgency] [under]
+[DIRECTION: The deliberate choice of the farthest point from the bed]
+
+[SFX: bond-hum-warm — quiet, banked. Proximity without urgency] [under]
 
 RUNE (inner monologue): He chooses the floor. I don't know why that makes my chest hurt but it does.
 
@@ -133,23 +133,25 @@ ASH: If you stop breathing, I will need to know.
 
 [Silence — 2500ms]
 
-[SFX: bond-hum — a pulse, soft, involuntary. The resonance of something understood] [under]
+[SFX: bond-hum — a pulse, soft, involuntary] [under]
 
 RUNE (inner monologue): The matter-of-fact desperation in his voice. Not dramatic. Not pleading. A statement of contingency planning from a being who has never needed to plan for anything because nothing in a thousand years has mattered enough to plan for.
 
 RUNE: Keep reading.
 
-[SFX: pages settling. Ash's voice continuing — lower, steadier. The words of airway management delivered with the gravity of sacred text] [under, fading]
+[SFX: pages settling. Ash's voice continuing — lower, steadier] [under, fading]
+
+[DIRECTION: The words of airway management delivered with the gravity of sacred text]
 
 ASH: "Position the head using the head-tilt chin-lift maneuver unless cervical spine injury is suspected. In cases of suspected spinal trauma, use the jaw-thrust technique..."
 
-[SFX: bond-hum-warm — settling, deepening. The two frequencies finding each other in the dark] [bed, fade-out]
+[SFX: bond-hum-warm — settling, deepening. Two frequencies finding each other] [bed, fade-out]
 
 ---
 
 {Scene 3 — Rune's apartment. The next day. Afternoon. Kaya's visit.}
 
-[AMBIENT: apartment, afternoon — brighter, traffic louder, the quality of recovered daylight. Rune on the couch now, blanket. Tea on the table — two mugs, one too strong] [bed]
+[AMBIENT: apartment, afternoon — brighter, traffic louder, recovered daylight. Rune on the couch now, blanket. Tea on the table — two mugs, one too strong] [bed]
 
 [SFX: apartment buzzer. Footsteps. Door opening] [spot]
 
@@ -177,7 +179,7 @@ KAYA: And yet you will do it again.
 
 RUNE: If I have to.
 
-[SFX: Kaya exhaling — the controlled breath of an academic choosing his words. Papers aligned on the table] [spot]
+[SFX: Kaya exhaling — controlled, measured. Papers aligned on the table] [spot]
 
 KAYA: Then you need context. Both of you.
 
@@ -209,8 +211,6 @@ KAYA: It gave me this. A fragment of its essence. Pressed into bronze by a hand 
 
 KAYA: I have carried it for thirty years. It is the reason I never stopped studying the old gods. Because I held one's hand while it died, and it gave me this so I would remember.
 
-[Beat — 800ms]
-
 RUNE (inner monologue): The parallel is a blade. A mortal who loved a god. A god who faded anyway. And the only thing left is a piece of bronze on a chain and the grief of someone who watched it happen and couldn't stop it.
 
 ASH: That is why you were expelled.
@@ -225,7 +225,9 @@ KAYA: I was not the only one expelled. Thirty years ago, a colleague reached the
 
 RUNE: Who was the colleague?
 
-[SFX: Kaya's hands on the pendant — closing around it. The sound of a man holding something instead of answering] [spot]
+[SFX: Kaya's hands closing around the pendant — tight, final] [spot]
+
+[DIRECTION: Kaya's breath catches. A long pause — the question deflected by silence, not refusal]
 
 KAYA: That is a conversation for another day. What matters now is this — the summoner uses god-keeper knowledge. The ritual circle beneath the church used symbols from the inner circle's restricted texts. The binding marks on Ash correspond to schematics that are not available to outsiders. Whoever is doing this was trained within the order.
 
@@ -233,7 +235,7 @@ ASH: The god-keepers are compromised.
 
 KAYA: Thessa's faction is compromised. Someone within her ranks — or someone who was once within her ranks — is feeding the summoner information, resources, or both.
 
-[SFX: papers gathered. Briefcase closing. Kaya standing — the finality of a man who has said what he came to say and is holding back the rest] [spot]
+[SFX: papers gathered. Briefcase closing. Kaya standing] [spot]
 
 KAYA: I will speak with Thessa. She will not want to hear this.
 
@@ -251,7 +253,7 @@ KAYA: Rest. Both of you. The next node in the pattern is the old aqueduct. We ha
 
 {Scene 4 — Rune's apartment. Night. "Stay."}
 
-[AMBIENT: apartment, deep night — the traffic reduced to singles, a distant siren once and gone, the radiator, the particular quiet of 3 AM in a small apartment] [bed]
+[AMBIENT: apartment, deep night — the traffic reduced to singles, a distant siren once and gone, the radiator, the stillness that only settles at 3 AM] [bed]
 
 [SFX: Rune in bed — the shift of sheets, the restlessness of someone who can't get comfortable. Shallow breathing] [under]
 
@@ -259,11 +261,9 @@ RUNE (inner monologue): Eleven-thirty. Midnight. One. The clock in the kitchen t
 
 [SFX: bond-hum-neutral — present, steady. Ash in the living room. Awake] [under]
 
-RUNE (inner monologue): He's awake. On the couch. I can feel him the way I've felt him every night for three weeks — the low warmth, the weight of another consciousness on the other side of the wall. But tonight it's different. The bond isn't the taut wire it usually is at night. It's — listening. Like he's monitoring my breathing through it the way I monitor patients. Watching for the change that means trouble.
+RUNE (inner monologue): He's awake. On the couch. The bond hums his presence the way it has every night for three weeks — the low warmth, the weight of another consciousness on the other side of the wall. But tonight it's different. The bond isn't the taut wire it usually is at night. It's — listening. Like he's monitoring my breathing through it the way I monitor patients. Watching for the change that means trouble.
 
 [SFX: footsteps — quiet, bare feet on hardwood. Ash in the hallway, stopping at the bedroom doorway] [spot]
-
-[Silence — 1500ms]
 
 ASH: Your breathing changed. In your sleep.
 
@@ -285,15 +285,13 @@ ASH: You were. Briefly. Between one-seventeen and one-forty-three. Twenty-six mi
 
 RUNE (inner monologue): He timed it. He sat on the couch in the dark and felt my breathing change through the bond and he timed the dream to the minute. And he's standing in my doorway telling me this like it's a clinical report because that's the language he's learned from me.
 
-[Silence — 2500ms]
-
 RUNE (inner monologue): I think about the spring god dissolving. The measuring cup on the nightstand. His hands around the soup bowl. The paramedic manual. If you stop breathing, I will need to know. Twenty-six minutes of dreaming and he counted every one.
 
 RUNE: Stay.
 
-[SFX: the word landing in the room — small, plain, enormous. No ambient change. The silence after a choice] [spot]
+[Silence — 1500ms]
 
-[Beat — 800ms]
+[DIRECTION: "Stay" — quiet, unadorned. Not a command. A request that costs Rune everything to voice]
 
 ASH: Rune.
 
@@ -303,31 +301,31 @@ RUNE: I'm making space. Stay.
 
 [Silence — 2500ms]
 
-[SFX: Ash — one step. Two. The floorboard near the bed. Then the careful, rigid lowering of weight onto a mattress — fully clothed, on top of the covers, the farthest edge from Rune. The bed accepting this new architecture] [spot]
+[SFX: Ash — one step. Two. The floorboard near the bed. Then the careful, rigid lowering of weight onto a mattress — fully clothed, on top of the covers, the farthest edge from Rune] [spot]
 
 [DIRECTION: He lies down the way someone lies down who has never shared a bed. Board-straight. Arms at his sides. Looking at the ceiling. Not breathing because he's forgotten that people who are pretending to be calm still breathe]
 
-[SFX: bond-hum — shifting. The agitation smoothing. The two frequencies that have been running in parallel all night finding each other, aligning, settling into something slower. Something that sounds like breathing] [under]
+[SFX: bond-hum — shifting. The agitation smoothing. Two frequencies that have been running in parallel all night finding each other, aligning, settling into something slower] [under]
 
-RUNE (inner monologue): He's on the bed. On top of the covers. As far from me as the mattress allows. He's rigid and he's not breathing and the heat coming off him is the steady radiance of something that burns at its core and I can feel the bond changing.
+RUNE (inner monologue): He's on the bed. On top of the covers. As far from me as the mattress allows. He's rigid and he's not breathing and the heat coming off him is the steady radiance of something that burns at its core and the bond is changing.
 
 [SFX: bond-hum-settled — deep, warm, banked. Not the surge of contact or the wire of distance. Something new. A held note] [under]
 
 RUNE (inner monologue): Not burning. Not the drain I've felt every time we've touched — the hand-holding, the bathroom, every charged moment when the bond ate more of me than it gave back. This is different. The bond is — breathing. Two rhythms finding each other in the dark. His heartbeat and mine, mismatched at first, settling.
 
-[SFX: two heartbeats — not literal, but the bond-hum pulsing in a double rhythm that gradually synchronizes. Slow. Warm] [under, fading to bed]
+[SFX: bond-hum pulsing in a double rhythm that gradually synchronizes. Slow. Warm] [under, fading to bed]
 
 RUNE (inner monologue): I lie still. He lies still. The covers between us. The heat coming through anyway. And for the first time in weeks the bond isn't taking. It's just... there. Present. Calm. Like the difference between a fire and a hearth.
 
-[Beat — 800ms]
+RUNE (inner monologue): Proximity isn't the variable. Every charged moment — the hand-holding, the near-touch, the bathroom where his fingers found my jaw — the drain spiked. But this. Quiet proximity. Chosen calm. Just lying beside each other with nothing to prove and nothing to fight and nowhere to be. The bond responds to intent and intensity, not just distance. Intensity feeds the drain. The calm banks it.
 
-RUNE (inner monologue): Proximity isn't the variable. Every charged moment — the hand-holding, the near-touch, the bathroom where his fingers found my jaw — the drain spiked. But this. Quiet proximity. Chosen calm. Just lying beside each other with nothing to prove and nothing to fight and nowhere to be. The bond responds to intent and intensity, not just distance. The fire feeds on fire. The calm banks it.
+[SFX: Rune's breathing — slowing. Deepening. The rhythm of genuine sleep settling in for the first time in weeks] [under]
 
-[SFX: Rune's breathing — slowing. Deepening. The sound of someone genuinely falling asleep for the first time in weeks] [under]
+RUNE (inner monologue): The distinction goes into the same mental drawer as the bloodwork and the timetable. Proximity isn't the variable. It's what you bring to it.
 
-RUNE (inner monologue): I file the distinction away like a clinical note. Proximity isn't the variable. It's what you bring to it.
+[SFX: bond-hum-settled — holding. The two frequencies synchronized] [bed, fade-out over episode end]
 
-[SFX: bond-hum-settled — holding. The two frequencies synchronized. A sound like a door that was always locked, quietly, simply, opening] [bed, fade-out over episode end]
+[DIRECTION: Rune's final line delivered softly, almost drowsy — the relief of letting go]
 
 RUNE (inner monologue): He's here. He's staying. And the bond isn't burning. It's breathing.
 

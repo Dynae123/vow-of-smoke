@@ -5,23 +5,23 @@
 
 ---
 
-{Scene 1 — Rune's apartment. Morning. Three days to solstice.}
+{Scene 1 — Rune's apartment. Bathroom. 6 AM. Three days to solstice.}
 
-[AMBIENT: apartment — early morning. The radiator clicking. Street noise muffled through glass. The apartment sounds the same as always, but the quality of silence inside it has changed. Thinner. The silence of people waiting] [bed]
-
-[SFX: water running — bathroom sink. Brief. Then off] [spot]
+[SFX: water running — bathroom sink. Coughing. The wet sound of blood hitting porcelain under the stream] [spot]
 
 [SFX: bond-hum — present but strained. A frequency running slightly too fast, like a pulse that can't settle] [under]
 
-RUNE (inner monologue): Three days. I cough blood into the sink at 6 AM and rinse it down before the stain sets. The trick is running the water first so the sound covers it. The trick is not looking at the color.
+RUNE (inner monologue): Three days. The trick is running the water first so the sound covers the cough. The trick is not looking at the color. Rinse it down before the stain sets.
 
-[SFX: Rune's hands — turning off the tap. The small wet sound of drying them on a towel. One hand tremoring against the fabric] [spot]
+[SFX: Rune's hands — turning off the tap. Drying them on a towel. One hand tremoring against the fabric] [spot]
 
 RUNE (inner monologue): My hands have been shaking since Tuesday. Not the occasional tremor from the bond drain — a constant low vibration, like I'm running a current I can't shut off. I tape them under the latex gloves at work and tell Mika it's a tendon thing. She doesn't believe me. She stops asking.
 
-[SFX: the bathroom door — opening. Rune stepping into the hallway. The apartment acoustic, familiar, close] [spot]
+[AMBIENT: apartment — early morning. The radiator clicking. Street noise muffled through glass. The silence of people waiting] [bed]
 
-[SFX: Ash — in the kitchen. The specific sound of someone making coffee badly. Water too hot, grounds too much, the french press over-compressed. But the smell is right] [under]
+[SFX: the bathroom door — opening. Rune stepping into the hallway] [spot]
+
+[SFX: Ash — in the kitchen. Someone making coffee badly. Water too hot, grounds too much, the french press over-compressed. But the smell is right] [under]
 
 [SFX: bond-hum — the frequency adjusting as Rune enters the kitchen. Closer now. The bond noting the proximity like it always does, but underneath: Ash's frequency carrying something tight and watchful] [under]
 
@@ -55,7 +55,7 @@ RUNE: Twice a day. Sometimes three.
 
 [Silence — 1500ms]
 
-RUNE (inner monologue): He doesn't say anything. He doesn't need to. Through the bond I can feel the inventory he's running — not of my symptoms but of the time they represent. The distance between now and the word Sable used. Weeks. And whether weeks is a number that still has room in it.
+RUNE (inner monologue): He doesn't say anything. He doesn't need to. Through the bond — the inventory he's running — not of my symptoms but of the time they represent. The distance between now and the word Sable used. Weeks. And whether weeks is a number that still has room in it.
 
 [SFX: a knock — the front door. Measured, deliberate. Kaya's knock. Three, then a pause, then one] [spot]
 
@@ -101,7 +101,7 @@ KAYA: Then the completion is impossible. The mechanism she designed — making y
 
 [Silence — 1500ms]
 
-[SFX: bond-hum — a shift. Something opening in the frequency. Not relief — the thing before relief, where the body recognizes a door and hasn't decided whether to walk through it] [under]
+[SFX: bond-hum — a shift. Something opening in the frequency. Not relief — the breath before relief, where the body recognizes a door and hasn't decided whether to walk through it] [under]
 
 ASH: So the vow saves Rune and stops the summoner.
 
@@ -127,7 +127,7 @@ KAYA: I will leave the texts. The pronunciation guide is annotated. The words ar
 
 [SFX: the door — Kaya leaving. The latch. His footsteps in the hall, slower than they used to be] [spot]
 
-[SFX: bond-hum — the apartment settling into two people. The frequency Kaya's departure leaves behind is the shape of the choice he laid on the table] [under]
+[SFX: bond-hum — the apartment settling into the frequency Kaya's departure leaves behind. The shape of the choice he laid on the table] [under]
 
 ---
 
@@ -135,7 +135,7 @@ KAYA: I will leave the texts. The pronunciation guide is annotated. The words ar
 
 [AMBIENT: apartment — quiet. Late morning light through the window. The laminated pages on the table catching the sun. The coffee mugs cold. The radiator clicking] [bed]
 
-[SFX: Ash — at the window. The posture Rune has catalogued for five weeks: one shoulder against the frame, jaw set, eyes on the city but seeing something further. The shadows at his feet long and still] [spot]
+[SFX: Ash — at the window. One shoulder against the frame, jaw set. The shadows at his feet long and still] [spot]
 
 [SFX: bond-hum — open. Raw. The managed frequency they've maintained since the aqueduct dropped like a guard they're both too tired to hold] [under]
 
@@ -161,13 +161,13 @@ RUNE: I mean it. There might be another —
 
 ASH: I said don't. Don't give me a noble exit. Don't tell me I have a choice when we both know I made it the night I stayed in your bed.
 
-[SFX: bond-hum — trembling. The frequency between them vibrating at a pitch that is neither warm nor cold. The sound of a truth that has been under pressure for weeks finding a crack] [under]
+[SFX: bond-hum — trembling. The frequency vibrating at a pitch that is neither warm nor cold. Raw. Pressurized] [under]
 
 [Beat — 800ms]
 
 ASH: Don't stand there and offer me an alternative as if the alternative is anything other than watching you die. Don't tell me there might be another way when every day I feel you getting thinner through the bond — the pulse fainter, the warmth less. Don't —
 
-[SFX: Ash's voice — cracking. Not loudly. The sound of a fracture under strain, not a break. He stops mid-sentence. The silence where the rest of the word should be] [spot]
+[SFX: Ash's voice — cracking. Not loudly. A fracture, not a break. He stops mid-sentence. Silence where the rest of the word should be] [spot]
 
 [Silence — 1500ms]
 
@@ -191,7 +191,7 @@ RUNE: Okay. I hear you.
 
 ASH: I am not doing this to save you. I am doing this because the alternative is a thousand more years of being the thing they made me. And I would rather be mortal in your kitchen burning coffee than divine and alone in the dark.
 
-[SFX: bond-hum — a long, sustained note. The frequency of a sentence that rearranges everything. Not a declaration of love — a declaration of self. The man choosing the man over the god] [under]
+[SFX: bond-hum — a long, sustained note. Not a declaration of love. A declaration of self] [under]
 
 [Silence — 2500ms]
 
@@ -199,7 +199,7 @@ RUNE (inner monologue): He's shaking. His hand over mine, gripping too tight, th
 
 [SFX: Rune — stepping closer. Not a kiss. Not an embrace. Forehead against Ash's shoulder. The contact minimal, total. The bond humming through every point where they touch] [spot]
 
-[SFX: bond-hum — settling. Not resolved. Held. The frequency of two people standing at the window in late morning light with a decision between them that they've already made and are pretending they haven't because making it real means it's tomorrow] [under]
+[SFX: bond-hum — settling. Not resolved. Held. The frequency of a decision already made and not yet spoken — late morning light, the window, tomorrow waiting] [under]
 
 [Beat — 800ms]
 
@@ -223,7 +223,7 @@ ASH: It deserves intention.
 
 [AMBIENT: apartment — evening. The light changed. The lamp at its wrong angle casting familiar shadows. Kaya's texts still on the table. The mugs washed and upside-down on the rack. The radiator louder in the quiet] [bed, crossfade]
 
-[SFX: bond-hum — the frequency from earlier, but quieter now. Not calm — banked. The sound of two people who have stopped arguing with the inevitable and are sitting with it instead] [under]
+[SFX: bond-hum — the frequency from earlier, but quieter now. Not calm — banked. The circuit running quiet between them, the inevitable accepted] [under]
 
 [SFX: Rune on the couch — a tissue pressed to his nose. Quick, practiced. The nosebleed managed like a routine] [spot]
 
@@ -235,7 +235,7 @@ RUNE (inner monologue): Evening. Three days to solstice. The nosebleed starts at
 
 [SFX: Rune — standing. Moving to the window. Standing close enough that the bond hums without contact. The heat from Ash's body warming the air between them] [spot]
 
-[SFX: bond-hum — steady. Warm. The frequency of proximity without agenda. Just two people at a window at the end of a long day] [under]
+[SFX: bond-hum — steady. Warm. The frequency of proximity without agenda. Rune and Ash at the window, the day behind them] [under]
 
 [Silence — 2500ms]
 
@@ -245,7 +245,7 @@ ASH (without turning): Tomorrow. On the roof. I want to speak it where we can se
 
 RUNE: Okay.
 
-[SFX: bond-hum — a pulse at the word. Not relief. Arrival. The sound of a destination acknowledged] [under]
+[SFX: bond-hum — a pulse at the word. Not relief. Arrival] [under]
 
 [Silence — 1500ms]
 
@@ -253,7 +253,7 @@ RUNE: Okay.
 
 ASH: And Rune — I need you to know something before I do. This isn't the bond choosing. This isn't the god-eater's instinct. This is me.
 
-[SFX: bond-hum — the frequency carrying the weight of "me." Not the vessel. Not the weapon. Not the mechanism Selin designed. The man who learned to make coffee from YouTube and bookmarked the page on CPR and holds Rune's wrist without knowing he's doing it] [under]
+[SFX: bond-hum — the frequency carrying the weight of "me." Not the vessel. Not the weapon. The man] [under]
 
 [Silence — 2500ms]
 
@@ -263,7 +263,7 @@ RUNE (inner monologue): This is me. Two words. No qualifier. No archaic syntax. 
 
 RUNE (inner monologue): I don't say anything. I don't need to. Through the bond he can feel every word I'm not saying and every one of them means the same thing.
 
-[SFX: bond-hum — the final note. Both frequencies aligned. The sound of a threshold neither of them has crossed yet, tomorrow's roof waiting above them, the city counting down below] [bed, fade-out]
+[SFX: bond-hum — the final note. Both frequencies aligned. Tomorrow's roof waiting above them, the city counting down below] [bed, fade-out]
 
 RUNE (inner monologue): Tomorrow. The roof. The sky. And the words that seal a god into a man and a man into a life and the door shuts and the key melts and whatever he was before — the thousand years, the hunger, the infinite dark — becomes the price he paid for a kitchen and bad coffee and me. Tomorrow. Three days to solstice. And tonight the bond hums between us like a held breath, and he stands at the window, and I stand beside him, and neither of us moves, and that's enough.
 

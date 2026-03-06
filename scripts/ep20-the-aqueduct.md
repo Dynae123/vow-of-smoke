@@ -7,7 +7,7 @@
 
 {Scene 1 — Underground. The descent. The team.}
 
-[AMBIENT: underground tunnel system — water echoing off stone, dripping, the acoustic compression of being deep beneath a city. Old air. The particular reverb of ancient waterways] [bed]
+[AMBIENT: underground tunnel system — water echoing off stone, dripping, the acoustic compression of being deep beneath a city. Old air. Deep natural reverb off ancient waterways] [bed]
 
 [SFX: footsteps — multiple sets on wet stone. Boots, careful placement. The group moving in formation through a narrow passage] [bridge]
 
@@ -23,7 +23,9 @@ RUNE (inner monologue): The team. Kaya at the back with his maps and his pendant
 
 RUNE (inner monologue): And Thessa. Leading. She has not spoken to Ash since the entrance. She has not spoken to me either. She walks at the front with a lamp that shouldn't exist — divine light, pale blue, the god-keeper tool that reveals what's hidden — and her silence fills the tunnel more thoroughly than the dark.
 
-[SFX: Ash beside Rune — his footsteps quieter than they should be. Shadows pooling around his feet, moving with him like something alive] [under]
+[SFX: Ash's footsteps beside Rune — quieter than they should be. Ash-shadows-stir underfoot] [under]
+
+[DIRECTION: Shadows pooling around his feet, moving with him like something alive]
 
 ASH (low, to Rune): The god is below us. Deep. I can feel it through the stone.
 
@@ -57,7 +59,7 @@ THESSA: Here. The descent.
 
 [SFX: bond-hum-agitated — subtle. Ash's frequency. The hunger stirring as they get closer to the god] [under]
 
-RUNE (inner monologue): I feel it through the bond — the pull. Not the sharp roar of the spring. Something larger. The aqueduct god is ancient and vast and the hunger in Ash is responding to it the way iron responds to a magnet. He's controlling it. His jaw is set, his hands are loose at his sides, and I can feel the cost of that control radiating through the bond like heat through a wall.
+RUNE (inner monologue): I feel it through the bond — the pull. Not the sharp roar of the spring. Something larger. The aqueduct god is ancient and vast and the hunger in Ash is responding to it the way iron responds to a magnet. He's controlling it. His jaw is set, his hands are loose at his sides, and the cost of that control radiates through the bond like pressure through a wall.
 
 ASH (to Rune, barely audible): Stay close to me.
 
@@ -71,11 +73,17 @@ RUNE: I'm right here.
 
 [AMBIENT: deep underground — the acoustic of a large natural cave. Running water, close and constant. The thrum of the Meridian, audible here, a subsonic vibration in the stone itself] [bed]
 
-[SFX: the team emerging into the main chamber — footsteps on stone transitioning to the wider space. Flashlight beams sweeping. The sound of awe and fear] [spot]
+[SFX: meridian-thrum — deep, geological, resonating through the chamber walls. Stronger than any previous instance — this is a primary node] [under]
+
+[SFX: footsteps on stone transitioning to the wider space — the team emerging into the main chamber] [spot]
+
+[DIRECTION: The breathing changes — slower, involuntary. The acoustic shift tells the listener how large this space is]
 
 RUNE (inner monologue): The aqueduct. The word doesn't cover it. A cathedral carved by water and time — stone arches sixty feet high, the channel cut deep into the rock, water still flowing, black and slow and luminous. The walls are covered in carvings older than any language I can read. And at the far end, where the water deepens into a pool — light. Pale, blue-green, shifting. The god.
 
-[SFX: the aqueduct god — a presence. Not a sound exactly, but the water responding. The current shifting direction. The light in the pool pulsing with a rhythm that is not mechanical. Ancient. Patient. Aware] [under]
+[SFX: the aqueduct god — water responding to a presence. The current shifting direction. A deep, subsonic pulse from the pool, rhythmic, ancient] [under]
+
+[DIRECTION: The water sound itself shifts — the current takes on a rhythmic quality, patient and deliberate. This IS the god's voice before it speaks]
 
 [SFX: ash-shadows-stir — involuntary. The shadows around Ash reaching toward the light, toward the divine presence. His hands clenching at his sides] [spot]
 
@@ -105,13 +113,15 @@ RUNE (inner monologue): The ceiling comes down in sections. Controlled. Like som
 
 ASH: RUNE —
 
-[SFX: stone — the final section falling. The passage sealed. Dust settling. The sound of separation made permanent] [spot]
+[SFX: stone — the final section falling. The passage sealed. Dust settling] [spot]
+
+[DIRECTION: Hard silence after the last stone settles. Hold it — let the listener feel the sealed passage]
 
 [Silence — 1500ms]
 
 [SFX: bond-hum — stretching. The frequency thinning with distance, becoming a wire pulled taut. Not breaking — the bond does not break. But straining. The empathic connection attenuating as stone walls multiply between them] [under]
 
-RUNE (inner monologue): Gone. The passage is sealed. Rubble floor to ceiling. And through the bond I can feel him — below me, separated by twenty feet of collapsed stone, and the pull between us is a scream I can hear with my whole body.
+RUNE (inner monologue): Gone. The passage is sealed. Rubble floor to ceiling. And the bond tells me where he is — below me, separated by twenty feet of collapsed stone, and the pull between us is a scream I can hear with my whole body.
 
 [SFX: coughing — dust. Mika beside Rune. Kaya farther back. Thessa and one acolyte on their side. The other acolyte — gone, on the lower level with Ash] [spot]
 
@@ -145,9 +155,11 @@ RUNE (inner monologue): The summoner didn't need to be here. Didn't need rituali
 
 [SFX: bond-hum — distant, thinned. Rune's frequency reduced to a thread. Not enough to anchor. Not enough to steady. Just enough to feel] [under]
 
-[DIRECTION: Ash on his knees on the wet stone. The aqueduct god manifesting in the pool — a figure made of flowing water, ancient, enormous, taking shape slowly. The god's light is blue-green and it pulses with a rhythm like breathing. The hunger in Ash is a visible thing — shadows lunging, pulling back, lunging again. He is holding himself together through will alone]
+[DIRECTION: Ash's breathing is harsh, controlled through clenched teeth. The god's water-voice is vast, reverberant. Ash's lines in this scene are delivered with physical strain — the voice of someone fighting his own body]
 
-[SFX: the aqueduct god — water given voice. Not human speech but the impression of speech. The sound of a river that has been flowing for four thousand years and is very tired. Echo, reverb, layered] [spot]
+[SFX: the aqueduct god — water given voice. Deep reverb, echo, layered harmonic. A frequency that oscillates, not human speech but the impression of speech] [spot]
+
+[DIRECTION: The god's voice — deep reverb, slow cadence. Ancient weariness in the delivery. A being that has been patient for millennia and is running out]
 
 THE AQUEDUCT GOD: You are the one they made. The eater of gods.
 
@@ -177,7 +189,9 @@ ASH: No.
 
 THE AQUEDUCT GOD: Why. It is what you were made for.
 
-[SFX: Ash standing — the wet stone, the effort. His body shaking. The shadows around him pulling toward the god like a tide, and Ash pulling them back. The physical cost of refusal visible in the tremor of his voice] [spot]
+[SFX: Ash standing — the wet stone, the effort. His body shaking. Ash-shadows pulling toward the god, Ash pulling them back] [spot]
+
+[DIRECTION: The physical cost of refusal — voice tremoring, legs barely holding. Deliver lines through clenched teeth]
 
 ASH: I was made for a lot of things. I am choosing something else.
 
@@ -185,11 +199,13 @@ ASH: I was made for a lot of things. I am choosing something else.
 
 [Beat — 800ms]
 
-[DIRECTION: Ash standing in the chamber with the divine light washing over him and the hunger howling in every cell and the shadows thrashing and his hands shaking and he is choosing. Not because Rune is watching — Rune cannot see him. Not because anyone is watching. The acolyte who fell to this level is unconscious against the far wall. There is no audience. There is only a being who was made to devour, standing in front of something ancient and dying, and refusing]
+[DIRECTION: Ash alone. No audience — the acolyte is unconscious. Ash's breathing is the only human sound. His "no" carries the strain of physical resistance, as though refusing to move toward something pulling him bodily]
 
 THE AQUEDUCT GOD: Something else.
 
-[SFX: the god's voice — softer now. The water stilling. The curiosity of something four thousand years old encountering a thing it did not expect] [under]
+[SFX: the god's voice — softer now. The water stilling. The harmonic shifting, lower, slower] [under]
+
+[DIRECTION: The god's voice shifts — slower, softer. Genuine curiosity replacing resignation]
 
 ASH: Someone. Something. I do not have the right word. But the bond — the thread I can feel through the stone above me — the person on the other end of it is fighting to reach me right now. I can feel him. He is pulling rubble with his hands and his blood is thin and his body is breaking and he is coming anyway.
 
@@ -203,11 +219,15 @@ ASH: And I will not be the thing they made me when he gets here.
 
 THE AQUEDUCT GOD: The water remembers many things. It will remember this. A god-eater who chose to be hungry.
 
-[SFX: the god dissolving — not the violent ripping of the spring. A release. The light descending into the pool, the form losing coherence, the water accepting the return of something vast and patient. Not dead — dormant. The spring going still beneath the chamber] [spot]
+[SFX: the god dissolving — not the violent ripping of the spring. A release. The light descending into the pool, the form losing coherence, the water accepting the return of something vast and patient. Not dead — dormant] [spot]
 
-[SFX: power — streaming past Ash. The residual divine energy released by the god's dissolution, flowing through the chamber like a current of light. Streaming past him unclaimed. The hunger screaming in him and the power right there and he lets it pass] [under]
+[SFX: residual divine energy — streaming past Ash. A whoosh of power flowing through the chamber like a current, unclaimed] [under]
 
-[SFX: Ash — the cost. A sound like a man who has been holding a weight too long. His knees hitting stone. The shadows around him thin, tattered, the fire guttering. Weakened. Choosing cost him something physical and he paid it] [spot]
+[DIRECTION: The hunger screaming in him and the power right there and he lets it pass]
+
+[SFX: Ash — knees hitting stone. A strained exhale, the sound of someone who has been holding a weight too long. The fire guttering] [spot]
+
+[DIRECTION: The shadows around him thin, tattered. Weakened. Choosing cost him something physical and he paid it]
 
 ---
 
@@ -233,15 +253,17 @@ RUNE: That leads down?
 
 THESSA: If it has not collapsed as well. It is — narrow.
 
-[SFX: Rune already moving — into the crack. No hesitation. The sound of shoulders scraping stone walls. His breathing in the confined space] [spot]
+[SFX: Rune already moving — into the crack. No hesitation. Shoulders scraping stone walls. His breathing in the confined space] [spot]
 
 MIKA: Rune — wait. Together.
 
-[SFX: Mika following — her smaller frame through the gap. Kaya staying above. Thessa pausing, then following. The sound of authority deciding to trust someone she has spent weeks despising] [bridge]
+[SFX: Mika following — her smaller frame through the gap] [bridge]
+
+[DIRECTION: Kaya staying above. Thessa pausing, then following — authority deciding to trust someone she has spent weeks despising]
 
 [SFX: bond-hum — strengthening with each step down. Rune's compass pulling him. The thread between them brightening as the stone thins] [under]
 
-RUNE (inner monologue): Down. Narrower. The stone scraping my shoulders and my hands slick with blood and the bond getting louder with every step. He's alive. He's there. The thread is dim but it's there and I am following it the way I follow a pulse — the way I've always followed a pulse. Toward the thing that's still beating.
+RUNE (inner monologue): Down. Narrower. The stone scraping my shoulders and my hands slick with blood and the bond getting louder with every step. He's alive. He's there. The thread is dim but it's there and I am following it like a pulse. Toward the thing that's still beating.
 
 [SFX: the passage opening — a break in the stone. Emerging into the lower chamber. The sound of water and fading light] [spot]
 
@@ -249,19 +271,21 @@ RUNE (inner monologue): Down. Narrower. The stone scraping my shoulders and my h
 
 {Scene 5 — The lower chamber. Reunion.}
 
-[AMBIENT: lower chamber — the water settling. The divine light gone. The thrum of the Meridian still present but muted. The aftermath of something enormous and quiet] [bed]
+[AMBIENT: lower chamber — the water settling. The divine light gone. The aftermath of something enormous and quiet] [bed]
+
+[SFX: meridian-thrum — still present but muted, hollowed out. The node holding but diminished] [under]
 
 [SFX: Rune's footsteps — stumbling on wet stone. Running. The carelessness of someone who does not care about footing] [spot]
 
 [SFX: bond-hum-surge — the thread becoming a rope becoming a current as the distance closes] [spot]
 
-RUNE (inner monologue): I see him. On his knees. The water dark around him, the light gone, the shadows at his feet thin as smoke. His shoulders curved. His hands on the stone. And around him — nothing. The power is gone. The god is gone. And he is still here.
+RUNE (inner monologue): I see him. On his knees. The water dark around him, the light gone, the shadows at his feet thin as mist. His shoulders curved. His hands on the stone. And around him — nothing. The power is gone. The god is gone. And he is still here.
 
 [SFX: Rune dropping beside Ash — knees on wet stone. His hands finding Ash's face. Both hands. Cupping his jaw. The bond blazing at the contact] [spot]
 
 RUNE: I'm here. I'm here.
 
-[SFX: bond-hum — the frequencies slamming back together. Not the controlled reunion of proximity. The violent relief of two systems reconnecting after near-severance. A sound like a breath held too long finally released] [under]
+[SFX: bond-hum — the frequencies slamming back together. The violent relief of two systems reconnecting after near-severance. A sound like a breath held too long finally released] [under]
 
 ASH (rough, barely audible): I heard you. Through the bond. You were coming.
 
@@ -269,17 +293,19 @@ RUNE: I was always coming.
 
 [Beat — 800ms]
 
-[SFX: Ash's hand — lifting. Slow, weak. Finding Rune's wrist. Gripping. The god-eater who just refused to consume a god holding onto a paramedic's wrist like it's the only solid thing left] [spot]
+[SFX: Ash's hand — lifting. Slow, weak. Finding Rune's wrist. Gripping] [spot]
+
+[DIRECTION: Ash's grip is weak — the audience hears the effort in the contact. His fingers finding Rune's wrist and holding]
 
 RUNE (inner monologue): His grip. Weak. The fire in him banked to embers. The shadows barely visible. The selective invulnerability that made him untouchable by divine forces — he paid for the refusal with the reserves that powered it. He chose not to eat and his body is making him pay for it.
 
-[SFX: Mika emerging from the passage behind them — headlamp sweeping. Med kit already opening. The paramedic assessing from ten feet away] [spot]
+[SFX: Mika emerging from the passage behind them — headlamp sweeping. Med kit already opening] [spot]
 
 MIKA: Is he hurt?
 
 RUNE: Depleted. He refused to feed.
 
-[SFX: Mika kneeling — the other side of Ash. Clinical, quick. Checking pulse, pupil response with her penlight. The sounds of triage applied to something that isn't quite human] [spot]
+[SFX: Mika kneeling — the other side of Ash. Clinical, quick. Checking pulse, pupil response with her penlight] [spot]
 
 MIKA: Pulse is there. Slow but steady. Temperature dropping — that's new. He's usually a furnace.
 
@@ -289,7 +315,9 @@ RUNE: The energy reserve. He spent it holding back.
 
 [Silence — 2500ms]
 
-[SFX: Thessa's footsteps — approaching. Slow. The pace of someone revising a conviction held for decades] [spot]
+[SFX: Thessa's footsteps — approaching. Slow] [spot]
+
+[DIRECTION: Thessa's approach is slow. Her voice, when it comes, is stripped of its usual authority — quieter, measured differently]
 
 THESSA: The god.
 
@@ -299,7 +327,9 @@ RUNE: Dissolved. But not consumed. The spring beneath it — Ash said it went st
 
 THESSA: You refused the power.
 
-[SFX: Ash lifting his head — the effort of it. Looking at Thessa. The god-eater and the god-keeper, facing each other in the dark] [spot]
+[SFX: Ash lifting his head — the effort of it. Looking at Thessa] [spot]
+
+[DIRECTION: Ash's voice is spent — barely above a whisper. He addresses Thessa directly, eye-level]
 
 ASH: Do not make me a saint. I wanted it. Every cell in me wanted it. The hunger is still there. It will always be there.
 
@@ -313,7 +343,9 @@ ASH: I just wanted something else more.
 
 [Silence — 1500ms]
 
-[SFX: Thessa — the smallest sound. Not a word. The exhale of a woman who has been certain about what god-eaters are for her entire life and is watching that certainty dissolve in a flooded chamber forty meters underground] [spot]
+[SFX: Thessa — an exhale. Small, quiet] [spot]
+
+[DIRECTION: The sound of a woman who has been certain about what god-eaters are for her entire life and is watching that certainty dissolve in a flooded chamber forty meters underground]
 
 THESSA: The spring is dormant. Not dead. The god-keepers can preserve it. The node holds.
 
@@ -331,7 +363,7 @@ MIKA: Over there. Against the wall. Unconscious. I'll check him.
 
 [SFX: Rune helping Ash stand — the effort shared between them. Ash's arm over Rune's shoulders. The weight of someone who has spent everything they had] [spot]
 
-RUNE (inner monologue): He leans on me. Full weight. The heat that normally radiates off him is reduced to a low warmth — the banked fire of something that chose to burn down instead of consuming fresh fuel. I take the weight. It costs me something — the bond draw is there, muted, but present — and I take it anyway.
+RUNE (inner monologue): He leans on me. Full weight. The heat that normally radiates off him is reduced to a low warmth — the fading warmth of something that chose to empty itself rather than take. I take the weight. It costs me something — the bond draw is there, muted, but present — and I take it anyway.
 
 [SFX: the group reforming — footsteps, Mika supporting the acolyte, Thessa leading with her lamp, Kaya calling from above. The sound of a team reassembling after near-destruction] [bridge]
 
@@ -343,11 +375,13 @@ RUNE (inner monologue): He leans on me. Full weight. The heat that normally radi
 
 [SFX: bond-hum-settled — exhausted. Banked. The frequency of two systems that nearly lost each other and are resting in the relief of proximity] [under]
 
-[SFX: Rune on the floor — back against the couch. The slump of someone who has climbed through collapsed tunnels and carried a god-eater through the dark and has nothing left. His head back against the cushion] [spot]
+[SFX: Rune on the floor — back against the couch. The slump of someone who has nothing left. His head back against the cushion] [spot]
 
 RUNE (inner monologue): The apartment. We're back. How we got back is a smear — the tunnels, the surface, Kaya's car, Mika driving, Thessa's people dispersing into the night like they were never there. Ash beside me the whole time, his weight against my shoulder in the back seat, the bond humming between us at its lowest register. Alive. Both alive. That's the whole report.
 
-[SFX: Ash sitting beside Rune — on the floor. Not the couch. The floor. Close. Their shoulders touching through the fabric of their coats — neither has taken theirs off. The particular intimacy of being too tired to arrange distance] [spot]
+[SFX: Ash sitting beside Rune — on the floor. Not the couch. The floor. Close. Shoulders touching through coats neither has taken off] [spot]
+
+[DIRECTION: Exhaustion in both voices. No distance, no self-consciousness — too depleted for either]
 
 [Silence — 2500ms]
 
@@ -355,11 +389,11 @@ RUNE (inner monologue): We sit on the floor. My back against the couch. His shou
 
 [SFX: Rune's breathing — slowing. Deepening. The sound of adrenaline finally leaving a body] [under]
 
-[Beat — 800ms]
+[SFX: Ash — turning his head. Slow. His lips pressing against Rune's temple. The pressure of a mouth on skin with no urgency behind it] [spot]
 
-[SFX: Ash — turning his head. Slow. His lips pressing against Rune's temple. Not a kiss. Something quieter. More private. The pressure of a mouth on skin with no urgency behind it. A benediction] [spot]
+[DIRECTION: The sound of lips pressed to skin — brief, quiet. Not a kiss in the romantic register. Gentler]
 
-[SFX: bond-hum — a pulse. Warm. The smallest, quietest sound the bond has made. Not the incandescent singing of the kitchen kiss. Not the deep resonance of the embrace. Something new. The frequency of something beginning to settle into permanence] [under]
+[SFX: bond-hum — a pulse. Warm. The smallest, quietest sound the bond has made. Something new. The frequency of something beginning to settle into permanence] [under]
 
 [Silence — 2500ms]
 
@@ -369,17 +403,19 @@ RUNE (inner monologue): His mouth on my temple. Not the kiss from the kitchen. N
 
 RUNE (inner monologue): He didn't speak the vow. Not tonight. Maybe not ever. But when he pressed his lips to my temple in the dark, I felt something seal between us that had nothing to do with ancient rituals. Something simple. Something human.
 
-[SFX: bond-hum-settled — deep, warm, continuous. The sound of a held note that will not end. The two frequencies matched, synchronized, breathing together in the dark] [bed, fade-out beginning]
+[SFX: bond-hum-settled — deep, warm, continuous. The two frequencies matched, synchronized, breathing together in the dark] [bed, fade-out beginning]
 
 RUNE (inner monologue): Something like a promise.
 
 [Silence — 2500ms]
 
-[SFX: hard cut — the ambient drops. Complete silence. Then:]
+[DIRECTION: Hard cut — all ambient drops to complete silence. Then:]
 
 [AMBIENT: unknown location — empty. The acoustic of a room with hard walls. No warmth. No water. No bond-hum. The absence of everything the last scene held] [bed]
 
-[SFX: the Summoner's voice — distorted, processed. Alone. The cadence of someone recalibrating, not panicking. A chess player who lost a piece and is already three moves ahead] [spot]
+[SFX: the Summoner's voice — distorted, processed. Alone. The cadence of someone recalibrating, not panicking] [spot]
+
+[DIRECTION: The Summoner's voice is calm, analytical. No frustration — deliver with the detachment of someone adjusting a calculation]
 
 THE SUMMONER: He resisted. Interesting. Isolation was insufficient. The anchor's pull extends further than projected — through stone, through distance, through the biological imperative itself.
 
@@ -387,7 +423,7 @@ THE SUMMONER: He resisted. Interesting. Isolation was insufficient. The anchor's
 
 THE SUMMONER: Then we will need to give him something he cannot refuse.
 
-[SFX: a sound — a switch, a mechanism. Something being activated. The Summoner is already moving to the next phase] [spot]
+[SFX: a switch, a mechanism — something being activated. The Summoner already moving to the next phase] [spot]
 
 [Silence — 1500ms]
 

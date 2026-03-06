@@ -1,0 +1,12 @@
+# Legacy audio assets (2.3GB)
+archive/
+
+# SFX library (audio files)
+sfx_library/
+
+# Generated audio
+audio/
+
+# OS files
+.DS_Store
+Thumbs.db

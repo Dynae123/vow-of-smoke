@@ -15,9 +15,9 @@ RUNE (inner monologue): I wake up on the left side of the bed. I always sleep in
 
 [SFX: bond-hum-warm — settled, continuous. Not the exhausted tone from last night. Rested. Present] [under]
 
-RUNE (inner monologue): He's still there. On top of the covers, fully clothed, facing the ceiling. But he moved. Not much. An inch, maybe two. The rigid edge-of-the-mattress position has drifted toward center, toward me, the gap between us smaller than where he started. I can feel the heat radiating off him the way you feel a radiator through a blanket — ambient, constant, not quite touching.
+RUNE (inner monologue): He's still there. On top of the covers, fully clothed, facing the ceiling. But he moved. Not much. An inch, maybe two. The rigid edge-of-the-mattress position has drifted toward center, toward me, the gap between us smaller than where he started. His heat radiates through the gap like a radiator through a blanket — ambient, constant, not quite touching.
 
-[SFX: Ash's breathing — awake. The even, deliberate breathing of someone who has been awake for a while and is choosing not to move] [under]
+[SFX: Ash's breathing — awake. Even, deliberate. Someone who has been awake for a while and is choosing not to move] [under]
 
 RUNE (inner monologue): He's been awake. I don't know how long. But his breathing is too measured, too even. He's lying there performing stillness so I can wake up without the pressure of being watched.
 
@@ -26,8 +26,6 @@ RUNE (inner monologue): He's been awake. I don't know how long. But his breathin
 RUNE: Morning.
 
 ASH: Yes.
-
-[Beat — 400ms]
 
 RUNE (inner monologue): "Yes." Not "good morning." Not a greeting. Just the confirmation that morning exists and they are both in it. We don't look at each other. I stand. He stays. The covers between us are undisturbed on his side because he never got under them.
 
@@ -43,11 +41,13 @@ RUNE (inner monologue): I pour two cups. The same way I've poured two cups every
 
 [SFX: two mugs — one placed, one lifted. The ceramic sounds of established routine] [spot]
 
-[SFX: bond-hum-warm — the purring quality. Satisfied. Neither person acknowledging it] [under]
+[SFX: bond-hum-warm — a purring quality. Satisfied] [under]
 
 RUNE (inner monologue): The sweatshirt is too tight across his shoulders. I notice this the way I've been noticing things about him for days — involuntarily, comprehensively, like my eyes have their own agenda. The fabric pulls when he lifts the mug. The collar sits differently on him. My sweatshirt on his body and the bond humming between us like a cat in sunlight and neither of us mentioning that he slept in my bed last night and this morning the apartment smells like smoke and coffee and something that might be us.
 
-[SFX: Ash drinking — the too-strong coffee. A slight grimace, inaudible but present in the pause before the second sip] [under]
+[SFX: Ash drinking — the coffee. A pause before the second sip] [under]
+
+[DIRECTION: A beat of hesitation before the second sip — Ash schooling his reaction]
 
 RUNE: You don't have to drink it if you don't like it.
 
@@ -65,7 +65,9 @@ ASH: The bond does not transmit facial expressions.
 
 RUNE: And yet.
 
-[SFX: the almost-laugh that doesn't happen — a breath, an almost, the sound of two people on the edge of something warm and pulling back out of habit] [under]
+[SFX: a breath — almost a laugh, pulled back. An exhale with warmth in it] [under]
+
+[DIRECTION: The warmth in the exhale — almost a laugh, caught and swallowed. Both pulling back out of habit]
 
 [Silence — 1500ms]
 
@@ -75,9 +77,9 @@ RUNE (inner monologue): We don't talk about it. We are excruciating about not ta
 
 {Scene 2 — Ambulance. Rune and Mika. Mid-shift.}
 
-[AMBIENT: ambulance cab — diesel idle, radio scanner chatter, the confined space of two people in a vehicle between calls. Urban backdrop through windows] [bed]
+[AMBIENT: ambulance cab — diesel idle, radio scanner chatter, the confined space of a cab between calls. Urban backdrop through windows] [bed]
 
-[SFX: radio scanner — low, cycling through channels. No active calls. The relative quiet of a slow afternoon] [under]
+[SFX: radio scanner — low, cycling through channels. No active calls] [under]
 
 MIKA: Your CBC came back.
 
@@ -107,8 +109,6 @@ MIKA: I know you know. That's the problem. You know and you do it anyway.
 
 [SFX: radio scanner cycling. A bus passing outside] [under]
 
-[Silence — 1500ms]
-
 MIKA: He looks at you.
 
 RUNE: What?
@@ -119,7 +119,9 @@ RUNE: He looks at everyone.
 
 MIKA: Not like that he doesn't. When Kaya talks, Ash listens. When I talk, Ash evaluates. When you walk into a room, Ash — stops. Everything in him orients. It's like watching a compass find north.
 
-[SFX: Rune's hand on the dash — a light tap. The displacement of someone who doesn't want to be having this conversation] [spot]
+[SFX: Rune's hand on the dash — a light tap] [spot]
+
+[DIRECTION: Rune deflects — his voice tightening, trying to steer away from the personal]
 
 RUNE: The bond does that. The anchor pulls —
 
@@ -143,7 +145,7 @@ MIKA: So no.
 
 RUNE: It was the best soup I've ever had.
 
-[SFX: Mika's quiet exhale — not a laugh. Something adjacent. The sound of a sister who sees everything and is choosing which parts to name] [spot]
+[SFX: Mika's quiet exhale — not a laugh, something close] [spot]
 
 MIKA: Just — be careful. With the bond. With all of it. I'm not saying don't. I'm saying your platelets are dropping and your clotting factors are off and whatever is happening between you and that man, your body is keeping score. So be careful.
 
@@ -155,7 +157,7 @@ DISPATCH: Unit Seven, respond. Possible cardiac event, 1490 Hargrove. Sixty-seve
 
 MIKA: Unit Seven copies. En route.
 
-[SFX: ambulance shifting into gear. Lights. Siren — the world pulling them back into the work that doesn't stop for supernatural crises or complicated feelings] [spot]
+[SFX: ambulance shifting into gear. Lights. Siren] [spot]
 
 ---
 
@@ -163,7 +165,7 @@ MIKA: Unit Seven copies. En route.
 
 [AMBIENT: apartment, evening — the light shifting golden, kitchen sounds, the aftermath of a day spent apart. Bond-hum-warm, the reunited frequency] [bed]
 
-[SFX: apartment door — Rune entering. Keys. Jacket. The particular sounds of coming home to someone] [spot]
+[SFX: apartment door — Rune entering. Keys. Jacket. The sounds of coming home to someone] [spot]
 
 RUNE (inner monologue): The apartment when I get home. The light is on — the one by the window, the one I never turn on because the angle is wrong but Ash likes it because it doesn't cast shadows. He's at the kitchen table. Kaya's maps spread in front of him. A mug of tea — too strong, steam rising. A book open beside the maps, face-down to hold his page, the spine cracking the way spines do when someone reads too fast and too hard.
 
@@ -181,7 +183,7 @@ ASH: We have less. The summoner is accelerating. The spring was targeted ahead o
 
 RUNE (inner monologue): I stand behind him and look at the map over his shoulder. His finger on the line that marks the aqueduct, the old water system beneath the modern city. His hand is steady. The hand that heated my soup. The hand that reached for my jaw in the bathroom. The hand that reached for mine in the basement. I am cataloguing his hands now. I am keeping an inventory.
 
-[SFX: Ash's hand stopping on the map — a pause. Not the map anymore. Something internal] [spot]
+[SFX: Ash's hand stopping on the map — a pause] [spot]
 
 [SFX: bond-hum — a flicker. Something surfacing in Ash's frequency. Not the hunger. Not anger. Something older, less defined] [under]
 
@@ -191,7 +193,7 @@ RUNE: What kind of something?
 
 ASH: A memory.
 
-[SFX: Rune pulling out the other kitchen chair — sitting. Close. The table between them and not much else] [spot]
+[SFX: Rune pulling out the other kitchen chair — sitting. Close. The table between them] [spot]
 
 RUNE: Tell me.
 
@@ -199,15 +201,17 @@ RUNE: Tell me.
 
 ASH: A face. Not the altar. Not the ritual. Before that. A person. The memory is — fragments. A room. Stone walls but warmer than the temple. A fire in a hearth, not a ritual fire. And this face. Looking at me the way —
 
-[SFX: ash-shadows-stir — faint, involuntary. The shadows on the kitchen wall shifting, as though the memory is moving through him physically] [under]
+[SFX: ash-shadows-stir — faint, involuntary. The shadows on the kitchen wall shifting] [under]
+
+[DIRECTION: The memory is moving through Ash physically — the shadows respond to what he's feeling]
 
 ASH: I do not remember a name. I do not know if this person was a man or a woman or something else. I know that I was sitting somewhere and they were beside me and the fire was warm and I was — I was not alone. I was not empty. And the last thing I saw before the ritual consumed everything was this face.
 
 [Beat — 800ms]
 
-ASH: I loved someone. Before they turned me into this. I do not remember who. But I remember losing them.
+ASH: I loved someone. Before they turned me into this. I don't remember who. But I remember losing them.
 
-[SFX: bond-hum-warm — aching. The frequency of old grief reaching through a thousand years of silence to surface in a kitchen at dusk] [under]
+[SFX: bond-hum-warm — aching. Old grief surfacing through a thousand years of silence] [under]
 
 RUNE (inner monologue): He says it like he's translating from a dead language. "Loved." The word sounds unfamiliar in his mouth. Like he found it in my books and is trying it on. But the feeling underneath — through the bond, unmistakable. Not the word. The weight.
 
@@ -217,9 +221,9 @@ RUNE: What do you remember? About the feeling.
 
 ASH: That it felt like this.
 
-[SFX: bond — everything stops. The hum, the ambient, the traffic, the radiator. The silence of a sentence that has emptied the room of everything except itself] [spot]
+[SFX: all ambient and bond-hum cutting to silence — hard stop] [spot]
 
-[DIRECTION: He is looking at Rune. Not at the map, not at the window, not at anything else. He is looking at Rune with the expression of someone who has just heard himself say the truest thing he's said in a thousand years and cannot take it back]
+[DIRECTION: Ash's voice lands and stays — no deflection, no retreat. The silence after is absolute. He meant it and cannot take it back]
 
 RUNE (inner monologue): That it felt like this.
 
@@ -227,9 +231,7 @@ RUNE (inner monologue): That it felt like this.
 
 RUNE (inner monologue): I don't move. He doesn't move. The kitchen is the kitchen — the maps, the mugs, the light by the window at its wrong angle. And between us the bond is a held breath. Not burning. Not draining. Waiting. The way the air waits before a storm.
 
-[SFX: bond-hum-warm — resuming. Slow. The held breath releasing. Neither person having moved or spoken or breathed or known what to do with what just passed between them] [under]
-
-[Beat — 800ms]
+[SFX: bond-hum-warm — resuming. Slow. The held breath releasing] [under]
 
 RUNE: Ash.
 
@@ -253,15 +255,13 @@ RUNE (inner monologue): He goes to the window. I stay at the table. The maps bet
 
 RUNE: Kaya.
 
-[SFX: Kaya's voice — phone speaker quality. Tight, the academic composure under strain] [spot]
+[SFX: Kaya's voice — phone speaker quality. Tight, composure under strain] [spot]
 
 KAYA: I have confirmed the next target. The old aqueduct beneath the river district. Thessa's people have been monitoring the node — the divine presence is still strong, one of the oldest in the city. But there are signs of preparation. Fresh markings at two of the three access points. Someone is scouting.
 
 RUNE: Four days.
 
 KAYA: Perhaps fewer. The spring was hit ahead of schedule. The summoner is adapting.
-
-[Beat — 400ms]
 
 KAYA: Rune. I spoke with Thessa. She is conducting an internal review. The evidence from the ritual chamber — the restricted symbols — she cannot dismiss it. Someone in the order, current or former, is connected to the summoner. She is furious. She is also, for the first time since I have known her, uncertain.
 
@@ -301,23 +301,19 @@ KAYA: Then I will work faster. Rest, Rune. Both of you.
 
 [SFX: apartment settling — the radiator, the clock, the city outside at its nighttime register] [under]
 
-[Silence — 1500ms]
-
 ASH: He said rest.
 
 RUNE: Yeah.
 
 [SFX: Ash at the window — not moving. Looking at Rune through the reflection in the glass] [spot]
 
-[SFX: bond-hum-warm — the banked frequency. The question that has been sitting between them since the kitchen, since the morning, since "stay"] [under]
+[SFX: bond-hum-warm — the banked frequency] [under]
 
 RUNE (inner monologue): We look at each other. Not directly — through the reflection in the window. His face and mine, layered over the city lights, ghosted. The map is on the table. The mugs are cold. The sentence he said four hours ago — *that felt like this* — is still in the room.
 
-[Beat — 800ms]
-
 RUNE (inner monologue): Kaya said four days. Maybe fewer. Somewhere in this city the summoner is scouting access points to the aqueduct. Somewhere in the river district a four-thousand-year-old god is still alive because no one has gotten to it yet. And somewhere in this apartment the god-eater who refused to feed is standing at my window wearing my sweatshirt and looking at me through glass and the most terrifying thing in my life is not the dying gods or the accelerating timeline or my dropping platelet count. The most terrifying thing is the sentence he said and the fact that I understood it.
 
-[SFX: bond-hum-warm — pulsing, gentle. Not resolving. Not closing. The held note of two people who have said too much and not enough and are standing on opposite sides of a kitchen that feels very small] [bed, fade-out over episode end]
+[SFX: apartment — the radiator clicking twice, then settling. The city pulling back another layer of sound as the hour deepens] [bed, fade-out over episode end]
 
 RUNE (inner monologue): That felt like this. He said it about a person he loved a thousand years ago. He said it about me. And I can't tell which part is the memory and which part is the present and I am beginning to suspect there is no difference.
 

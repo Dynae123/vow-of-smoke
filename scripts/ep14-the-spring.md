@@ -7,7 +7,7 @@
 
 {Scene 1 — Rune's apartment. Morning. Battle planning.}
 
-[AMBIENT: apartment morning — multiple voices, maps rustling, Kaya's papers, mugs, the controlled chaos of people preparing for something dangerous] [bed]
+[AMBIENT: apartment morning — multiple voices, maps rustling, Kaya's papers, mugs clinking] [bed]
 
 [SFX: Kaya spreading a map — old paper, crackling at the folds. Pencil markings] [spot]
 
@@ -29,7 +29,7 @@ RUNE: It's dangerous. What we saw at the park was —
 
 MIKA: You're my partner. I don't leave my partner. That's it. That's the whole argument. Move on.
 
-[SFX: Rune's mouth closing. The conversation ending because Mika ended it] [spot]
+[DIRECTION: The conversation ending because Mika ended it]
 
 RUNE (inner monologue): She packed the kit before she got here. She already decided. The argument was a formality.
 
@@ -57,25 +57,27 @@ ASH: Then we are walking into it deliberately.
 
 RUNE: You got a better idea?
 
-[SFX: Ash's silence — not hostile. Considering] [under]
+[Silence — 1500ms]
+[DIRECTION: Not hostile. Considering]
 
 ASH: No.
 
-[SFX: maps rustling. The quiet industry of people preparing to go underground] [under]
+[SFX: maps rustling. Papers shuffling, pen clicking] [under]
 
 ---
 
 {Scene 2 — Rune's apartment. Afternoon. The bathroom.}
 
-[AMBIENT: apartment, late afternoon — quieter now, Kaya and Mika gone, the planning done, the waiting begun. Clock ticking. Traffic muted] [bed]
+[AMBIENT: apartment, late afternoon — quieter now. Clock ticking. Traffic muted] [bed]
 
 [SFX: bond-hum-agitated — low, building. Not Rune's frequency — Ash's, transmitted through the connection] [under]
 
 RUNE (inner monologue): The apartment empties and what's left is the waiting and the hum and Ash. He's been pacing since Kaya left. Living room to kitchen. Kitchen to hallway. The same circuit, the same heavy footsteps, the shadows at his feet restless and dark.
 
-[SFX: Ash's footsteps — pacing, deliberate, the rhythm of someone fighting something internal] [bridge]
+[SFX: Ash's footsteps — pacing, deliberate, heavy] [bridge]
+[DIRECTION: Fighting something internal]
 
-RUNE (inner monologue): Through the bond I can feel the hunger building. Three dead gods' worth of unclaimed power still dissipating through the Meridian and every particle of it is pulling at him. It's been building for days. The sinkhole residue. The grove. The temple. All of it floating in the earth below us like ash in water and his body wants it the way a starving man wants bread.
+RUNE (inner monologue): Through the bond the hunger presses in — building. Three dead gods' worth of unclaimed power still dissipating through the Meridian and every particle of it is pulling at him. It's been building for days. The sinkhole residue. The grove. The temple. All of it floating in the earth below us like ash in water and his body wants it the way a starving man wants bread.
 
 [SFX: footsteps stopping — bathroom doorway] [spot]
 
@@ -85,7 +87,7 @@ RUNE (inner monologue): He goes into the bathroom. I hear the faucet run. Then s
 
 [Beat — 800ms]
 
-RUNE (inner monologue): The bond spikes. Not pain. Not anger. Something worse — the sound of someone holding on with both hands and feeling their grip slip.
+RUNE (inner monologue): The bond spikes. Not pain. Not anger. Something worse — a white-knuckle grip losing its hold, finger by finger.
 
 [SFX: Rune's footsteps — quick, to the bathroom doorway] [spot]
 
@@ -112,9 +114,9 @@ RUNE: Ash.
 [SFX: Rune's hand on Ash's back — between the shoulder blades. Fabric. Warmth. Contact] [spot]
 
 [SFX: bond-hum-surge — the same push as the sinkhole, Rune anchoring, routing himself through the connection] [under]
-[DIRECTION: The cost is immediate — Rune feels the drain, the copper taste, the edges of his vision thinning]
+[DIRECTION: The cost is immediate — Rune's hands go cold, numbness spreading from his sternum outward, his hearing briefly muffled]
 
-RUNE (inner monologue): I push. The same instinct as the sinkhole — not a command, not control. Just me. The feeling of steady ground. Of hands that hold. I push it through the bond and I taste copper and my vision greys at the edges and I do not let go.
+RUNE (inner monologue): I push. The same instinct as the sinkhole — not a command, not control. Just me. The feeling of steady ground. Of hands that hold. I push it through the bond and my hands go dead cold and the numbness spreads from my sternum outward and for a moment the world goes muffled — Ash's breathing, the faucet drip, my own heartbeat, all of it reaching me through cotton — and I do not let go.
 
 [SFX: Ash's breathing changing — the controlled deliberation breaking into something more human. Shoulders dropping] [under]
 
@@ -137,14 +139,14 @@ ASH: No. That is a choice. There is a difference.
 
 RUNE (inner monologue): He is very close. The bathroom is small and he has turned to face me and his back is against the sink and my hand has moved from his shoulder blade to somewhere that is neither his shoulder nor his chest and we are standing in the four square feet of tile between the sink and the door.
 
-[SFX: bond-hum-warm — live wire quality, the frequency of proximity and intent] [under]
+[SFX: bond-hum-warm — live wire quality, buzzing, close] [under]
 
 RUNE (inner monologue): His eyes are dark but not black. The hunger is there — banked, held — but what's on his face isn't hunger. It's something slower. Something that looks at me the way I've been looking at him for days and not admitting it.
 
-[SFX: Ash's hand rising — slow. The sound of sleeve fabric shifting, the faintest brush of air] [spot]
+[SFX: Ash's hand rising — slow. Sleeve fabric shifting, the faintest brush of air] [spot]
 [DIRECTION: Like approaching something that might bolt. A question, not a statement]
 
-[SFX: fingertips on jaw — skin contact. Light. Precise. The bond responding — a flare, warm, spreading from the point of contact through the chest] [spot]
+[SFX: fingertips on jaw — skin contact. Light. Precise. Bond-hum-warm flaring at the point of contact] [spot]
 
 RUNE (inner monologue): His fingers on my jaw.
 
@@ -162,7 +164,7 @@ RUNE (inner monologue): I close my eyes. I don't decide to. They close. And for 
 
 MIKA (through door): Rune. I brought the bloodwork kit. Open up.
 
-[SFX: the moment breaking — Ash's hand dropping. A step back. The sink edge catching his hip] [spot]
+[SFX: Ash's hand dropping. A step back. The sink edge catching his hip] [spot]
 
 [SFX: bond tone — the live wire quality dimming but not gone. Residual warmth] [under]
 
@@ -174,7 +176,7 @@ RUNE: I should get the door.
 
 ASH: Yes.
 
-[SFX: Rune's footsteps leaving the bathroom. Hallway. The distance growing] [bridge]
+[SFX: Rune's footsteps leaving the bathroom. Hallway, receding] [bridge]
 
 RUNE (inner monologue): I open my eyes and he is looking at me the way he looked at the city from the rooftop. Like something he did not expect to find. Like something he is afraid to keep.
 
@@ -184,7 +186,7 @@ RUNE (inner monologue): I open my eyes and he is looking at me the way he looked
 
 [AMBIENT: apartment evening — Mika drawing blood, clinical sounds layered over domestic space, bond-hum-warm lingering faintly] [bed]
 
-[SFX: tourniquet snapping. Alcohol swab. Needle and vacutainer — the clinical sounds of a blood draw] [spot]
+[SFX: tourniquet snapping. Alcohol swab. Needle and vacutainer] [spot]
 
 MIKA: Hold still. Fist for me.
 
@@ -214,7 +216,7 @@ RUNE: Probably.
 
 MIKA: Good. Then he hears this: whatever's happening tomorrow, you are not expendable. You don't get to burn yourself out playing anchor for someone who needs you alive. If you go down in those tunnels, I'm pulling you out. Both of you if I can. But you first. Do you understand me?
 
-[SFX: second vacutainer filling. The clinical process continuing under the emotional weight] [under]
+[SFX: second vacutainer filling] [under]
 
 RUNE: Mika.
 
@@ -256,21 +258,23 @@ RUNE: That I won't be enough. That I'll push through the bond the way I did at t
 
 MIKA: You're always enough. You just never believe it. Bandage comes off in an hour.
 
-[SFX: Mika standing. Gathering her things. The efficiency of someone who has said what she needs to say] [spot]
+[SFX: Mika standing. Gathering her things — bag zipped, coat lifted] [spot]
+[DIRECTION: She has said what she needs to say]
 
 ---
 
 {Scene 4 — The tunnels. Night. The descent.}
 
-[AMBIENT: water treatment plant basement — industrial echo, dripping, old concrete, the smell of damp described through sound: water on stone, rust, ventilation groaning] [bed]
+[AMBIENT: water treatment plant basement — industrial echo, dripping, water on stone, rust creaking, ventilation groaning] [bed]
 
 [SFX: metal door forced open — old hinges, screaming. Dust falling. Flashlight click] [spot]
 
 RUNE (inner monologue): The water treatment plant is at the edge of the old market district. The basement is concrete and rust and the kind of dark that feels occupied. Kaya's map says the passage is behind a maintenance wall. It is. The wall has been recently moved — scuff marks on the floor, the bolts clean where everything else is corroded.
 
-[SFX: maintenance panel pulled away — metal on concrete, scraping. The tunnel behind it breathing cooler air] [spot]
+[SFX: maintenance panel pulled away — metal on concrete, scraping. Cool air draft from the opening] [spot]
 
 [AMBIENT: tunnel entrance — the sound changes immediately, narrower, wetter, the echo of deep stone] [bed, crossfade]
+[SFX: meridian-thrum — faint, growing as they descend, the bedrock conducting the pulse of the node below] [under]
 
 ASH: The god-keepers are in position.
 
@@ -294,8 +298,8 @@ RUNE: I see it.
 
 ASH: Wait.
 
-[SFX: ash-shadows responding — pooling, reaching forward into the dark ahead. The sound of something vast and purposeful rearranging itself] [spot]
-[DIRECTION: Ash is using his power. The shadows part like curtains, creating a channel of visibility in absolute darkness]
+[SFX: ash-shadows responding — pooling, reaching forward into the dark ahead. Low rumble, air displacement, stone resonance] [spot]
+[DIRECTION: Ash's voice drops — concentrated, exerting control. The effort is audible, deliberate]
 
 RUNE (inner monologue): The dark in front of us peels back. Not light — the absence of dark. The shadows pulling away from the tunnel walls and floor, clearing a path that extends ahead of us farther than my flashlight could reach. The first time he's used his power in service of the group. Not combat. Not survival. Practical. He's making a path so we can see where we're walking.
 
@@ -307,7 +311,7 @@ ASH: It is not new. I have simply not had a reason before.
 
 RUNE (inner monologue): The tunnel descends in switchbacks. Right, then left, then right. The temperature drops. The water sound grows — not the thin trickle from the walls anymore. Something larger below us. A current.
 
-[SFX: the tunnel opening — the echo shifting, expanding. The sound of a larger space ahead] [spot]
+[SFX: the tunnel opening — echo shifting, expanding. Reverb lengthening, ceiling height increasing] [spot]
 
 RUNE (inner monologue): And underneath the water sound, something else. Barely audible. Rhythmic.
 
@@ -322,8 +326,9 @@ ASH (low): Someone is already here. The ritual has begun.
 
 [SFX: the chanting continuing — distant, rhythmic, coming from below. Water rushing. The bond-hum-agitated building in Ash's frequency] [under]
 
-[AMBIENT: deep tunnel — the chanting below, water, stone, three people standing at the edge of something ancient and immediate] [bed, fade-out over episode end]
+[AMBIENT: deep tunnel — chanting below, water, stone, breathing. The meridian-thrum stronger now, vibrating through the walls] [bed, fade-out over episode end]
+[DIRECTION: Three people standing at the edge of something ancient and immediate]
 
-RUNE (inner monologue): His fingers on my jaw. I can still feel it. And we are walking into the dark, and I am following a god-eater into the earth, and the people who planned all of this are waiting for us, and I think I would follow him anywhere.
+RUNE (inner monologue): His fingers on my jaw. The ghost of it still warm on my skin. And we are walking into the dark, and the chanting below us is getting louder, and the people who planned all of this are waiting for us exactly the way we were told they'd be. The trap is open. We are stepping into it anyway.
 
 ---

@@ -5,17 +5,27 @@
 
 ---
 
-{Scene 1 — Rune's apartment. Morning. Day five of cohabitation.}
+{Scene 1 — Rune's ambulance. Pre-dawn. Parked outside his building, engine off.}
 
-[SFX: the apartment in morning light. Traffic outside. The fridge humming. In the background — pages turning. Fast. Faster than anyone reads]
+[AMBIENT: ambulance cab, pre-dawn — cooling engine ticking, distant garbage truck, city not yet awake] [bed]
 
-RUNE (inner monologue): Three days since the shrine. He's been on my couch for seventy-two hours. He doesn't sleep. He barely eats. He watches me like I'm a riddle he's trying to solve — or a lock he's trying to pick.
+[SFX: Rune exhaling. Seat leather creaking] [spot]
 
-[SFX: Rune pouring coffee. Mug set on counter]
+RUNE (inner monologue): Three days since the shrine. I've been sitting in the ambulance for twenty minutes. Engine off. Shift doesn't start for an hour. I came down here to have one space where the bond is quieter — where the distance between us thins it to a hum instead of a heartbeat.
+
+RUNE (inner monologue): It doesn't work. He's up there. Seventy-two hours on my couch. He doesn't sleep. He barely eats. He watches me like I'm a riddle he's trying to solve — or a lock he's trying to pick.
+
+[SFX: pages turning rapidly — leaking through the bond, phantom sound] [under]
 
 RUNE (inner monologue): But the watching has changed. Less hostile. More — cataloguing. He's pulled every book off my shelf and gone through them in order. My anatomy textbook, my EMT certification manual, two crime novels, a cookbook Mika gave me that I never opened. He reads them all the same way — cover to cover, mechanical, absorbing.
 
-[SFX: a book closing. Another one being pulled off the shelf]
+[SFX: ambulance door opening and closing. Keys jingling. Building door buzzer] [bridge]
+
+[AMBIENT: apartment morning — traffic outside, fridge humming] [bed, crossfade]
+
+[SFX: coffee pouring. Mug set on counter] [spot]
+
+[SFX: a book closing. Another one being pulled off the shelf] [spot]
 
 RUNE: That's a poetry anthology. My mom's.
 
@@ -27,9 +37,7 @@ ASH: The point of language is communication. This obscures more than it reveals.
 
 RUNE: Yeah. That's also the point.
 
-[beat]
-
-[SFX: Ash setting the book down. Standing. Moving through the apartment — his footsteps have a pattern now, a circuit. Kitchen, window, bookshelf, kitchen]
+[SFX: book set down. Footsteps — a circuit through the apartment: kitchen, window, bookshelf, kitchen] [under]
 
 RUNE (inner monologue): He's learning. That's the part that keeps me up at night. Not the fire, not the shadows, not the bond humming between us like a third person in the room. It's the speed. Three days ago he didn't know what a phone was. Now he's critiquing meter. He picks up patterns the way water picks up shape — fills whatever container it finds.
 
@@ -41,7 +49,7 @@ RUNE: There really isn't.
 
 ASH: The bond fluctuates during your sleep cycle. Specifically during the recurring dream. The one with fire.
 
-[beat]
+[Beat — 400ms]
 
 RUNE (inner monologue): I stop. Coffee mug halfway to my mouth.
 
@@ -53,9 +61,9 @@ RUNE: And standing in my doorway helps with that how?
 
 ASH: Proximity stabilizes the fluctuations.
 
-[beat]
+[Beat — 800ms]
 
-RUNE (inner monologue): He says it like a technical observation. Like he's reporting instrument readings. But the way he said *distress* — he didn't learn that word from my anatomy textbook. He learned it from feeling mine.
+RUNE (inner monologue): He says it like a technical observation. Like he's reporting instrument readings. But *distress* — he shaped that word carefully, like something he'd tasted. He didn't learn it from my anatomy textbook. He learned it from feeling mine.
 
 RUNE: Next time, knock.
 
@@ -67,15 +75,19 @@ RUNE: Exactly.
 
 {Scene 2 — Rune's kitchen. Later. The burn.}
 
-[SFX: the stove clicking on. A pan heating. Rune in the other room — the sound of a shower running, distant]
+[AMBIENT: apartment kitchen — stove clicking, distant shower running] [bed]
+
+[SFX: stove clicking on. A pan heating] [spot]
 
 RUNE (inner monologue): I leave him alone for eight minutes. I take a shower. Eight minutes.
 
-[SFX: the shower cuts off. Rune's footsteps, quick. Then — a sharp hiss of contact. Metal on skin. A pan dropped, clattering on the stove top]
+[SFX: shower cuts off] [spot]
+
+[SFX: sharp hiss of contact — metal on skin. Pan clattering on stove top] [spot]
 
 RUNE: Ash?
 
-[SFX: Rune entering the kitchen. Bare feet on tile]
+[SFX: quick footsteps — bare feet on tile] [bridge]
 
 RUNE (inner monologue): He's standing at the stove. The pan is smoking. There's oil in it — he was trying to cook something. And his left hand is red. Burned. The skin is already blistering across his palm and fingers.
 
@@ -85,7 +97,7 @@ ASH: It is nothing.
 
 RUNE: Your hand is blistered. Let me see it.
 
-[SFX: Rune turning on the cold tap. Water running]
+[SFX: cold tap turned on. Water running] [spot]
 
 RUNE: Put it under the water.
 
@@ -93,13 +105,13 @@ ASH: Fire does not harm me.
 
 RUNE: The pan did. The pan is not fire. Put your hand under the water.
 
-[beat]
+[Beat — 400ms]
 
-[SFX: Ash's hand going under the tap. A sharp intake of breath — the cold is unexpected]
+[SFX: hand going under the tap. Sharp intake of breath] [spot]
 
 RUNE (inner monologue): His invulnerability is selective. Divine fire, he walks through like air. A hot pan? Burns him like anyone else. The things that can hurt him are ordinary. Mundane. A kitchen accident. A steel needle. I file this away in the part of my brain that catalogues patient vulnerabilities. I don't think about why that part of my brain has a file on him.
 
-[SFX: Rune opening a drawer. The rattle of a first aid kit]
+[SFX: drawer opening. Rattle of a first aid kit] [spot]
 
 RUNE: Keep it under the water. I'm going to wrap it.
 
@@ -107,27 +119,27 @@ ASH: This is unnecessary.
 
 RUNE: It's a second-degree burn. It's necessary.
 
-[SFX: Rune pulling out gauze, burn cream. The practiced sounds of wound care — tube opening, cream being applied]
+[SFX: gauze packet tearing open. Burn cream tube opening] [under]
 
 RUNE: Give me your hand.
 
-[SFX: the water shutting off. Ash's wet hand extended. Rune taking it — skin to skin. The bond flares, low and warm]
+[SFX: water shutting off. Skin to skin contact] [spot]
+
+[SFX: bond-hum-warm — low, gentle flare] [under]
 
 RUNE (inner monologue): I work on autopilot. Clean the burn. Apply cream. Wrap the gauze. I've done this a thousand times. My hands know the motions the way his hands know fire — without thinking.
 
-[SFX: gauze being wrapped. The quiet, deliberate sound of care]
+[SFX: gauze being wrapped. Quiet, deliberate] [under]
 
 RUNE (inner monologue): He sits perfectly still.
 
-[beat]
+RUNE (inner monologue): Not the stillness of someone enduring treatment. Patients fidget, pull away, make noise. This is the stillness of someone who doesn't know what's happening to them. The bond carries it — not pain, not anger. Confusion. A blank space where a response should be. Like I'm performing a ritual he has no memory of. Like no one has ever —
 
-RUNE (inner monologue): Not the stillness of someone enduring treatment. Patients fidget, pull away, make noise. This is the stillness of someone who doesn't know what's happening to them. I can feel it through the bond — not pain, not anger. Confusion. A blank space where a response should be. Like I'm performing a ritual he has no memory of. Like no one has ever —
-
-[beat]
+[Silence — 1500ms]
 
 RUNE (inner monologue): He doesn't know what to do with gentleness.
 
-[SFX: Rune finishing the wrap. Taping it down. His hands lingering for one beat too long]
+[SFX: tape tearing. Bandage secured] [spot]
 
 RUNE: Done. Don't use the stove.
 
@@ -141,19 +153,25 @@ RUNE: Yeah.
 
 ASH: I am not a stranger.
 
-[beat]
+[Beat — 800ms]
 
-RUNE (inner monologue): He says it like he's testing the sentence. Seeing if it holds weight. And the bond between us — the hum, the ever-present vibration behind my sternum — shifts. Just slightly. Like a radio finding a clearer signal.
+RUNE (inner monologue): He says it like he's testing the sentence. Seeing if it holds weight. And the bond between us — the hum, the ever-present vibration in my chest — shifts. Just slightly. Like a radio finding a clearer signal.
 
 RUNE: No. You're not.
 
-[SFX: the beat hangs. Then — the fridge cycling on. The world resuming. Ash looking at his bandaged hand like it's a map of somewhere he's never been]
+[Silence — 2500ms]
+
+[SFX: fridge cycling on] [spot]
+
+[DIRECTION: A long pause from Ash — no movement, no response. His breathing shifts, slower, uncertain]
 
 ---
 
 {Scene 3 — Rune's apartment. Afternoon. Kaya's warning.}
 
-[SFX: Rune's phone buzzing. He picks up]
+[AMBIENT: apartment afternoon — traffic, fridge] [bed]
+
+[SFX: phone buzzing] [spot]
 
 RUNE: Doctor.
 
@@ -163,13 +181,17 @@ RUNE: We're being careful.
 
 KAYA: Not about the sites. About the god-keepers.
 
-[beat]
+[Beat — 800ms]
 
-KAYA: The order has existed for millennia. They are tasked with the protection of the old gods and the maintenance of the Meridian. They are, in their way, the mirror of what you are — caretakers. But their methods are absolute. And they have laws. Sacred laws. One of which prohibits the awakening of a god-eater.
+KAYA: The order has existed for millennia. They are tasked with the protection of the old gods and the maintenance of the Meridian. They are, in their way, the mirror of what you are — caretakers. But their methods are absolute. And they have laws. Sacred laws. One of which prohibits —
+
+RUNE: The awakening of a god-eater.
+
+KAYA: Yes. You understand — the god-keepers see the ritual itself as the violation. The god-eater is evidence of the crime. They will not differentiate between the weapon and the one who forged it.
 
 RUNE: Ash didn't ask to be woken up.
 
-KAYA: That distinction will not matter to them. The god-keepers see the ritual itself as the violation. The god-eater is evidence of the crime. You understand — they will not differentiate between the weapon and the one who forged it.
+KAYA: That distinction will not matter to them.
 
 RUNE: They'll come after him.
 
@@ -183,15 +205,11 @@ KAYA: Containment. Control. They will not try to destroy him — they cannot. A 
 
 RUNE: I won't let that happen.
 
-[beat]
-
 KAYA: Be very careful about making promises that require you to be stronger than institutions that have lasted three thousand years. You understand — I say this not to discourage you. But to prepare you.
 
-[SFX: phone clicking off]
+[SFX: phone clicking off] [spot]
 
 RUNE (inner monologue): I stand in my kitchen with a dead phone and a burned pan and a god-eater who can't operate a stove. Three thousand years of sacred law and I'm supposed to — what? Outrun them? I'm a paramedic. I'm good with a blood pressure cuff and a comforting voice. That's my whole arsenal.
-
-[beat]
 
 RUNE (inner monologue): But when Kaya said *separate him from you*, something in my chest tightened that had nothing to do with the bond.
 
@@ -199,7 +217,11 @@ RUNE (inner monologue): But when Kaya said *separate him from you*, something in
 
 {Scene 4 — Rune's apartment. Evening. Ash with a book.}
 
-[SFX: evening settling. Rune on his laptop at the kitchen table. Ash on the couch, reading — pages turning at normal speed for once. Slower. Like he's choosing to take his time]
+[AMBIENT: apartment evening — muted traffic, settling sounds] [bed]
+
+[SFX: laptop keys, soft. Pages turning slowly in the other room] [under]
+
+[DIRECTION: Ash is reading at normal speed for once — slower, deliberate]
 
 RUNE (inner monologue): He's reading the poetry anthology again. My mother's. He told me earlier the language was pointless. Now he's been on the same page for twenty minutes.
 
@@ -211,7 +233,7 @@ RUNE: Yeah?
 
 ASH: "What the living do." It is not about fire. It is about being alive after someone is not. But the author describes a gas burner left on by accident, and the blue ring of flame, and the feeling of waste.
 
-[beat]
+[Beat — 800ms]
 
 ASH: I understand waste.
 
@@ -223,11 +245,9 @@ ASH: Hm.
 
 RUNE: What do you remember? From before. Anything.
 
-[SFX: the page stops turning. The room gets a fraction warmer]
+[SFX: page stops turning. ash-temperature-spike — faint] [spot]
 
 ASH: Fragments. A temple. Stone. The smell of cedar burning. A voice — not the one from your dream. Someone else. I think someone cared whether I lived. But the memory has no face attached to it. No name.
-
-[beat]
 
 ASH: It is like standing in a room after the furniture has been removed. I can see where things were. I cannot see the things.
 
@@ -239,44 +259,58 @@ ASH: That is a meaningless assurance.
 
 RUNE: Yeah. But it's all I've got.
 
-[beat]
-
-[SFX: Ash turning the page. The apartment, quiet. The bond between them, steady]
+[SFX: page turning] [spot]
 
 ---
 
 {Scene 5 — Rune's apartment. Night. The knock.}
 
-[SFX: later. Rune washing dishes. The clink of plates in the sink. Water running. Ash somewhere behind him — present, warm, the bond a constant low note]
+[AMBIENT: apartment night — dishes clinking, water running, quiet domestic] [bed]
 
-[SFX: a knock at the door. Three raps. Sharp, formal, deliberate]
+[SFX: plates in the sink. Water running] [under]
+
+[SFX: bond-hum-neutral — constant low note] [bed]
+
+[SFX: a knock at the door — three raps, sharp, formal, deliberate] [spot]
 
 RUNE (inner monologue): The knock is wrong. Nobody I know knocks like that. Mika kicks. Neighbors don't visit. Delivery is a buzzer.
 
-[SFX: Rune turning off the tap. Drying his hands. Walking to the door]
+[SFX: tap turning off. Hands drying] [spot]
 
-[SFX: the bond spikes — sudden, sharp. Behind him, the temperature in the apartment jumps. Ash is on his feet before Rune reaches the handle]
+[SFX: footsteps to the door] [bridge]
+
+[SFX: bond-hum-surge — sudden, sharp spike] [spot]
+
+[DIRECTION: A sharp rustle — Ash is on his feet instantly. His breathing goes predatory. Rune hasn't reached the door handle yet]
 
 RUNE (inner monologue): He knows. Before I open it, he knows.
 
-[SFX: door opening. The hallway beyond — fluorescent buzzing. Three sets of breathing]
+[SFX: door opening] [spot]
+
+[AMBIENT: hallway — fluorescent buzzing] [bed]
+
+[SFX: multiple people breathing in the hallway — controlled, deliberate] [under]
 
 RUNE (inner monologue): A woman. Tall. Severe. White clothing, pressed and immaculate, like she ironed it with certainty. Behind her, two figures — younger, dressed the same. The woman looks past me like I'm a door she hasn't finished opening yet.
 
 THESSA: God-eater. We have been looking for you.
 
-[SFX: behind Rune — the shadows in the apartment shift. The lamp flickers. The air thickens with heat]
+[SFX: ash-lamp-flicker — buzzing, straining] [under]
 
-RUNE (inner monologue): She looks at him the way you look at a disease.
+[DIRECTION: Ash's breathing shifts — deeper, slower, predatory. The ash-lamp-flicker SFX should intensify here]
 
-[SFX: the hum of the bond — not steady now. Agitated. Two frequencies colliding]
+RUNE (inner monologue): Her gaze passes through me and lands on Ash like a diagnosis.
+
+[SFX: bond-hum-agitated — two frequencies colliding] [under]
 
 RUNE (inner monologue): I don't step aside. I don't invite her in. My hand is still on the door and behind me the air smells like smoke and I am standing between a three-thousand-year-old institution and whatever Ash is and the only thought in my head is: *not him.*
 
-[beat]
-
 RUNE (inner monologue): Not him.
 
-[SFX: the bond. The shadows. The woman in white. The sound of something about to break]
+[SFX: bond-hum-agitated — rising tension. Lamp buzzing harder] [under]
+
+[DIRECTION: Rune's breathing is controlled, deliberate — bracing. Ash's is heated, rising. The air between them is charged]
+
+[SFX: lamp buzzing peaks, then cuts to silence] [spot]
 
 ---

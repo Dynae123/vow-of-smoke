@@ -13,7 +13,7 @@
 
 RUNE (inner monologue): Mrs. Petrakis. Eighty-three. Fell in the bathroom, possible hip fracture. Textbook call. Mika drives, I stabilize, we transport. I've done this a thousand times. My hands are steady. My vitals are good. The patient's vitals are good.
 
-[SFX: ambulance rear doors slamming shut. Two sets of footsteps on concrete] [spot]
+[SFX: ambulance rear doors slamming shut. Two sets of footsteps on concrete] [bridge]
 
 MIKA: Clean run. You want to do the handoff or should I?
 
@@ -35,7 +35,8 @@ RUNE: I'm fine. Stood up too fast.
 
 MIKA: You were already standing.
 
-[SFX: Mika's hand on his arm — firm, clinical grip. Assessing] [spot]
+[SFX: Mika's hand on his arm — firm, clinical grip] [spot]
+[DIRECTION: Assessing, not comforting]
 
 RUNE: Mika —
 
@@ -49,7 +50,8 @@ MIKA: How long.
 
 RUNE: A few days. It comes and goes.
 
-[SFX: Mika exhaling — controlled, the sound of someone choosing not to yell] [spot]
+[SFX: Mika exhaling — controlled, measured] [spot]
+[DIRECTION: Choosing not to yell]
 
 MIKA: Inside. Now. I'll do the handoff.
 
@@ -79,9 +81,9 @@ MIKA: I know about the gods. I know about the Meridian. I was at your kitchen ta
 
 [Silence — 2500ms]
 
-[SFX: Rune's fingers on the coffee cup — turning it. The plastic scrape of avoidance] [spot]
+[SFX: Rune's fingers on the coffee cup — turning it. Plastic scraping on table] [spot]
 
-RUNE (inner monologue): The word she used. Dying. She said it the way she says it on calls — clinical, direct, because the clinical word is easier to work with than the feeling behind it.
+RUNE (inner monologue): The word she used. Dying. She said it clinical and direct — the same register she uses on calls, because the clinical word is easier to work with than the feeling behind it.
 
 RUNE: The bond is parasitic.
 
@@ -97,7 +99,7 @@ RUNE: Week one.
 
 [SFX: Mika's chair shifting back — sharp, involuntary] [spot]
 
-MIKA: Week one. You've known for three weeks that this thing is killing you and you didn't —
+MIKA: Week one. You've known for twelve days that this thing is killing you and you didn't —
 
 RUNE: I didn't want to —
 
@@ -109,9 +111,10 @@ RUNE (inner monologue): She's not yelling. That's worse. Mika yelling I can hand
 
 MIKA (quieter): How fast is it happening?
 
-RUNE: Faster than they said. The god-keepers estimated months. It's been three weeks and I'm already —
+RUNE: Faster than they said. The god-keepers estimated months. It's been twelve days and I'm already —
 
-[SFX: Rune gesturing — sleeve pulling back. The bruises visible] [spot]
+[SFX: Rune gesturing — sleeve pulling back, fabric shifting] [spot]
+[DIRECTION: Rune's voice goes flat — showing, not telling. The admission costs him]
 
 MIKA: The bruises aren't impact bruises. They're spontaneous.
 
@@ -123,13 +126,11 @@ RUNE: Some. On my chest.
 
 MIKA (clinical mode, her voice dropping flat): Weight loss. Spontaneous bruising. Petechiae. Dizziness. Syncope in the field. Rune, that's not months. That's a coagulopathy pattern. That's —
 
-[Beat — 800ms]
-
-MIKA: Months, they said. It's been three weeks.
+MIKA: Months, they said. It's been twelve days.
 
 [SFX: clock ticking] [under]
 
-RUNE (inner monologue): The timeline is wrong. She sees it the way she sees a blood panel that doesn't match the presentation. The numbers don't add up. The deterioration is happening too fast and neither of us knows why.
+RUNE (inner monologue): The timeline is wrong. Her mind is already on it — a blood panel that doesn't match the presentation. The numbers don't add up. The deterioration is happening too fast and neither of us knows why.
 
 MIKA: Okay. So what do you need?
 
@@ -143,7 +144,8 @@ RUNE: Mika —
 
 MIKA: Non-negotiable. I'll draw it myself if I have to. We're going to get a baseline and we're going to track it and we're going to figure out what accelerated the timeline. That's the job.
 
-[SFX: Mika picking up her coffee. Drinking. Setting it down. The sound of someone who has made a decision] [spot]
+[SFX: Mika picking up her coffee. Drinking. Setting it down] [spot]
+[DIRECTION: She has made a decision]
 
 RUNE (inner monologue): She doesn't run. She doesn't call me crazy. She picks up her coffee and drinks it and behind her eyes I can see her building the triage protocol — assess, stabilize, monitor. The same thing she does for every patient. Except the patient is me.
 
@@ -199,8 +201,6 @@ ASH: You know nothing about what this is.
 
 KAYA: I have spent forty years studying the old gods. Their births, their lives, their deaths. I have stood in the ruins of temples that were old when Rome was young and I have read texts that describe the god-eater ritual in precise, unflinching detail. I know what was done to you because I have read the instructions.
 
-[Beat — 400ms]
-
 KAYA: And I have seen worse than you, god-eater. I have seen what happens when gods die angry. I held one in my arms while it happened.
 
 [SFX: ash-shadows settling — the temperature dropping back] [under]
@@ -221,7 +221,7 @@ KAYA: I visited every week. We could not speak — gods do not converse the way 
 
 KAYA: It gave me this. A fragment of its essence. A keepsake. So I would remember that it existed.
 
-[DIRECTION: Kaya holding the pendant in his palm. The first time Ash has seen grief in this man that isn't academic]
+[DIRECTION: Kaya's voice thins — the lecturing tone is gone. This is personal, unguarded. Ash registers the shift: quieter, less certain]
 
 ASH: You loved it.
 
@@ -231,17 +231,16 @@ KAYA: I held its hand while it died. Love seems inadequate and accurate in equal
 
 ASH (quieter): The fragments hurt because they are incomplete. A face without a name. Chains without a reason. A fire that felt like dying and also like being born. I do not resist your questions because I do not want answers. I resist because every fragment I recover reminds me that I was a person and that person is gone.
 
-[Beat — 800ms]
-
 KAYA: Then we have something in common. I study what I have lost and call it scholarship.
 
-[SFX: window traffic. Radiator. The silence between two people who understand grief differently] [under]
+[SFX: window traffic. Radiator] [under]
+[DIRECTION: Rune's delivery slows — each word measured, keeping emotion at arm's length. Ash matches the register, guarded but present]
 
 ---
 
 {Scene 4 — Rune's apartment. Evening. The phone call.}
 
-[AMBIENT: apartment evening — Rune alone, fridge hum, distant traffic, the quiet of a space waiting for someone to return] [bed]
+[AMBIENT: apartment evening — fridge hum, distant traffic, empty room quiet] [bed]
 
 [SFX: apartment door opening and closing — Rune entering. Keys on the counter. Jacket dropped] [spot]
 
@@ -249,7 +248,7 @@ RUNE (inner monologue): The apartment is empty. Ash is still at the university w
 
 [SFX: Rune sitting heavily — couch springs. A long exhale] [spot]
 
-RUNE (inner monologue): Mika's face in the break room. The way she counted symptoms like items on a checklist. Weight loss. Bruising. Petechiae. Syncope. She looked at me the way we look at the ones who aren't going to make it — not with pity, never pity, but with that clinical urgency that means *we are running out of time and I need you to let me work.*
+RUNE (inner monologue): Mika's face in the break room. Her voice counting symptoms like items on a checklist. Weight loss. Bruising. Petechiae. Syncope. She looked at me the way we look at the ones who aren't going to make it — not with pity, never pity, but with that clinical urgency that means *we are running out of time and I need you to let me work.*
 
 [SFX: phone buzzing on the kitchen counter — single vibration] [spot]
 
@@ -263,7 +262,7 @@ RUNE (inner monologue): Unknown number.
 
 RUNE: Hello?
 
-[SFX: distorted voice — processed, unrecognizable, calm. Not a recording — someone speaking in real time through heavy vocal processing] [spot]
+[SFX: distorted voice — processed, unrecognizable, calm. Real-time vocal processing, not pre-recorded] [spot]
 [DIRECTION: The Summoner's voice. Cold, deliberate, each word placed. Not threatening — informing]
 
 THE SUMMONER (distorted): The spring dies in two days. Your god-eater can stop it. Or he can feed. The choice has always been his.
@@ -272,23 +271,23 @@ THE SUMMONER (distorted): The spring dies in two days. Your god-eater can stop i
 
 RUNE: Who is this?
 
-THE SUMMONER (distorted): I gave him to you so you would soften him. Make him care. Make him vulnerable. Thank you for that, Rune.
+THE SUMMONER (distorted): Someone who knows what he is. And what you are. Two days, Rune. Bring him to the spring. Or don't. Either way, I get what I need.
 
 [SFX: line disconnecting — hard, final] [spot]
 
 [SFX: phone lowered. Rune's breathing — steady on the surface, controlled] [under]
 
-RUNE (inner monologue): I stand in my kitchen holding my phone and the sentence plays back. *I gave him to you.* Like a gift. Like a tool handed to the right technician. *So you would soften him.*
+RUNE (inner monologue): I stand in my kitchen holding my phone and the sentence loops. *Either way, I get what I need.* They know my name. They know about Ash. They know the spring is a trap and they're telling me anyway because the telling is part of it.
 
 [SFX: bond-hum-agitated — responding to Rune's spike of cold, specific dread] [under]
 
-RUNE (inner monologue): They know my name. They know about the bond. They planned this — not just the ritual, not just the awakening, but me. Rune Alessi, paramedic, trained to hold people together. Selected. Placed. Used.
+RUNE (inner monologue): They're not hiding. They're inviting. And the worst part isn't the threat — it's the confidence. Whoever this is, they've already accounted for every move we could make.
 
 [SFX: apartment door opening — Ash returning. His footsteps, heavier than usual] [spot]
 
 ASH: Rune.
 
-RUNE (inner monologue): He's in the doorway. I can feel him reading me through the bond — the agitation, the cold anger, the thing underneath both that I'm not ready to name.
+RUNE (inner monologue): He's in the doorway. The bond carries him into my chest — his agitation, his cold anger, the thing underneath both that I'm not ready to name.
 
 ASH: What happened.
 
@@ -298,23 +297,23 @@ RUNE: The summoner called.
 
 ASH: What did they say.
 
-RUNE: Two days. The spring. And they said — they said they gave you to me. That I was part of the plan. That making you care was the point.
-
-[Beat — 800ms]
+RUNE: Two days. The spring. They said you can stop the ritual or you can feed. And they said it doesn't matter which — either way, they get what they need.
 
 [SFX: bond-hum-surge — brief, hot, Ash's fury transmitted through the connection] [spot]
 
-ASH: They are wrong.
+ASH: They want me at the spring.
 
-RUNE: About what part?
+RUNE: Yeah. They're not even pretending it's not a trap.
 
-ASH: About the choice being mine. It was never mine. I did not choose the hunger. I did not choose the bond. I did not choose to care. But having done so, I will not let them use it.
+ASH: Then we do not pretend either. We go. And I do not feed.
 
-[SFX: bond tone settling — still agitated but resolving, the shared anger of two people pointed at the same target] [under]
+[SFX: bond tone settling — still agitated but resolving toward a shared register] [under]
+[DIRECTION: Both voices tighten — clipped, focused, the anger shared but controlled]
 
-RUNE (inner monologue): The summoner isn't hiding anymore. They're inviting us. Two days until the spring. And somewhere in this city, someone who selected me like a component and woke Ash like a weapon is watching us walk into exactly the shape they designed.
+RUNE (inner monologue): The summoner isn't hiding anymore. They're inviting us. Two days until the spring. And somewhere in this city, someone who knows both our names is waiting for us to walk into exactly the shape they designed.
 
-[SFX: the two mugs by the sink. The maps on the table. The bond humming between them — agitated, warm, alive] [bed, fade-out over episode end]
+[SFX: apartment settling — fridge hum, distant traffic, the maps rustling faintly on the table] [bed, fade-out over episode end]
+[DIRECTION: Rune's monologue is quiet, grounded — the voice of someone who has made a decision he can't take back]
 
 RUNE (inner monologue): Two days. And my blood doesn't clot right anymore and the summoner knows my name and the god-eater standing in my doorway is the most dangerous thing in the city and I would follow him into the ground.
 
